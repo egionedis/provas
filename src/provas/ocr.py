@@ -14,11 +14,11 @@ from openai import AzureOpenAI
 
 # ──────────────────────────────── CONFIG ──────────────────────────────── #
 # Use the same deployment name you configured in Azure
-MODEL_NAME: str = os.getenv("AZURE_OPENAI_DEPLOYMENT", "gpt-4o_dz-eu_2024-08-06")
+MODEL_NAME: str = os.getenv("LLM_VISION_MODEL", "gpt-4o_dz-eu_2024-08-06")
 
 IMG_TAG_REGEX = re.compile(r'!\[\]\((images/[^)]+)\)')
 
-VISION_PROMPT = r"""
+VISION_PROMPT = """
 Você é um assistente de visão encarregado de extrair **todos** os detalhes
 relevantes de qualquer imagem (foto, gráfico, diagrama, mapa, tabela ou texto).
 

@@ -12,6 +12,18 @@
         {
           "letter": "B",
           "text": "0"
+        },
+        {
+          "letter": "C",
+          "text": "3"
+        },
+        {
+          "letter": "D",
+          "text": "4"
+        },
+        {
+          "letter": "E",
+          "text": "5"
         }
       ],
       "images": []
@@ -223,14 +235,14 @@
         },
         {
           "letter": "E",
-          "text": "$2\\sqrt{5}$"
+          "text": "$2\\sqrt{5}$ ![](images/4b240d81567e5c64d2f93c70b550c4f0ecdb780da4d159b408e28cda11856a89.jpg) IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando duas circunferências tangentes entre si e a uma reta externa.; elementos=[circunferência menor, circunferência maior, reta, ponto A, ponto B, ponto P]; dados_chave=[r]; grandezas=[]; estrutura=[(circunferência menor↔circunferência maior), (circunferência menor↔reta), (circunferência maior↔reta)]; texto_detectado=[A, B, P, r] IMG_DESC_END # FísICA Atengao: em todas as questoes, as medioces sao feitas por um referencial inercial. O modulo da aceleracao gravitacional e representado por  $g$  . Quando for necessario, use  $g = 10m / s^2$  para o modulo da aceleracao gravitacional."
         }
       ],
       "images": []
     },
     {
       "number": 10,
-      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n![](images/2bda278ee9c72013f85873e53d4264a71b1e3d9d739f6d8f3676bba4e209bf74.jpg)\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico de aceleração em função do tempo com variação em degraus; elementos=[linha, eixo x, eixo y, setas, linhas pontilhadas]; dados_chave=[a (m/s²), t (s), 4.0, 2.0, 0, 10, 20, 30, 40, 50, 60, 70, 80, 90]; grandezas=[(a,4.0,m/s²),(a,2.0,m/s²)]; estrutura=[(0,10,0→4);(10,30,4);(30,40,4→2);(40,50,2);(50,60,2→0);(60,70,0→2);(70,80,2);(80,90,2→0)]; texto_detectado=[a (m/s²), t (s), 4.0, 2.0, 0] IMG_DESC_END\n\nConsiderando os dados expressos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente a intensidade  $F$  da força resultante aplicada sobre a particula no instante  $t = 30 \\text{s}$ .",
+      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n\nConsiderando os dados expressos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente a intensidade  $F$  da força resultante aplicada sobre a particula no instante  $t = 30 \\text{s}$ .",
       "alternatives": [
         {
           "letter": "A",
@@ -262,7 +274,7 @@
     },
     {
       "number": 11,
-      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n![](images/2bda278ee9c72013f85873e53d4264a71b1e3d9d739f6d8f3676bba4e209bf74.jpg)\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico de aceleração em função do tempo com variação em degraus; elementos=[linha, eixo x, eixo y, setas, linhas pontilhadas]; dados_chave=[a (m/s²), t (s), 4.0, 2.0, 0, 10, 20, 30, 40, 50, 60, 70, 80, 90]; grandezas=[(a,4.0,m/s²),(a,2.0,m/s²)]; estrutura=[(0,10,0→4);(10,30,4);(30,40,4→2);(40,50,2);(50,60,2→0);(60,70,0→2);(70,80,2);(80,90,2→0)]; texto_detectado=[a (m/s²), t (s), 4.0, 2.0, 0] IMG_DESC_END\n\nSabe- se que a velocidade do objeto no instante  $t = 40$  s vale  $v_{1} = 25 \\text{m / s}$ . Com base nos dados fornecidos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente a velocidade  $v_{2}$  do objeto no instante  $t = 50 \\text{s}$ .",
+      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n\nSabe- se que a velocidade do objeto no instante  $t = 40$  s vale  $v_{1} = 25 \\text{m / s}$ . Com base nos dados fornecidos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente a velocidade  $v_{2}$  do objeto no instante  $t = 50 \\text{s}$ .",
       "alternatives": [
         {
           "letter": "A",
@@ -294,7 +306,7 @@
     },
     {
       "number": 12,
-      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n![](images/2bda278ee9c72013f85873e53d4264a71b1e3d9d739f6d8f3676bba4e209bf74.jpg)\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico de aceleração em função do tempo com variação em degraus; elementos=[linha, eixo x, eixo y, setas, linhas pontilhadas]; dados_chave=[a (m/s²), t (s), 4.0, 2.0, 0, 10, 20, 30, 40, 50, 60, 70, 80, 90]; grandezas=[(a,4.0,m/s²),(a,2.0,m/s²)]; estrutura=[(0,10,0→4);(10,30,4);(30,40,4→2);(40,50,2);(50,60,2→0);(60,70,0→2);(70,80,2);(80,90,2→0)]; texto_detectado=[a (m/s²), t (s), 4.0, 2.0, 0] IMG_DESC_END\n\nConsiderando os dados fornecidos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente o valor do trabalho total  $W$  realizado sobre o objeto entre os instantes  $t = 60 \\text{s}$  e  $t = 70 \\text{s}$ .",
+      "full_text": "Um objeto de massa constante  $m = 0,2 \\text{kg}$  desloca- se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração  $a$  é medida em função do tempo  $t$ , obtendo- se, então, o gráfico a seguir:\n\n\nConsiderando os dados fornecidos no enunciado e no gráfico, assimale a alternativa que apresenta corretamente o valor do trabalho total  $W$  realizado sobre o objeto entre os instantes  $t = 60 \\text{s}$  e  $t = 70 \\text{s}$ .",
       "alternatives": [
         {
           "letter": "A",
@@ -407,11 +419,27 @@
     },
     {
       "number": 16,
-      "full_text": "Uma dada quantidade de gas ideal executa o processo termodinamico apresentado no grafico a seguir, iniciando no ponto A e terminando no ponto  $B$ :\n\n![](images/bd87c0c49065ed8de2849495fff1cc25ea17ea5783da2791a986ddf09da0151d.jpg)\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra a relação entre pressão e volume com dois pontos principais A e B.; elementos=[ponto A, ponto B, eixo P, eixo V, seta]; dados_chave=[P(kPa), V(m³), 0, 20, 40, 60, 80, 1.0, 2.0, 3.0]; grandezas=[(P,80,kPa),(V,1.0,m³),(P,40,kPa),(V,3.0,m³)]; estrutura=[(1.0,80);(3.0,40)]; texto_detectado=[P(kPa), V(m³), A, B] IMG_DESC_END\n\nConsidere que a temperatura do gas no ponto A vale  $T_{A}$ , e a temperatura no ponto  $B$  vale  $T_{B}$ . Com base nas informacoes fornecidas no enunciado e no grafico, assinale a alternativa que apresenta correlatamente o valor da razão  $\\frac{T_{B}}{T_{A}}$  entre as temperaturas dos pontos  $B$  e  $A$ .",
+      "full_text": "Uma dada quantidade de gas ideal executa o processo termodinamico apresentado no grafico a seguir, iniciando no ponto A e terminando no ponto  $B$ :\n\n\nConsidere que a temperatura do gas no ponto A vale  $T_{A}$ , e a temperatura no ponto  $B$  vale  $T_{B}$ . Com base nas informacoes fornecidas no enunciado e no grafico, assinale a alternativa que apresenta correlatamente o valor da razão  $\\frac{T_{B}}{T_{A}}$  entre as temperaturas dos pontos  $B$  e  $A$ .",
       "alternatives": [
         {
           "letter": "A",
           "text": "$\\begin{array}{r}\\frac{T_B}{T_A} = \\frac{3}{4}\\\\ \\frac{T_B}{T_A} = \\frac{4}{3}\\\\ \\frac{T_B}{T_A} = \\frac{2}{3}\\\\ \\frac{T_B}{T_A} = \\frac{1}{2}\\\\ \\frac{T_B}{T_A} = \\frac{3}{2} \\end{array}$"
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": ""
         }
       ],
       "images": [
@@ -423,7 +451,7 @@
     },
     {
       "number": 17,
-      "full_text": "Uma dada quantidade de gas ideal executa o processo termodinamico apresentado no grafico a seguir, iniciando no ponto A e terminando no ponto  $B$ :\n\n![](images/bd87c0c49065ed8de2849495fff1cc25ea17ea5783da2791a986ddf09da0151d.jpg)\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra a relação entre pressão e volume com dois pontos principais A e B.; elementos=[ponto A, ponto B, eixo P, eixo V, seta]; dados_chave=[P(kPa), V(m³), 0, 20, 40, 60, 80, 1.0, 2.0, 3.0]; grandezas=[(P,80,kPa),(V,1.0,m³),(P,40,kPa),(V,3.0,m³)]; estrutura=[(1.0,80);(3.0,40)]; texto_detectado=[P(kPa), V(m³), A, B] IMG_DESC_END\n\nConsiderando os dados fornecidos no enunciado e no grafico, assinale a alternativa que apresenta correlatamente o valor do trabalho  $W$  realizado pelo gas no processo  $AB$ .",
+      "full_text": "Uma dada quantidade de gas ideal executa o processo termodinamico apresentado no grafico a seguir, iniciando no ponto A e terminando no ponto  $B$ :\n\n\nConsiderando os dados fornecidos no enunciado e no grafico, assinale a alternativa que apresenta correlatamente o valor do trabalho  $W$  realizado pelo gas no processo  $AB$ .",
       "alternatives": [
         {
           "letter": "A",
@@ -475,7 +503,7 @@
         },
         {
           "letter": "E",
-          "text": "$p' = +12,0$  cm"
+          "text": "$p' = +12,0$  cm # QUIMICA"
         }
       ],
       "images": []
@@ -590,7 +618,7 @@
     },
     {
       "number": 23,
-      "full_text": "Em quimica organica, o concato de hibridizcao (ou hibridacao) de orbitais atomicos e amplamente utilizado em fungao dos angulos de ligaao dos compostos de carbono. Na figura a seguir, esta uma representacao espacial do diclorometano  $(CH_2Cl_2)$  que assume uma geometria tetragonal (hibridizcao  $\\mathsf{sp}^3$  ) ao redor do atomo central, o carbono.\n\n![](images/883a987b6d99b3a6132c7bdc9389725879e25a20751c5e7bfa8bcf2431d7c134.jpg)  \nIMG_DESC_START : tipo=diagrama; resumo=Diagrama de estrutura molecular mostrando átomos de hidrogênio e cloro ligados a um átomo central de carbono.; elementos=[átomo de carbono, átomos de hidrogênio, átomos de cloro, ligações químicas]; dados_chave=[H, C, Cl]; grandezas=[]; estrutura=[(C↔H), (C↔H), (C↔Cl), (C↔Cl)]; texto_detectado=[H, C, Cl] IMG_DESC_END\nDiclorometano\n\nConsiderando as informacoes presentadas, qual e o valor de angulo, para a molecula do diclorometano, entre as ligaoes H- C- H que mais se aproxima do observado experimentalmente?",
+      "full_text": "Em quimica organica, o concato de hibridizcao (ou hibridacao) de orbitais atomicos e amplamente utilizado em fungao dos angulos de ligaao dos compostos de carbono. Na figura a seguir, esta uma representacao espacial do diclorometano  $(CH_2Cl_2)$  que assume uma geometria tetragonal (hibridizcao  $\\mathsf{sp}^3$  ) ao redor do atomo central, o carbono.\n\nDiclorometano\n\nConsiderando as informacoes presentadas, qual e o valor de angulo, para a molecula do diclorometano, entre as ligaoes H- C- H que mais se aproxima do observado experimentalmente?",
       "alternatives": [
         {
           "letter": "A",
@@ -645,8 +673,12 @@
     },
     {
       "number": 25,
-      "full_text": "Na busca por combustiveis menos danosos ao meio ambiente, a amonia (NH3) bem sido considerada uma possivel alternativa. Sua combustao no motor nao libera gas carbonico para a atmosfera o produz bastante calor, como mostra a Reacao 1:\n\n$$\n4\\mathsf{NH}_3 + 3\\mathsf{O}_2\\rightarrow 2\\mathsf{N}_2 + 6\\mathsf{H}_2\\mathsf{O}\\qquad \\Delta H_1 = -1268\\mathsf{kJ}(\\mathsf{Reagao}1)\n$$\n\nEntretanto, a adocao da amonia encontra varios obstaculos tencios, como o fato de sua combustao tambem produzir oxidos de nitrogeno altamente oxicos. A producao do oxido de nitrogeno mais simples (NO) e mostrada na Reacao 2:\n\n$$\n4\\mathsf{NH}_3 + 5\\mathsf{O}_2\\rightarrow 4\\mathsf{NO} + 6\\mathsf{H}_2\\mathsf{O}\\qquad \\Delta H_2 = -904\\mathsf{kJ}(\\mathsf{Reagao}2)\n$$\n\nPor outro lado, o oxido de nitrogeno e produzido por qualquer motor de combustao interna a partir do nitrogeno atmosferico, como mostra a Reacao 3:\n\n$$\n\\mathsf{N}_2 + \\mathsf{O}_2\\rightarrow 2\\mathsf{NO}\\qquad \\Delta H_3 = \\mathsf{?}\\qquad (\\mathsf{Reagao}3) \\tag{Reagao 3}\n$$\n\nUtilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variacao da entalpia da Reacao 3  $(\\Delta H_3)$  ,em kJ.\n\nA)182",
+      "full_text": "Na busca por combustiveis menos danosos ao meio ambiente, a amonia (NH3) bem sido considerada uma possivel alternativa. Sua combustao no motor nao libera gas carbonico para a atmosfera o produz bastante calor, como mostra a Reacao 1:\n\n$$\n4\\mathsf{NH}_3 + 3\\mathsf{O}_2\\rightarrow 2\\mathsf{N}_2 + 6\\mathsf{H}_2\\mathsf{O}\\qquad \\Delta H_1 = -1268\\mathsf{kJ}(\\mathsf{Reagao}1)\n$$\n\nEntretanto, a adocao da amonia encontra varios obstaculos tencios, como o fato de sua combustao tambem produzir oxidos de nitrogeno altamente oxicos. A producao do oxido de nitrogeno mais simples (NO) e mostrada na Reacao 2:\n\n$$\n4\\mathsf{NH}_3 + 5\\mathsf{O}_2\\rightarrow 4\\mathsf{NO} + 6\\mathsf{H}_2\\mathsf{O}\\qquad \\Delta H_2 = -904\\mathsf{kJ}(\\mathsf{Reagao}2)\n$$\n\nPor outro lado, o oxido de nitrogeno e produzido por qualquer motor de combustao interna a partir do nitrogeno atmosferico, como mostra a Reacao 3:\n\n$$\n\\mathsf{N}_2 + \\mathsf{O}_2\\rightarrow 2\\mathsf{NO}\\qquad \\Delta H_3 = \\mathsf{?}\\qquad (\\mathsf{Reagao}3) \\tag{Reagao 3}\n$$\n\nUtilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variacao da entalpia da Reacao 3  $(\\Delta H_3)$  ,em kJ.",
       "alternatives": [
+        {
+          "letter": "A",
+          "text": "182"
+        },
         {
           "letter": "B",
           "text": "364"
@@ -677,6 +709,18 @@
         {
           "letter": "B",
           "text": "Acetileno"
+        },
+        {
+          "letter": "C",
+          "text": "Acido cloroacetico"
+        },
+        {
+          "letter": "D",
+          "text": "Anidrido acetico"
+        },
+        {
+          "letter": "E",
+          "text": "Cloreto de acetila"
         }
       ],
       "images": []
@@ -703,7 +747,7 @@
         },
         {
           "letter": "E",
-          "text": "2"
+          "text": "2 # BIOLOGIA"
         }
       ],
       "images": []
@@ -946,14 +990,14 @@
         },
         {
           "letter": "E",
-          "text": "9/16"
+          "text": "9/16 # GEOGRAFIA"
         }
       ],
       "images": []
     },
     {
       "number": 37,
-      "full_text": "\"O capitalismo é um sistema económico que, desde sua origem, foi se expandindo económico e territorialmente: primeiro foi o colonialismo, depois o imperialismo e, nos dias utuais, a globalização. [...] Considerando seu processo de desenvolvimento, costuma- se dividir o capitalismo em quatro etapas: comercial, industrial, financeira e informational.\"\n\nMoreira, J. C.; Sene, E. Geografia: ensino médio. São Paulo: Scipione, 2018. p. 278. (Projeto Multiplo, Parte 2)\n\nCom base no excerto apresentado nos conhecimentos sobre o assunto, assinate a alternativa correta a respeito dos processos de expansão e desenvolvimento do capitalismo mencionados.",
+      "full_text": "\"O capitalismo é um sistema económico que, desde sua origem, foi se expandindo económico e territorialmente: primeiro foi o colonialismo, depois o imperialismo e, nos dias utuais, a globalização. [...] Considerando seu processo de desenvolvimento, costuma- se dividir o capitalismo em quatro etapas: comercial, industrial, financeira e informational.\"\n\n\nCom base no excerto apresentado nos conhecimentos sobre o assunto, assinate a alternativa correta a respeito dos processos de expansão e desenvolvimento do capitalismo mencionados.",
       "alternatives": [
         {
           "letter": "A",
@@ -1115,7 +1159,7 @@
     },
     {
       "number": 43,
-      "full_text": "\"No Egito, em 1960,  $30\\%$  de todas as crianças morriam antes do quinto aniversário. O delta do rio [Nilo] era uma miséria para as crianças, com todo tipo de doengas graves e subnutrição. Então [...] os egipcios construíram a represa de Aswan, levaram plotrioides às cestas das pessoas, melhararam e edusocão, construíram um sistema de assistência médica, primária, erradicaram a malária e tomaram a água potável. Hoje, a taxa de mortalidade infantil do Egito,  $2,3\\%$  , é menor do que era na França ou no Reino Unido em 1960.\"\n\nRosling, H. Factfulness: abóbito libertador de só ter opiniões baseadas em fatos. 2. ed. Rio de Janeiro; São Paulo: Record, 2019. p. 102.\n\n# Sobre os fatores que afetam as mudanças expressas nos indicadores de qualidade de vida, assinale a alternativa correta.",
+      "full_text": "\"No Egito, em 1960,  $30\\%$  de todas as crianças morriam antes do quinto aniversário. O delta do rio [Nilo] era uma miséria para as crianças, com todo tipo de doengas graves e subnutrição. Então [...] os egipcios construíram a represa de Aswan, levaram plotrioides às cestas das pessoas, melhararam e edusocão, construíram um sistema de assistência médica, primária, erradicaram a malária e tomaram a água potável. Hoje, a taxa de mortalidade infantil do Egito,  $2,3\\%$  , é menor do que era na França ou no Reino Unido em 1960.\"\n\n\n# Sobre os fatores que afetam as mudanças expressas nos indicadores de qualidade de vida, assinale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
@@ -1189,7 +1233,7 @@
         },
         {
           "letter": "E",
-          "text": "A construção de Brasília cumpriu o objetivo de reduzir a concentração popularacional nos estados litorâneos, pois induziu a migração de população para os estados interiores."
+          "text": "A construção de Brasília cumpriu o objetivo de reduzir a concentração popularacional nos estados litorâneos, pois induziu a migração de população para os estados interiores. # HISTORIA"
         }
       ],
       "images": []
@@ -1223,7 +1267,7 @@
     },
     {
       "number": 47,
-      "full_text": "Leia o excerto a seguir:\n\n# O Império integrava suas populações?\n\nO Império, embora fundado nas cidades, abriu suas fronteiras internas e permitiu uma circulação mais intensa de pessoas, de creditos, de objetos, de influências culturais [...] O Império, contudo, nunca foi um todo homogêneo. Era possível ser romano de várias maneiras em toda a sua extensão territorial. Isso valia para a religião, para aspectos da cultura material — como habitações, vestuários, modos de experimento —, ou para a língua do dia a dia.\n\nGuarinello, N. L. História Antiga. São Paulo: Editora Contexto, 2016. p. 158. Adaptado.\n\nO trecho aborda a pluralidade do contexto social e politico do Império Romano. Com base no texto e nos conhecimentos de História Antiga, asynale a alternativa que apresenta duas características responsáveis por essa pluralidade identitária.",
+      "full_text": "Leia o excerto a seguir:\n\n# O Império integrava suas populações?\n\n\n\nO trecho aborda a pluralidade do contexto social e politico do Império Romano. Com base no texto e nos conhecimentos de História Antiga, asynale a alternativa que apresenta duas características responsáveis por essa pluralidade identitária.",
       "alternatives": [
         {
           "letter": "A",
@@ -1250,7 +1294,7 @@
     },
     {
       "number": 48,
-      "full_text": "Considere o excerto abaixo:\n\nA nossa compreensão do periodo que vai de Filipe, o Belo a Henrique IV ficaria muito facilitada se fossem suprimidos dos livros de História dois temos solidários e solidariamente inexatos: \"Idade Média\" e \"Renascimento\". Com isso se abandonaria todo um conjunto de preconceitos. Ficar- se- ia, especialmente, livre da ideia de ter havido um corte brusco que veio separar uma época de luz de um periodo de trevas.\n\nDelumeau, J. A Civilização do Renascimento. Lisboa: Editora Estampa, 1994. p. 19. v. 1. Adaptado.\n\nNo trecho, o historiador Jean Delumeau aponta que uma separação bem demarcada entre o período medieval e o período renascentista é fruto de analises historiográficas posteriores, e não necessariamente dos processos históricos ocorridos entre os séculos XIV e XVI. Com base no texto e nos conhecimentos sobre História Moderna, assinale a alternativa que apresenta corretamente um elemento de continuidade entre os períodos.",
+      "full_text": "Considere o excerto abaixo:\n\nA nossa compreensão do periodo que vai de Filipe, o Belo a Henrique IV ficaria muito facilitada se fossem suprimidos dos livros de História dois temos solidários e solidariamente inexatos: \"Idade Média\" e \"Renascimento\". Com isso se abandonaria todo um conjunto de preconceitos. Ficar- se- ia, especialmente, livre da ideia de ter havido um corte brusco que veio separar uma época de luz de um periodo de trevas.\n\n\nNo trecho, o historiador Jean Delumeau aponta que uma separação bem demarcada entre o período medieval e o período renascentista é fruto de analises historiográficas posteriores, e não necessariamente dos processos históricos ocorridos entre os séculos XIV e XVI. Com base no texto e nos conhecimentos sobre História Moderna, assinale a alternativa que apresenta corretamente um elemento de continuidade entre os períodos.",
       "alternatives": [
         {
           "letter": "A",
@@ -1358,7 +1402,7 @@
     },
     {
       "number": 52,
-      "full_text": "Leia o excerto a seguir:\n\nO governo de Sua Majestade encara favoravelmente o estabelecimento, na Palestina, de um Lar Nacional para o Povo Judeu e empregará todos os seus esforços do sentido de facilitar a realização desse objetivo, entendendo- se claramente que nada sera feito que possa atentar contra os direitos civis e religiosos das coletividades não judaicas existentes na Palestina, nem contra os direitos e o estatuto politico de que gozam os judeus em qualquer outro país.\n\nDisponível em: https://imagesonline.bl.uk/asset/2781. Adaptado.\n\nO texto apresentado foi retirado de um documento público conhecido como Declaração de Balfour, que consiste em uma carta escrita pelo secretário britânico dos Assuntos Estrangeiros, Arthur Balfour, para o lider da comunidade judaica no Reino Unido, Lionel Rothschild, em 1917. Considerada um indicativo importante para a formação de um Estado Judeu no Oriente Médio, o contexto histórico e político da Declaração pode ser identificado como:",
+      "full_text": "Leia o excerto a seguir:\n\nO governo de Sua Majestade encara favoravelmente o estabelecimento, na Palestina, de um Lar Nacional para o Povo Judeu e empregará todos os seus esforços do sentido de facilitar a realização desse objetivo, entendendo- se claramente que nada sera feito que possa atentar contra os direitos civis e religiosos das coletividades não judaicas existentes na Palestina, nem contra os direitos e o estatuto politico de que gozam os judeus em qualquer outro país.\n\n\nO texto apresentado foi retirado de um documento público conhecido como Declaração de Balfour, que consiste em uma carta escrita pelo secretário britânico dos Assuntos Estrangeiros, Arthur Balfour, para o lider da comunidade judaica no Reino Unido, Lionel Rothschild, em 1917. Considerada um indicativo importante para a formação de um Estado Judeu no Oriente Médio, o contexto histórico e político da Declaração pode ser identificado como:",
       "alternatives": [
         {
           "letter": "A",
@@ -1385,7 +1429,7 @@
     },
     {
       "number": 53,
-      "full_text": "Leia o excerto a seguir:\n\n[...] ninguém coloniza inocentemente, ninguém coloniza impunemente; uma nação colonizadora, uma civilização que justifica a colonização - portanto a fora - ja é uma civilização doente, uma civilização moralmente atingida [...]. Colonização: uma cabeça de ponte, em uma civilização, da barbória que, a qualquer momento, pode levar à jour e simples negação da civilização.\n\nCésaire, A. Discuso sobre o Colonialismo. São Paulo: Veneta, 2020. p. 21. Adaptado.\n\nEsse texto, publicado originalmente por Aimé Césaire em 1950, denuncia as violências do colonialismo europeu e seus efeitos morais tanto para o mundo colonizado quanto para a Europa. A respeito do colonialismo europeu na Africa e seu legado para o continente no século XX, assinale a alternativa correta.",
+      "full_text": "Leia o excerto a seguir:\n\n[...] ninguém coloniza inocentemente, ninguém coloniza impunemente; uma nação colonizadora, uma civilização que justifica a colonização - portanto a fora - ja é uma civilização doente, uma civilização moralmente atingida [...]. Colonização: uma cabeça de ponte, em uma civilização, da barbória que, a qualquer momento, pode levar à jour e simples negação da civilização.\n\n\nEsse texto, publicado originalmente por Aimé Césaire em 1950, denuncia as violências do colonialismo europeu e seus efeitos morais tanto para o mundo colonizado quanto para a Europa. A respeito do colonialismo europeu na Africa e seu legado para o continente no século XX, assinale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
@@ -1432,14 +1476,14 @@
         },
         {
           "letter": "E",
-          "text": "Os países sul-americanos sob ditadura militar eram apoiados pelos Estados Unidos, o que fazia da existência de projetos nacionalistas de soberania energética uma ameaça aos interesses norte-americanos, tornando Itaipu, portanto, uma exceção dentro do contexto ditorial brasileiro."
+          "text": "Os países sul-americanos sob ditadura militar eram apoiados pelos Estados Unidos, o que fazia da existência de projetos nacionalistas de soberania energética uma ameaça aos interesses norte-americanos, tornando Itaipu, portanto, uma exceção dentro do contexto ditorial brasileiro. # LÍNGUA PORTUGUESA"
         }
       ],
       "images": []
     },
     {
       "number": 55,
-      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\nDisponível em: https://www.geledes.org.br/tragedia- no- rs- apaga- pessoas- negras- e- escancara- racismo- ambiental. Adaptado.\n\nAssinale a alternativa que indica expressões do texto com significados convergentes.",
+      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\n\nAssinale a alternativa que indica expressões do texto com significados convergentes.",
       "alternatives": [
         {
           "letter": "A",
@@ -1466,7 +1510,7 @@
     },
     {
       "number": 56,
-      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\nDisponível em: https://www.geledes.org.br/tragedia- no- rs- apaga- pessoas- negras- e- escancara- racismo- ambiental. Adaptado.\n\nAssinale a alternativa que sintetiza a tese central do texto.",
+      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\n\nAssinale a alternativa que sintetiza a tese central do texto.",
       "alternatives": [
         {
           "letter": "A",
@@ -1493,7 +1537,7 @@
     },
     {
       "number": 57,
-      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\nDisponível em: https://www.geledes.org.br/tragedia- no- rs- apaga- pessoas- negras- e- escancara- racismo- ambiental. Adaptado.\n\nConsidere as seguintes afirmativas:\n\n1. As condições sociais da periferia de Porto Alegre foram a principal causa das enchentes. \n2. A população negra do Rio Grande do Sul forma a maior parte da população do estado. \n3. A reconstrução humana e justa do Rio Grande do Sul poderá combater o racismo ambiental. \n4. O autor do texto não sabia que havia negros no Rio Grande do Sul.\n\nAssinale a alternativa correta.",
+      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\n\nConsidere as seguintes afirmativas:\n\n1. As condições sociais da periferia de Porto Alegre foram a principal causa das enchentes. \n2. A população negra do Rio Grande do Sul forma a maior parte da população do estado. \n3. A reconstrução humana e justa do Rio Grande do Sul poderá combater o racismo ambiental. \n4. O autor do texto não sabia que havia negros no Rio Grande do Sul.\n\nAssinale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
@@ -1520,7 +1564,7 @@
     },
     {
       "number": 58,
-      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\nDisponível em: https://www.geledes.org.br/tragedia- no- rs- apaga- pessoas- negras- e- escancara- racismo- ambiental. Adaptado.\n\nAssinale a alternativa que sintetiza a experiência relatada em primeira pessoa, no primeiro paragrafo.",
+      "full_text": "# Tragédia no RS apaga pessoas negras e escancara racismo ambiental\n\nNo inficio dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitario. Lembro que na época eu causei espanto em alguns participantes acdizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\n\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embraquecimento e apagamento das comunidades negras no estado. Um projeto bem- sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\n\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alema, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\n\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se colocou aqui é a supervalorização dessa cultura e o apagamento de outras.\n\nSegundo dados do proprio governo do estado, o Rio Grande do Sul tem uma população negra de  $21\\%$ . Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baiços e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eligibleo foi eleita a primeira bancada negra de Porto Alegre.\n\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica.\n\nPortanto, são comunidades interias pertencentes a uma classe operária, que ocupan áreas de risco e que estão propensas a serem as primeiras vítimas das catástrores climáticas.\n\nNão se pode falar em reconstrução de um estado sem levar em consideração os efetitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indigenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\n\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\n\n\nAssinale a alternativa que sintetiza a experiência relatada em primeira pessoa, no primeiro paragrafo.",
       "alternatives": [
         {
           "letter": "A",
@@ -1547,7 +1591,7 @@
     },
     {
       "number": 59,
-      "full_text": "Leia os quadrinhos abaixo:\n\n![](images/978131d4e24d70f8ff689df784782ee4c71be4818501d889431140b78a3ee703.jpg)\nIMG_DESC_START : tipo=diagrama; resumo=Três quadros humorísticos com trocadilhos sobre cestas, sestas e sextas.; elementos=[menino, cachorro, sofá, cesta, pernas de adulto]; dados_chave=[email:booklitartes@gmail.com]; grandezas=[]; estrutura=[(menino↔cesta);(menino↔sofá);(menino↔pernas de adulto)]; texto_detectado=[ADORAMOS CESTAS..., ADORAMOS SESTAS..., ...ADORAMOS SEXTAS!] IMG_DESC_END\n\nDisponivel em: https://www.instagram.com/tirinhadearmandinho.\n\nAssinale a alternativa que aponta o fenômeno linguistico que provoca humor nesses quadrinhos.",
+      "full_text": "Leia os quadrinhos abaixo:\n\n\n\nAssinale a alternativa que aponta o fenômeno linguistico que provoca humor nesses quadrinhos.",
       "alternatives": [
         {
           "letter": "A",
@@ -1575,7 +1619,7 @@
     },
     {
       "number": 60,
-      "full_text": "# Entenda os juros\n\nJuros sao o valor do dinheiro no tempo. Os seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras institucoes financeiras fazem a intermediacao entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se voce e um pupador/investidor, o dinheiro que voce aplicou na institucao financeira sera emprestado ao tomador/devedor, que pagar o valor, mais jurors ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneracao e devolve a voce a quantia com jurors no momento futuro, conforme combinado.\n\nO tomador vai devolver ao banco um valor superior ao que tomou emprestado e o pupador vai receber um montante maior do que o investido.\n\n# Taxa de jurors\n\nE o preco do \"aluguel\" do dinheiro por um periodo de tempo; percentual calculado pela divisao dos jurors contratados pelo capital emprestado/poupado.\n\nSe os jurors cobrados pelo emprestimo de  $\\mathbb{R}\\mathbb{S}1.000$  durante um ano forem  $\\mathbb{R}\\mathbb{S}\\mathbb{80}$  , significa que o tomador pagou uma taxa de jurors de  $8\\%$  a.a. (ao ano). O calculo e feito da sequinte forma: jurors/capital, ou seja  $80 / 1.000 = 8 / 100$  por ano  $= 8\\%$  a.a.\n\nPor outro lado, considero cenario em que um investimento de  $\\mathbb{R}\\mathbb{S}$  1.000 renda a taxa de jurors de  $5\\%$  a.a. (ao ano). Assim, o investidor recebera  $\\mathbb{R}\\mathbb{S}\\mathbb{5}$  por cada  $\\mathbb{R}\\mathbb{S}100$  investidos (5/100) durante um ano, o que, ao final do periodo, totalizar a montante de  $\\mathbb{R}\\mathbb{S}1.050$\n\nDisponivel em: https://www.bcb.gov.br/cidadaniafinanceira/entendajuro.\n\nConsidere as seguintes afirmativas:\n\n1. As institucoes financeiras atuam no meio do processo entre o investidor e o devedor.  \n2. O devedor e o participante que sai lucrando no processo de emprestimo de dinheiro dos bancos.  \n3. A taxa de jurors define o valor da administracao bancaria na gestao de investimentos financeiros.  \n4. O valor dos jurors pago pelo devedor e igual ao valor lucrado pelo investidor.\n\nAssinale a alternativa correta.",
+      "full_text": "# Entenda os juros\n\nJuros sao o valor do dinheiro no tempo. Os seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras institucoes financeiras fazem a intermediacao entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se voce e um pupador/investidor, o dinheiro que voce aplicou na institucao financeira sera emprestado ao tomador/devedor, que pagar o valor, mais jurors ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneracao e devolve a voce a quantia com jurors no momento futuro, conforme combinado.\n\nO tomador vai devolver ao banco um valor superior ao que tomou emprestado e o pupador vai receber um montante maior do que o investido.\n\n# Taxa de jurors\n\nE o preco do \"aluguel\" do dinheiro por um periodo de tempo; percentual calculado pela divisao dos jurors contratados pelo capital emprestado/poupado.\n\nSe os jurors cobrados pelo emprestimo de  $\\mathbb{R}\\mathbb{S}1.000$  durante um ano forem  $\\mathbb{R}\\mathbb{S}\\mathbb{80}$  , significa que o tomador pagou uma taxa de jurors de  $8\\%$  a.a. (ao ano). O calculo e feito da sequinte forma: jurors/capital, ou seja  $80 / 1.000 = 8 / 100$  por ano  $= 8\\%$  a.a.\n\nPor outro lado, considero cenario em que um investimento de  $\\mathbb{R}\\mathbb{S}$  1.000 renda a taxa de jurors de  $5\\%$  a.a. (ao ano). Assim, o investidor recebera  $\\mathbb{R}\\mathbb{S}\\mathbb{5}$  por cada  $\\mathbb{R}\\mathbb{S}100$  investidos (5/100) durante um ano, o que, ao final do periodo, totalizar a montante de  $\\mathbb{R}\\mathbb{S}1.050$\n\n\nConsidere as seguintes afirmativas:\n\n1. As institucoes financeiras atuam no meio do processo entre o investidor e o devedor.  \n2. O devedor e o participante que sai lucrando no processo de emprestimo de dinheiro dos bancos.  \n3. A taxa de jurors define o valor da administracao bancaria na gestao de investimentos financeiros.  \n4. O valor dos jurors pago pelo devedor e igual ao valor lucrado pelo investidor.\n\nAssinale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
@@ -1602,7 +1646,7 @@
     },
     {
       "number": 61,
-      "full_text": "# Entenda os juros\n\nJuros sao o valor do dinheiro no tempo. Os seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras institucoes financeiras fazem a intermediacao entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se voce e um pupador/investidor, o dinheiro que voce aplicou na institucao financeira sera emprestado ao tomador/devedor, que pagar o valor, mais jurors ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneracao e devolve a voce a quantia com jurors no momento futuro, conforme combinado.\n\nO tomador vai devolver ao banco um valor superior ao que tomou emprestado e o pupador vai receber um montante maior do que o investido.\n\n# Taxa de jurors\n\nE o preco do \"aluguel\" do dinheiro por um periodo de tempo; percentual calculado pela divisao dos jurors contratados pelo capital emprestado/poupado.\n\nSe os jurors cobrados pelo emprestimo de  $\\mathbb{R}\\mathbb{S}1.000$  durante um ano forem  $\\mathbb{R}\\mathbb{S}\\mathbb{80}$  , significa que o tomador pagou uma taxa de jurors de  $8\\%$  a.a. (ao ano). O calculo e feito da sequinte forma: jurors/capital, ou seja  $80 / 1.000 = 8 / 100$  por ano  $= 8\\%$  a.a.\n\nPor outro lado, considero cenario em que um investimento de  $\\mathbb{R}\\mathbb{S}$  1.000 renda a taxa de jurors de  $5\\%$  a.a. (ao ano). Assim, o investidor recebera  $\\mathbb{R}\\mathbb{S}\\mathbb{5}$  por cada  $\\mathbb{R}\\mathbb{S}100$  investidos (5/100) durante um ano, o que, ao final do periodo, totalizar a montante de  $\\mathbb{R}\\mathbb{S}1.050$\n\nDisponivel em: https://www.bcb.gov.br/cidadaniafinanceira/entendajuro.\n\nAnalise a seguinte situação:\n\nVocê investiu  $\\mathbb{R}\\mathbb{S}$  3.500,00 em uma institução financeira, com uma taxa de juros de  $8\\%$  ao ano.\n\nAssinale a alternativa que define o valor do lucro após um ano.",
+      "full_text": "# Entenda os juros\n\nJuros sao o valor do dinheiro no tempo. Os seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras institucoes financeiras fazem a intermediacao entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se voce e um pupador/investidor, o dinheiro que voce aplicou na institucao financeira sera emprestado ao tomador/devedor, que pagar o valor, mais jurors ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneracao e devolve a voce a quantia com jurors no momento futuro, conforme combinado.\n\nO tomador vai devolver ao banco um valor superior ao que tomou emprestado e o pupador vai receber um montante maior do que o investido.\n\n# Taxa de jurors\n\nE o preco do \"aluguel\" do dinheiro por um periodo de tempo; percentual calculado pela divisao dos jurors contratados pelo capital emprestado/poupado.\n\nSe os jurors cobrados pelo emprestimo de  $\\mathbb{R}\\mathbb{S}1.000$  durante um ano forem  $\\mathbb{R}\\mathbb{S}\\mathbb{80}$  , significa que o tomador pagou uma taxa de jurors de  $8\\%$  a.a. (ao ano). O calculo e feito da sequinte forma: jurors/capital, ou seja  $80 / 1.000 = 8 / 100$  por ano  $= 8\\%$  a.a.\n\nPor outro lado, considero cenario em que um investimento de  $\\mathbb{R}\\mathbb{S}$  1.000 renda a taxa de jurors de  $5\\%$  a.a. (ao ano). Assim, o investidor recebera  $\\mathbb{R}\\mathbb{S}\\mathbb{5}$  por cada  $\\mathbb{R}\\mathbb{S}100$  investidos (5/100) durante um ano, o que, ao final do periodo, totalizar a montante de  $\\mathbb{R}\\mathbb{S}1.050$\n\n\nAnalise a seguinte situação:\n\nVocê investiu  $\\mathbb{R}\\mathbb{S}$  3.500,00 em uma institução financeira, com uma taxa de juros de  $8\\%$  ao ano.\n\nAssinale a alternativa que define o valor do lucro após um ano.",
       "alternatives": [
         {
           "letter": "A",
@@ -1667,7 +1711,7 @@
     },
     {
       "number": 64,
-      "full_text": "Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.\n\nllari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.\n\nDe acordo com o texto, assimale a alternativa correta.",
+      "full_text": "Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.\n\n\nDe acordo com o texto, assimale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
@@ -1690,19 +1734,40 @@
     },
     {
       "number": 65,
-      "full_text": "Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.\n\nllari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.\n\nAssinale a alternativa que apresenta a ideia central do texto.\n\n---",
+      "full_text": "Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.\n\n\nAssinale a alternativa que apresenta a ideia central do texto.",
       "alternatives": [],
       "images": []
     },
     {
       "number": 66,
-      "full_text": "Leia o texto a seguir:\n\n# A Lua esta encolhendo\n\nA Lua esta encolhendoA exemplo de uma uva que se enruga ao virar uma passa, a Lua esta encolhendo e ganhando vincos. Mas por não ser feito de matéria flexível como a fruta, o astro se deforma de modo mais violento. As falhas geológicas se multiplicam e terremotos e deslizamentos de terra se tornam mais comuns. A circunferência da Lua diminuiu mais de 45 metros nas últimas centenas de milhões de anos à medida que seu núcleo foi se resfriando. Pesquisadores da Nasa, a agência espacial norte- americana, e de universidades e institutos da America do Norte verificaram que a contração lunar provocou o surgimento de falhas tectônicas no polo sul lunar. Algumas regiões afetadas pelas deformações e instabilidade de terreno se situam em áreas cogitadas como local de pouco da missão Artemis 3, iniciativa da Nasa prevista para 2026 que pretende levar novamente astronautas para a Lua. \"Nossa modelagem sugere que terremotos superficiais capazes de produzir cortes tremores de solo na região polar sul são possíveis de ocorrer a partir de eventos de deslizamento em falhas existentes ou novas que venham a se formar\", diz o geólogo Thomas Watters, do Instituto Smithsonian, autor principal do estudo, em comunicado à imprensa.\n\nA Lua esta encolhendo, Revista Pesquisa FAPESP, n. 337, p. 7, mar. 2024.\n\n# De acordo com o texto, assinale a alternativa correta.\n\nDe acordo com o texto, assinale a alternativa correta.A) O geólogo Thomas Watters, com base em modelos de pesquisa, afirma que deslizamentos podem ocorrer a partir de terremotos em falhas na superficie lunar.  B) O autor do texto emprega a comparação com uma uva que enruga e vira passa, porque não esteve na Lua e desconhece a paisagem lunar.  C) Pesquisadores da Nasa, de universidades e institutos de pesquisa dos Estados Unidos descobriram falhas tectônicas no Polo Sul na Terra e na Lua.  D) O pouco da missão Artemis 3, previsto para 2026, está cogitado para a zona de deformações provocadas por instabilidade do solo lunar.  E) A circunferência da Lua encolhenu 45 metros em virtude de seu resfriamento, mas isso é insignificante considerando-se o tempo que levou para que ocorresse.\n\n# LITERATURA BRASILEIRA\n\n---",
-      "alternatives": [],
+      "full_text": "De acordo com o texto, assinale a alternativa correta.",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "O geólogo Thomas Watters, com base em modelos de pesquisa, afirma que deslizamentos podem ocorrer a partir de terremotos em falhas na superficie lunar."
+        },
+        {
+          "letter": "B",
+          "text": "O autor do texto emprega a comparação com uma uva que enruga e vira passa, porque não esteve na Lua e desconhece a paisagem lunar."
+        },
+        {
+          "letter": "C",
+          "text": "Pesquisadores da Nasa, de universidades e institutos de pesquisa dos Estados Unidos descobriram falhas tectônicas no Polo Sul na Terra e na Lua."
+        },
+        {
+          "letter": "D",
+          "text": "O pouco da missão Artemis 3, previsto para 2026, está cogitado para a zona de deformações provocadas por instabilidade do solo lunar."
+        },
+        {
+          "letter": "E",
+          "text": "A circunferência da Lua encolhenu 45 metros em virtude de seu resfriamento, mas isso é insignificante considerando-se o tempo que levou para que ocorresse."
+        }
+      ],
       "images": []
     },
     {
       "number": 67,
-      "full_text": "Considere o seguinte texto:\n\nO homem está na cidade como uma coisa está em outra e a cidade está no homem que está em outra cidade mas variados são os modos como uma coisa está em outra coisa: o homem, por exemplo, não está na cidade como uma árvore está em qualquer outra nem como uma árvore está em qualquer uma de suas folhas (mesmo rolando longe dela) O homem não está na cidade como uma árvore está num livro quando um vento ali a folheia.\n\nGullar, F. Poema sujo, Rio de Janeiro: Civilizacao Brasileira, 1983. p. 102.\n\nCom base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.\n\nCom base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.A) As reflexões existenciais predominam em Poema sujo, afastando outras temáticas frequentes na poesia brasileira da década de 1970, tais como as diferenças sociais e os posicionamentos políticos.  B) As memórias do menino e do adolescente se misturam de forma perturbadora na consciência doidualo que cria o poema, motivo pelo qual ele sempre desejo abandonar os lugares sujos em que vivem.  C) Enquanto, no fragmento transcrito, as referências à linguagem e aos livros são genéricas, em outros versos do poema, as várias fases da trajetória literária de Ferreira Gullar são apresentadas em order cronológica.  D) A sucesso de imagens e sensações recuperadas pela força da memória nas cuais predominanto que é sujo ou degradado cede lugar, no final do poema, a imagens da natureza, considerada mais purado que a cidade.  E) Os versos \"e a cidade está no homem / que está em outra cidade\" indicam que o passado vivido em São Luís do Maranhão segue entranhado no poeta enquanto ele vive como exilado político em Buenos Aires.\n\n---",
+      "full_text": "Considere o seguinte texto:\n\nO homem está na cidade como uma coisa está em outra e a cidade está no homem que está em outra cidade mas variados são os modos como uma coisa está em outra coisa: o homem, por exemplo, não está na cidade como uma árvore está em qualquer outra nem como uma árvore está em qualquer uma de suas folhas (mesmo rolando longe dela) O homem não está na cidade como uma árvore está num livro quando um vento ali a folheia.\n\n\nCom base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.\n\nCom base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.A) As reflexões existenciais predominam em Poema sujo, afastando outras temáticas frequentes na poesia brasileira da década de 1970, tais como as diferenças sociais e os posicionamentos políticos.  B) As memórias do menino e do adolescente se misturam de forma perturbadora na consciência doidualo que cria o poema, motivo pelo qual ele sempre desejo abandonar os lugares sujos em que vivem.  C) Enquanto, no fragmento transcrito, as referências à linguagem e aos livros são genéricas, em outros versos do poema, as várias fases da trajetória literária de Ferreira Gullar são apresentadas em order cronológica.  D) A sucesso de imagens e sensações recuperadas pela força da memória nas cuais predominanto que é sujo ou degradado cede lugar, no final do poema, a imagens da natureza, considerada mais purado que a cidade.  E) Os versos \"e a cidade está no homem / que está em outra cidade\" indicam que o passado vivido em São Luís do Maranhão segue entranhado no poeta enquanto ele vive como exilado político em Buenos Aires.",
       "alternatives": [],
       "images": []
     },
@@ -1754,11 +1819,27 @@
     },
     {
       "number": 70,
-      "full_text": "Considere o seguinte texto:\n\nEu deixei o leito as 3 da manhã porque quando a gente perde o sono começa pensar nas miserias que nos rodeia [...] Deixe o leito para escrever. Enquanto escrevo vou pensando que resido num castelo cor de ouro que reluz na luz do sol. Que as janelas são de prata e as luzes de brilhantes. Que a minha vista circula no jardim e eu contemplo as flores de todas as qualidadeds [...] E preciso crier este ambiente de fantasia, para esquecer que estou na favela. Fiz o cafe e fui carregar agua. Olhei o céu, a estrela Dalva ja estava no ceu. Como e horrivel pisar na lama.\n\nJesus, C. M. de. Quarto de despejo: diario de uma favelada. Sao Paulo: Atica, 2014. p. 58.\n\nCom base na leitura desse fragmento de Quarto de despejo, de Carolina Maria de Jesus, e na integralidade da leitura do livro, assinale a alternativa correta.",
+      "full_text": "Considere o seguinte texto:\n\nEu deixei o leito as 3 da manhã porque quando a gente perde o sono começa pensar nas miserias que nos rodeia [...] Deixe o leito para escrever. Enquanto escrevo vou pensando que resido num castelo cor de ouro que reluz na luz do sol. Que as janelas são de prata e as luzes de brilhantes. Que a minha vista circula no jardim e eu contemplo as flores de todas as qualidadeds [...] E preciso crier este ambiente de fantasia, para esquecer que estou na favela. Fiz o cafe e fui carregar agua. Olhei o céu, a estrela Dalva ja estava no ceu. Como e horrivel pisar na lama.\n\n\nCom base na leitura desse fragmento de Quarto de despejo, de Carolina Maria de Jesus, e na integralidade da leitura do livro, assinale a alternativa correta.",
       "alternatives": [
         {
           "letter": "A",
-          "text": "A visão da estrela Dalva, assim como a ideia de viver em um castelo dourado, são fantasias causadas pela fome e pelo excesso de esforço físico.  B) Meso enquanto escreve seu diario, Carolina tem consciência de que vive num lugar insalubre, o que não a impede de sonhar com uma situação menos descumana.  C) Um desejo de Carolina é se mudar da favela para o quarto de despejo de alguma cesa de alvenaria em um bairro mais próximo do centro.  D) Por privilegiar a fantasia, Quarto de despejo se afasta do registro realista, tendência predominante na literatura brasileira da década de 1950.  E) Por idealizar uma vida impossível para quem vive na favela, Carolina presenteia seus filhos com brinquedos incompatíveis com sua situação econômica."
+          "text": "A visão da estrela Dalva, assim como a ideia de viver em um castelo dourado, são fantasias causadas pela fome e pelo excesso de esforço físico."
+        },
+        {
+          "letter": "B",
+          "text": "Meso enquanto escreve seu diario, Carolina tem consciência de que vive num lugar insalubre, o que não a impede de sonhar com uma situação menos descumana."
+        },
+        {
+          "letter": "C",
+          "text": "Um desejo de Carolina é se mudar da favela para o quarto de despejo de alguma cesa de alvenaria em um bairro mais próximo do centro."
+        },
+        {
+          "letter": "D",
+          "text": "Por privilegiar a fantasia, Quarto de despejo se afasta do registro realista, tendência predominante na literatura brasileira da década de 1950."
+        },
+        {
+          "letter": "E",
+          "text": "Por idealizar uma vida impossível para quem vive na favela, Carolina presenteia seus filhos com brinquedos incompatíveis com sua situação econômica."
         }
       ],
       "images": []
@@ -1812,7 +1893,7 @@
         },
         {
           "letter": "E",
-          "text": "A lembrança da figura do pai, presença predominante nos outros contos, funciona como freio moral para a violência do protagonista em \"Espiral\"."
+          "text": "A lembrança da figura do pai, presença predominante nos outros contos, funciona como freio moral para a violência do protagonista em \"Espiral\". # FILOSOFIA"
         }
       ],
       "images": []
@@ -1873,7 +1954,7 @@
     },
     {
       "number": 75,
-      "full_text": "\"Quando nos falamos que nosso rio é sagrado, as pessoas dizem: 'Isso e algum folclore deles'.\"\n\nKrenak, A. Ideias para adiar o fim do mundo. Sao Paulo: Companhia das Letras, 2019. p. 49.\n\nNa obra Ideias para adiar o fim do mundo, Ailton Krenak sustenta que a filosofia indigena se estrutura a partir:",
+      "full_text": "\"Quando nos falamos que nosso rio é sagrado, as pessoas dizem: 'Isso e algum folclore deles'.\"\n\n\nNa obra Ideias para adiar o fim do mundo, Ailton Krenak sustenta que a filosofia indigena se estrutura a partir:",
       "alternatives": [
         {
           "letter": "A",
@@ -1900,7 +1981,7 @@
     },
     {
       "number": 76,
-      "full_text": "\"Enquanto a sensacao e a memoria apenas sao conhecimento de fato, o que é uma coisa passada e irrevogavel, a ciencia e o conhecimento das consequencias, e a dependencia de um fato com relacao a cultro, pelo que, a partir daquilo que presentemente sabemos fazer, sabemos como fazer qualquer outra coisa quando quisermos, ou tambem, em outra ocasiao.\"\n\nHobbes, T. Leviata Sao Paulo: Abril Cultural, 1988, p. 30. (Colecao Os Pensadores)\n\nDe acordo com a passagem apresentada e com a obra de que foi retirada, é correto dizer que, para Thomas Hobbes:",
+      "full_text": "\"Enquanto a sensacao e a memoria apenas sao conhecimento de fato, o que é uma coisa passada e irrevogavel, a ciencia e o conhecimento das consequencias, e a dependencia de um fato com relacao a cultro, pelo que, a partir daquilo que presentemente sabemos fazer, sabemos como fazer qualquer outra coisa quando quisermos, ou tambem, em outra ocasiao.\"\n\n\nDe acordo com a passagem apresentada e com a obra de que foi retirada, é correto dizer que, para Thomas Hobbes:",
       "alternatives": [
         {
           "letter": "A",
@@ -1931,14 +2012,14 @@
       "alternatives": [
         {
           "letter": "A",
-          "text": "promover paridade de particoacao entre os grupos sociais. B) afirmar a identidade e a particularidade de cada grupo social. C) garantir a justa distribuicao das riquezas. D) permitir que todos gozem de igual estima social. E) promover o desenvolvimento etico e psiquico de cada cidadao."
+          "text": "promover paridade de particoacao entre os grupos sociais. B) afirmar a identidade e a particularidade de cada grupo social. C) garantir a justa distribuicao das riquezas. D) permitir que todos gozem de igual estima social. E) promover o desenvolvimento etico e psiquico de cada cidadao. # SOCIOLOGIA"
         }
       ],
       "images": []
     },
     {
       "number": 78,
-      "full_text": "\"Segundo Marx, os economistas de seu tempo nao reconhecem a historicidade dos fenomenos que se manifestam na sociedade capitalista, por isso suas teorias sao comparaveis as dos teologos, para os quais boda religiao estranha e pura invencao humana, enquanto a deles proprios e uma emanacao de deus'. Ele questiona a perspectiva para a qual as relacoes burguesas de producao sao naturais, estao de acordo com as leis da natureza, como se fossem independentes da influencia do tempo'. Assim, as institucoes feudais teriam sido historicas, ironiza, mas as burguesas seriam naturais e, portanto, mutaveis. Para ele, tanto os processos ligados a producao sao transitorios, como as ideias, concepcoes, gostos, crencas, categorias do conhecimento e ideologias os quais, gerados socialmente, dependem do modo como os individuos se organizam para produzir\".\n\nQuintaneiro, T.; Barbosa, M. L. de O.; Oliveira, M. G. M. de. Um toque de classicos: Marx, Durkheim e Weber. Belo Horizonte: Editora UFMG, 2003. p. 29- 30.\n\nTendo por base esse trecho sobre a obra de Karl Marx, bem como a leitura da obra de Quintaneiro, Barbosa e Oliveira, e correto afirmar:",
+      "full_text": "\"Segundo Marx, os economistas de seu tempo nao reconhecem a historicidade dos fenomenos que se manifestam na sociedade capitalista, por isso suas teorias sao comparaveis as dos teologos, para os quais boda religiao estranha e pura invencao humana, enquanto a deles proprios e uma emanacao de deus'. Ele questiona a perspectiva para a qual as relacoes burguesas de producao sao naturais, estao de acordo com as leis da natureza, como se fossem independentes da influencia do tempo'. Assim, as institucoes feudais teriam sido historicas, ironiza, mas as burguesas seriam naturais e, portanto, mutaveis. Para ele, tanto os processos ligados a producao sao transitorios, como as ideias, concepcoes, gostos, crencas, categorias do conhecimento e ideologias os quais, gerados socialmente, dependem do modo como os individuos se organizam para produzir\".\n\n\nTendo por base esse trecho sobre a obra de Karl Marx, bem como a leitura da obra de Quintaneiro, Barbosa e Oliveira, e correto afirmar:",
       "alternatives": [
         {
           "letter": "A",
@@ -1951,13 +2032,21 @@
         {
           "letter": "C",
           "text": "As relacoes materiais tem pouca ou nenhuma relacao com a teoria formulaeda por Marx, que julgava suficiente o desenvolvimento do comunismo como uma ideia revolucionaria."
+        },
+        {
+          "letter": "D",
+          "text": "O pensamento e a consciencia sao decorrencias da relacao entre individuo e natureza, ou seja, derivam das relacoes materiais."
+        },
+        {
+          "letter": "E",
+          "text": "A luta de classes, a alienacao, a ideologia e a revolucao sao conceitos que prescindem de analise histoico-materialista, pois sao atemporais, assim como o de burguesia."
         }
       ],
       "images": []
     },
     {
       "number": 79,
-      "full_text": "\"Quanto ao seu positivismo, e importante situado, sobretudo, no contexto da Inglaterra do seculo XIX, no qual intelectuais, reformadores e tecnicos governamerais entendiam postulados positivistas, em especial, como uma orientacao pratica para a intervencao social e a producao de politicas publicas. Nessa acepcao, a publicidade dos datos, a ciencia estatistica, os metodos empiricos de pesquisa e as possibilidades de entender 'as leis que governam o social deveriam servir ao aprimoramento e avaliacao do status geral da sociedade em vista de um ideal ou utopia'. Essa relacao pratica com o positivismo modelou o pensamento sociologico da Inglaterra. Cabe notar que a propria Martineau se envolveu di etamente com o processo de introducao da expertise cientifica na esfera governamental do pais, buscando qualificar o debate publico e as decisoes do Estado\".\n\nDafon, V. T.; Campos, L. R. (Org.). Pioneiras da sociologia: mulheres intelectuais nos seculos XVIII e XIX. Niteroi: EdUFF, 2022. p. 83.\n\nConsiderando o trecho citado, em que se discorre sobre a perspectiva sociologica desenvolvida por Harriet Martineau, e correto afirmar:",
+      "full_text": "\"Quanto ao seu positivismo, e importante situado, sobretudo, no contexto da Inglaterra do seculo XIX, no qual intelectuais, reformadores e tecnicos governamerais entendiam postulados positivistas, em especial, como uma orientacao pratica para a intervencao social e a producao de politicas publicas. Nessa acepcao, a publicidade dos datos, a ciencia estatistica, os metodos empiricos de pesquisa e as possibilidades de entender 'as leis que governam o social deveriam servir ao aprimoramento e avaliacao do status geral da sociedade em vista de um ideal ou utopia'. Essa relacao pratica com o positivismo modelou o pensamento sociologico da Inglaterra. Cabe notar que a propria Martineau se envolveu di etamente com o processo de introducao da expertise cientifica na esfera governamental do pais, buscando qualificar o debate publico e as decisoes do Estado\".\n\n\nConsiderando o trecho citado, em que se discorre sobre a perspectiva sociologica desenvolvida por Harriet Martineau, e correto afirmar:",
       "alternatives": [
         {
           "letter": "A",
@@ -1984,7 +2073,7 @@
     },
     {
       "number": 80,
-      "full_text": "\"O campo intelectual era restrito, mas nao o suficiente para impedir a acao e circulacao de pioneiras, alqumas das quais foram intelectuais influentes, amplamente idas, difundidas e atuantes dentro dos mesmos circulos frequentados pelos autores tradicionais. Um dos casos mais desconcertantes no caso da Sociologia e o da britanica Harriet Martineau, autora do primeiro livro de epistemologia e metodologia das Ciencias Sociais de que se tem registro, alem de iter realizado investigacoes sociologicas empiricas pautadas por parametros expletos, conduzidas ainda na primeira metade do secto XIX. Martineau nao era uma autora obscura, mas um sucesso editorial, uma referencia intelectual e uma presenca constante no debate publico britanico.\"\n\nDafon, V. T.; Campos, L. R. (Org.). Pioneiras da sociologia: mulheres intelectuais nos seculos XVIII e XIX. Niteroi: EdUFF, 2022. p. 26. Adaptado.\n\nConsiderando o trecho fornecido, que discorre sobre a teoria sociologica produzida por mulheres nos seculos XVIII e XIX, e a leitura integral da obra de Dafon e Campos, e correto afirmar:",
+      "full_text": "\"O campo intelectual era restrito, mas nao o suficiente para impedir a acao e circulacao de pioneiras, alqumas das quais foram intelectuais influentes, amplamente idas, difundidas e atuantes dentro dos mesmos circulos frequentados pelos autores tradicionais. Um dos casos mais desconcertantes no caso da Sociologia e o da britanica Harriet Martineau, autora do primeiro livro de epistemologia e metodologia das Ciencias Sociais de que se tem registro, alem de iter realizado investigacoes sociologicas empiricas pautadas por parametros expletos, conduzidas ainda na primeira metade do secto XIX. Martineau nao era uma autora obscura, mas um sucesso editorial, uma referencia intelectual e uma presenca constante no debate publico britanico.\"\n\n\nConsiderando o trecho fornecido, que discorre sobre a teoria sociologica produzida por mulheres nos seculos XVIII e XIX, e a leitura integral da obra de Dafon e Campos, e correto afirmar:",
       "alternatives": [
         {
           "letter": "A",
@@ -2011,7 +2100,7 @@
     },
     {
       "number": 81,
-      "full_text": "\"A industrializacao modificou profundamente a percepcao do tempo entre as populacoes europeias, ajustadas a ritmos naturais em obediencia a costumes milenares. Isso se explica porque quanto menos os povos dependem da tecnologia para levar adiante suas atividades produtivas, mais o tempo social e regulado por fenomenos da natureza - as estações, as mares, a noite e o dia, o clima. A Revolucao Industrial obriga a um registro mais preciso do tempo na vida social. O impresario passa a comprar horas de trabalho e a exigir seu cumprimento. Trabalhadores perdem o controle do ritmo produtivo que impoe uma disciplina ate entao desconhecada. Uma nova moralidade a sustenta desde os pulpitos ate que os operarios, organizados em associaoes, comecam a rebelas- se contra as exigencias excessivas. O esforco para entender as causas e os provaveis desenvolvimento das novas relacoes sociais motivou a reflexao que veio a cristalizar- se na Sociologia\".\n\nQuintaneiro, T.; Barbosa, M. L. de O.; Oliveira, M. G. M. de. Um toque de classicos: Marx, Durkheim e Weber. Belo Horizonte: Editora UFMG, 2003. p. 11- 12. Adaptado.\n\n# Conforme o argumento sobre a formulação da Sociologia desenvolvido pelas autórias em sua obra, é correto afirmar:",
+      "full_text": "\"A industrializacao modificou profundamente a percepcao do tempo entre as populacoes europeias, ajustadas a ritmos naturais em obediencia a costumes milenares. Isso se explica porque quanto menos os povos dependem da tecnologia para levar adiante suas atividades produtivas, mais o tempo social e regulado por fenomenos da natureza - as estações, as mares, a noite e o dia, o clima. A Revolucao Industrial obriga a um registro mais preciso do tempo na vida social. O impresario passa a comprar horas de trabalho e a exigir seu cumprimento. Trabalhadores perdem o controle do ritmo produtivo que impoe uma disciplina ate entao desconhecada. Uma nova moralidade a sustenta desde os pulpitos ate que os operarios, organizados em associaoes, comecam a rebelas- se contra as exigencias excessivas. O esforco para entender as causas e os provaveis desenvolvimento das novas relacoes sociais motivou a reflexao que veio a cristalizar- se na Sociologia\".\n\n\n# Conforme o argumento sobre a formulação da Sociologia desenvolvido pelas autórias em sua obra, é correto afirmar:",
       "alternatives": [
         {
           "letter": "A",
@@ -2038,7 +2127,7 @@
     },
     {
       "number": 82,
-      "full_text": "\"O racismo nunca é um elemento acrescentado ao sabor de uma investigacao no seio dos dados culturais de um grupo. A constelacao social, o conjunto cultural, sao profundamente remodelados pela existencia do racismo. Diz- se correntemente que o racismo é uma chaga da humanidade, mas é preciso que nao nos contenemos com essa frase. E preciso procurar incansavelmente as repercussoes do racismo em todos os niveis de sociabilidade\".\n\nFanon, F. Racismo e cultura. Brasil: Terra sem Amos, 2022. p. 16.\n\n# Considerando o fragmento fornecido, e correto afirmar, a respeito do racismo, que:",
+      "full_text": "\"O racismo nunca é um elemento acrescentado ao sabor de uma investigacao no seio dos dados culturais de um grupo. A constelacao social, o conjunto cultural, sao profundamente remodelados pela existencia do racismo. Diz- se correntemente que o racismo é uma chaga da humanidade, mas é preciso que nao nos contenemos com essa frase. E preciso procurar incansavelmente as repercussoes do racismo em todos os niveis de sociabilidade\".\n\n\n# Considerando o fragmento fornecido, e correto afirmar, a respeito do racismo, que:",
       "alternatives": [
         {
           "letter": "A",

@@ -1,36 +1,9 @@
 Exam: ufpr_2024
 Total questions: 82
-Questions with warnings: 11
-
-## Questão 1
- - only 2 alternatives found (often 4–5 are expected)
+Questions with warnings: 2
 
 ## Questão 16
- - only 1 alternatives found (often 4–5 are expected)
-
-## Questão 23
- - alternatives have gaps or out-of-order sequence
-
-## Questão 25
- - alternatives start at B (expected A)
-
-## Questão 59
- - alternatives have gaps or out-of-order sequence
-
-## Questão 64
- - alternatives have gaps or out-of-order sequence
+ - some alternatives have empty text
 
 ## Questão 65
- - only 0 alternatives found (often 4–5 are expected)
-
-## Questão 66
- - only 0 alternatives found (often 4–5 are expected)
-
-## Questão 68
- - alternatives have gaps or out-of-order sequence
-
-## Questão 69
- - alternatives have gaps or out-of-order sequence
-
-## Questão 70
- - only 1 alternatives found (often 4–5 are expected)
+ - only 0 alternatives (often 4–5 expected)
