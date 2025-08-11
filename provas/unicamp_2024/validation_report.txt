@@ -1,0 +1,90 @@
+Exam: unicamp_2024
+Total questions: 69
+Questions with warnings: 29
+
+## Questão 7
+ - only 1 alternatives found (often 4–5 are expected)
+
+## Questão 8
+ - only 1 alternatives found (often 4–5 are expected)
+
+## Questão 9
+ - alternatives start at B (expected A)
+
+## Questão 16
+ - only 1 alternatives found (often 4–5 are expected)
+
+## Questão 18
+ - alternatives start at B (expected A)
+
+## Questão 19
+ - alternatives start at B (expected A)
+
+## Questão 25
+ - possible inline alternatives left in full_text
+
+## Questão 27
+ - only 1 alternatives found (often 4–5 are expected)
+
+## Questão 34
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 35
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 36
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 37
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 38
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 39
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 41
+ - only 3 alternatives found (often 4–5 are expected)
+
+## Questão 43
+ - only 2 alternatives found (often 4–5 are expected)
+
+## Questão 45
+ - alternatives start at B (expected A)
+
+## Questão 46
+ - alternatives start at B (expected A)
+
+## Questão 54
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 55
+ - alternatives start at B (expected A)
+
+## Questão 56
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 57
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 58
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 59
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 60
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 61
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 62
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 63
+ - alternatives have gaps or out-of-order sequence
+
+## Questão 64
+ - alternatives have gaps or out-of-order sequence
