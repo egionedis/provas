@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/provas/__init__.py
+src/provas/clean.py
+src/provas/cli.py
+src/provas/export_json.py
+src/provas/ocr.py
+src/provas/schema.py
+src/provas.egg-info/PKG-INFO
+src/provas.egg-info/SOURCES.txt
+src/provas.egg-info/dependency_links.txt
+src/provas.egg-info/entry_points.txt
+src/provas.egg-info/requires.txt
+src/provas.egg-info/top_level.txt

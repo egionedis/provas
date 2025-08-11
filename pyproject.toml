@@ -3,11 +3,12 @@ name = "provas"
 version = "0.1.0"
 description = "Pipeline to parse vestibular exams: OCR images, normalize markdown, and export validated JSON."
 requires-python = ">=3.10"
-authors = [{ name = "You" }]
+authors = [{ name = "Edgar" }]
 dependencies = [
   "typer>=0.12",
   "pydantic>=2",
   "python-dotenv>=1.0",
+  "openai>=1.40.0",
 ]
 
 [project.optional-dependencies]
@@ -22,5 +23,14 @@ dev = [
 provas = "provas.cli:app"
 
 [build-system]
-requires = ["setuptools>=68", "wheel"]
+requires = ["setuptools>=70", "wheel"]
 build-backend = "setuptools.build_meta"
+
+# 🔧 Tell setuptools to use the src/ layout
+[tool.setuptools]
+package-dir = {"" = "src"}
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+namespaces = false

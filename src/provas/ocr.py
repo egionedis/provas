@@ -1,3 +1,4 @@
+# src/provas/ocr.py
 from __future__ import annotations
 import os
 import re
@@ -6,16 +7,18 @@ from pathlib import Path
 from typing import List
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv()  # Load environment variables from .env
 
-try:
-  from openai import AzureOpenAI
-except Exception:
-  AzureOpenAI = None  # optional import; skip if not available
+# ──────────────────────────────── DEPENDENCIES ─────────────────────────────── #
+from openai import AzureOpenAI
+
+# ──────────────────────────────── CONFIG ──────────────────────────────── #
+# Use the same deployment name you configured in Azure
+MODEL_NAME: str = os.getenv("AZURE_OPENAI_DEPLOYMENT", "gpt-4o_dz-eu_2024-08-06")
 
 IMG_TAG_REGEX = re.compile(r'!\[\]\((images/[^)]+)\)')
 
-VISION_PROMPT = """
+VISION_PROMPT = r"""
 Você é um assistente de visão encarregado de extrair **todos** os detalhes
 relevantes de qualquer imagem (foto, gráfico, diagrama, mapa, tabela ou texto).
 
@@ -51,19 +54,26 @@ Regras
 - Use português.
 """
 
+# ──────────────────────────────── AZURE CLIENT ──────────────────────────────── #
+client = AzureOpenAI(
+    api_key=os.getenv("GENAIHUB_API_KEY"),
+    api_version=os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21"),
+    azure_endpoint=os.getenv("OPENAI_SDK_ENDPOINT"),
+)
+
+# ────────────────────────────── UTILITIES ────────────────────────────── #
 def _to_data_url(img_path: Path) -> str:
     mime = "image/png" if img_path.suffix.lower() == ".png" else "image/jpeg"
     b64 = base64.b64encode(img_path.read_bytes()).decode("utf-8")
     return f"data:{mime};base64,{b64}"
 
-def _already_has_description(next_line: str) -> bool:
-    # FIX: your prompt emits "IMG_DESC_START", not "IMG:"
-    return next_line.strip().startswith("IMG_DESC_START")
-
-def _describe_image(client, model_name: str, img_path: Path) -> str:
+def _describe_image(img_path: Path) -> str:
+    """Send the image to the vision model and return the structured one-line description."""
+    print(f"Gerando descrição para {img_path} …")
     data_url = _to_data_url(img_path)
-    resp = client.chat.completions.create(
-        model=model_name,
+
+    response = client.chat.completions.create(
+        model=MODEL_NAME,
         messages=[{
             "role": "user",
             "content": [
@@ -74,52 +84,59 @@ def _describe_image(client, model_name: str, img_path: Path) -> str:
         max_tokens=500,
         temperature=0.2,
     )
-    return resp.choices[0].message.content.strip().replace("\n", " ")
+    return response.choices[0].message.content.strip().replace("\n", " ")
 
-def _process_markdown(lines: List[str], image_dir: Path, client, model_name: str) -> List[str]:
+def _already_has_description(next_line: str) -> bool:
+    # Your prompt emits "IMG_DESC_START"
+    return next_line.strip().startswith("IMG_DESC_START")
+
+# ───────────────────────────── MAIN LOGIC ───────────────────────────── #
+def _process_markdown(lines: List[str], image_dir: Path) -> List[str]:
     out_lines: List[str] = []
     i = 0
     while i < len(lines):
         line = lines[i]
         out_lines.append(line)
-        m = IMG_TAG_REGEX.search(line)
-        if m:
-            img_rel = m.group(1)
+        match = IMG_TAG_REGEX.search(line)
+        if match:
+            img_rel = match.group(1)
             img_path = image_dir / Path(img_rel).name
             if i + 1 < len(lines) and _already_has_description(lines[i + 1]):
                 i += 1
                 out_lines.append(lines[i])
             else:
-                desc = _describe_image(client, model_name, img_path)
-                out_lines.append(f"{desc}\n")
+                desc_line = _describe_image(img_path)
+                out_lines.append(f"{desc_line}\n")
         i += 1
     return out_lines
 
-def run_ocr_folder(folder: Path,
-                   model_name: str = os.getenv("AZURE_OPENAI_DEPLOYMENT", "gpt-4o"),
-                   api_version: str = os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21"),
-                   endpoint: str = os.getenv("OPENAI_SDK_ENDPOINT"),
-                   api_key: str = os.getenv("GENAIHUB_API_KEY")):
-    if AzureOpenAI is None:
-        print("⚠️ AzureOpenAI not installed; skipping OCR.")
-        return
-    client = AzureOpenAI(api_key=api_key, api_version=api_version, azure_endpoint=endpoint)
-
+def run_ocr_folder(folder: Path):
+    """Process a single exam folder: provas/<exam>/"""
     md_in = folder / "full.md"
     md_out = folder / "full_with_descriptions.md"
     image_dir = folder / "images"
-    if not (md_in.exists() and image_dir.exists()):
-        print(f"⚠️ Skipping {folder.name}: missing full.md or images/")
+
+    if not md_in.exists() or not image_dir.exists():
+        print(f"⚠️ Ignorado: {folder.name} (full.md ou images/ ausentes)")
         return
+
+    # ✅ Skip if already processed
+    if md_out.exists():
+        print(f"⏩ Já existe {md_out}, pulando para economizar tokens.")
+        return
+
     lines = md_in.read_text(encoding="utf-8").splitlines(keepends=True)
-    annotated = _process_markdown(lines, image_dir, client, model_name)
+    annotated = _process_markdown(lines, image_dir)
     md_out.write_text("".join(annotated), encoding="utf-8")
-    print(f"✅ OCR+descriptions: {md_out}")
+    print(f"✅ Arquivo gerado: {md_out}")
 
 def run_ocr_batch(base_dir: Path):
+    """Process all exam folders under base_dir."""
+    base_dir = Path(base_dir)
     if not base_dir.exists():
-        print("❌ Base dir not found:", base_dir)
-        return
+        raise FileNotFoundError("❌ Pasta base não encontrada: " + str(base_dir))
+
     for test_folder in base_dir.iterdir():
         if test_folder.is_dir():
+            print(f"\n📂 Processando: {test_folder.name}")
             run_ocr_folder(test_folder)
