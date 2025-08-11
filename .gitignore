@@ -1,9 +1,21 @@
+# python
 __pycache__/
+*.pyc
 .venv/
 .env
-.DS_Store
-*.pyc
-.pytest_cache/
+.env.*
+
+# editors
 .vscode/
 .idea/
-.ipynb_checkpoints/
+*.code-workspace
+.editorconfig
+
+# outputs
+provas/**/full_with_descriptions.md
+provas/**/full_regex.md
+provas/**/exam.json
+provas/**/validation_report.txt
+
+# images (if they are huge, track with LFS instead)
+# provas/**/images/
