@@ -1,13 +1,8 @@
 # src/provas/azure_client.py
 """
 Azure OpenAI client selector with per-model API version.
-
-Env expected:
-- GENAIHUB_API_KEY
-- OPENAI_SDK_ENDPOINT
-- AZURE_OPENAI_API_VERSION            (default "2024-10-21" for legacy models)
-- AZURE_OPENAI_API_VERSION_GPT5       (default "2024-06-01" for gpt-5*)
 """
+
 from __future__ import annotations
 import os
 from openai import AzureOpenAI

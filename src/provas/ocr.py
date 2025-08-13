@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import List
 from dotenv import load_dotenv
 
-from llm_client import chat_vision
+from .llm_client import chat_vision
 
 load_dotenv()
 

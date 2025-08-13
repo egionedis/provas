@@ -11,7 +11,8 @@ import base64
 from pathlib import Path
 from typing import Iterable, Union
 
-from azure_client import get_client_for_model
+from .azure_client import get_client_for_model
+
 
 StrPath = Union[str, Path]
 
