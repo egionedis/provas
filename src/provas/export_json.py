@@ -4,10 +4,13 @@ from __future__ import annotations
 import re, json, os
 from pathlib import Path
 from typing import List, Dict, Any, Tuple
-from .schema import Exam, Question, Alternative, ImageDesc
 
-# Azure OpenAI (text-only here)
-from openai import AzureOpenAI
+from .schema import Exam, Question, Alternative, ImageDesc
+from llm_client import chat as llm_chat
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # =========================
 # Patterns
@@ -56,17 +59,9 @@ class _LLM:
     """
 
     def __init__(self):
-        self.model = os.getenv("LLM_VISION_MODEL", "gpt-4o_dz-eu_2024-08-06")
-        try:
-            self.client = AzureOpenAI(
-                api_key=os.getenv("GENAIHUB_API_KEY"),
-                api_version=os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21"),
-                azure_endpoint=os.getenv("OPENAI_SDK_ENDPOINT"),
-            )
-            self.enabled = bool(self.client and self.model and os.getenv("GENAIHUB_API_KEY") and os.getenv("OPENAI_SDK_ENDPOINT"))
-        except Exception:
-            self.client = None
-            self.enabled = False
+        # ⚠️ Text model (not vision). Default: GPT-5 Mini in Sweden Central DZ.
+        self.model = os.getenv("LLM_MODEL", "gpt-5-mini_dz-swc_2025-08-07")
+        self.enabled = True
 
     def fix_question(self, raw_block_text: str, parsed_full_text: str, parsed_alts: list[dict]) -> dict:
         """
@@ -114,17 +109,17 @@ class _LLM:
         }
 
         try:
-            resp = self.client.chat.completions.create(
+            resp = llm_chat(
                 model=self.model,
-                temperature=0,
                 messages=[
                     {"role": "system", "content": system},
                     {"role": "user", "content": json.dumps(user, ensure_ascii=False)},
                 ],
+                temperature=0,
                 max_tokens=800,
             )
-            out = resp.choices[0].message.content
-            out = out.strip().strip("`")
+            out = (resp.choices[0].message.content or "").strip()
+            out = out.strip("`")
             if out.lower().startswith("json"):
                 out = out[4:].strip()
             data = json.loads(out)

@@ -1,21 +1,17 @@
 # src/provas/ocr.py
 from __future__ import annotations
-import os
-import re
-import base64
+import os, re
 from pathlib import Path
 from typing import List
 from dotenv import load_dotenv
 
-load_dotenv()  # Load environment variables from .env
+from llm_client import chat_vision
 
-# ──────────────────────────────── DEPENDENCIES ─────────────────────────────── #
-from openai import AzureOpenAI
+load_dotenv()
 
-# ──────────────────────────────── CONFIG ──────────────────────────────── #
-# Use the same deployment name you configured in Azure
-MODEL_NAME: str = os.getenv("LLM_VISION_MODEL", "gpt-4o_dz-eu_2024-08-06")
-
+# ───────────────────────────── CONFIG ───────────────────────────── #
+# Default to GPT-5 Sweden Data Zone; override via .env if needed
+MODEL_NAME: str = os.getenv("LLM_VISION_MODEL", "gpt-5_dz-swc_2025-08-07")
 IMG_TAG_REGEX = re.compile(r'!\[\]\((images/[^)]+)\)')
 
 VISION_PROMPT = """
@@ -28,21 +24,13 @@ Use ponto como separador decimal.
 
 IMG_DESC_START : tipo=<foto|gráfico|diagrama|mapa|tabela|texto|outro>;
      resumo=<1-2 frases>;
-     elementos=[<item1>, <item2>, …];                # partes visuais
-     dados_chave=[<d1>, <d2>, …];                    # eixos, unidades, legendas,
-                                                     # escalas, cores, símbolos,
-                                                     # valores numéricos isolados
-     grandezas=[(símbolo, valor, unidade), …];       # p.ex. (m,2.0,kg),(Q,3e-6,C)
-     estrutura=[<bloco1>, <bloco2>, …];              # • GRÁFICO: pontos=(x,y) ou
-                                                     #   intervalos=(x0,x1,y0→y1)
-                                                     #   em ordem crescente de x
-                                                     # • TABELA: linhaN=[c1,c2,…]
-                                                     # • DIAGRAMA/FOTO: (obj, pos)
-                                                     #   ou relações (obj1↔obj2)
+     elementos=[<item1>, <item2>, …];
+     dados_chave=[<d1>, <d2>, …];
+     grandezas=[(símbolo, valor, unidade), …];
+     estrutura=[<bloco1>, <bloco2>, …];
      texto_detectado=[<str1>, <str2>, …]
-     
 IMG_DESC_END
-     
+
 Regras
 - Preencha **estrutura** conforme o tipo detectado; se não se aplicar,
   use estrutura=[]. Exemplos para degraus:
@@ -52,45 +40,28 @@ Regras
   escala gráfica, etc.). Se não houver, use grandezas=[].
 - Não inclua markdown, “```json” ou explicações extras.
 - Use português.
-"""
+""".strip()
 
-# ──────────────────────────────── AZURE CLIENT ──────────────────────────────── #
-client = AzureOpenAI(
-    api_key=os.getenv("GENAIHUB_API_KEY"),
-    api_version=os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21"),
-    azure_endpoint=os.getenv("OPENAI_SDK_ENDPOINT"),
-)
-
-# ────────────────────────────── UTILITIES ────────────────────────────── #
-def _to_data_url(img_path: Path) -> str:
-    mime = "image/png" if img_path.suffix.lower() == ".png" else "image/jpeg"
-    b64 = base64.b64encode(img_path.read_bytes()).decode("utf-8")
-    return f"data:{mime};base64,{b64}"
-
-def _describe_image(img_path: Path) -> str:
-    """Send the image to the vision model and return the structured one-line description."""
-    print(f"Gerando descrição para {img_path} …")
-    data_url = _to_data_url(img_path)
-
-    response = client.chat.completions.create(
-        model=MODEL_NAME,
-        messages=[{
-            "role": "user",
-            "content": [
-                {"type": "text", "text": VISION_PROMPT},
-                {"type": "image_url", "image_url": {"url": data_url, "detail": "auto"}},
-            ],
-        }],
-        max_tokens=500,
-        temperature=0.2,
-    )
-    return response.choices[0].message.content.strip().replace("\n", " ")
 
 def _already_has_description(next_line: str) -> bool:
     # Your prompt emits "IMG_DESC_START"
     return next_line.strip().startswith("IMG_DESC_START")
 
-# ───────────────────────────── MAIN LOGIC ───────────────────────────── #
+
+def _describe_image(img_path: Path) -> str:
+    """Send the image to the vision model and return the structured one-line description."""
+    resp = chat_vision(
+        model=MODEL_NAME,
+        text_prompt=VISION_PROMPT,
+        images=[img_path],
+        detail=None,
+        max_tokens=500,
+        temperature=0.2,
+    )
+    return (resp.choices[0].message.content or "").strip().replace("\n", " ")
+
+
+# ──────────────────────────── MAIN LOGIC ──────────────────────────── #
 def _process_markdown(lines: List[str], image_dir: Path) -> List[str]:
     out_lines: List[str] = []
     i = 0
@@ -99,16 +70,20 @@ def _process_markdown(lines: List[str], image_dir: Path) -> List[str]:
         out_lines.append(line)
         match = IMG_TAG_REGEX.search(line)
         if match:
-            img_rel = match.group(1)
-            img_path = image_dir / Path(img_rel).name
+            img_rel = match.group(1)                       # e.g., "images/foo.jpg"
+            img_path = image_dir / Path(img_rel).name      # provas/<exam>/images/foo.jpg
             if i + 1 < len(lines) and _already_has_description(lines[i + 1]):
                 i += 1
                 out_lines.append(lines[i])
             else:
+                # 👇 Print which test (folder) and which image we’re describing
+                exam_name = image_dir.parent.name          # folder name is the "test"
+                print(f"🖼️ Descrevendo imagem → teste: {exam_name} | arquivo: {img_rel}")
                 desc_line = _describe_image(img_path)
                 out_lines.append(f"{desc_line}\n")
         i += 1
     return out_lines
+
 
 def run_ocr_folder(folder: Path):
     """Process a single exam folder: provas/<exam>/"""
@@ -129,6 +104,7 @@ def run_ocr_folder(folder: Path):
     annotated = _process_markdown(lines, image_dir)
     md_out.write_text("".join(annotated), encoding="utf-8")
     print(f"✅ Arquivo gerado: {md_out}")
+
 
 def run_ocr_batch(base_dir: Path):
     """Process all exam folders under base_dir."""

@@ -1,5 +1,5 @@
 ![](images/c9772c8e106abd7a59a3c8a106069b157e1bfda4d756d257db95aa55f8b2c47c.jpg)
-IMG_DESC_START : tipo=foto; resumo=Logotipo da Universidade de São Paulo (USP) com letras estilizadas em preto.; elementos=[letras U, S, P]; dados_chave=[cor=preto]; grandezas=[]; estrutura=[(U,esquerda);(S,centro);(P,direita)]; texto_detectado=[USP] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Logotipo da Universidade de São Paulo (USP) com design estilizado das letras.; elementos=[logotipo, letras USP]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[USP] IMG_DESC_END
 
 Universidade de Sao Paulo Brasil
 
@@ -50,7 +50,7 @@ Instituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Gliceria Tupinam
 A reflexão de Davi Kopenawa sobre a apropriação de objetos indígenas por museus e a pesquisa de Gliceria Tupinambá sobre o manto tupinambá em contextos europeus permitem explorar diversas dimensões da arte indígena.
 
 ![](images/fb5bff814d610275d5958595fdbb94d1afb78e7c7a191896b1c33605049901f5.jpg)  
-IMG_DESC_START : tipo=foto; resumo=Pessoa vestida com traje tradicional feito de penas em ambiente de floresta tropical; elementos=[traje de penas, vegetação]; dados_chave=[cores das penas: marrom, preto, branco, vermelho, azul]; grandezas=[]; estrutura=[(traje, centro); (vegetação, fundo)]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Pessoa vestida com traje de penas coloridas em ambiente de floresta tropical; elementos=[penas, vegetação, traje tradicional]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
 Gliceria Tupinambá, Assojaba Tupinambá, 2021. Disponível em: https://dasartes.com.br/de-arte-a-z/.
 
 Com base nos textos e na imagem, assimale a alternativa que relaciona corretamente as reflexões apresentadas à importância da arte e dos artefatos culturais na discussão sobre questiones indígenas no Brasil.
@@ -66,7 +66,7 @@ Com base nos textos e na imagem, assimale a alternativa que relaciona corretamen
 Analise, na figura a seguir, os dados referentes a áreas de garimpo ilegal localizadas em terras indigenas na Amazônia brasileira e sua distância em relação o corpos d'água.
 
 ![](images/41c43fdc89f562c4bd2aebda12cadbb10cfc6b2e9f9f633bdd2b9ae7bf1f7e19.jpg)  
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando a área de garimpo em relação à distância de corpos d'água em terras indígenas. elementos=[mapa, barras, legenda]; dados_chave=[Kayapó, Munduruku, Yanomami, Garimpo até 500m d'água, Garimpo a partir de 500m d'água, 70%, 30%, 39%, 61%, 64%, 36%]; grandezas=[]; estrutura=[(Kayapó,70,30);(Munduruku,39,61);(Yanomami,64,36)]; texto_detectado=[ÁREA DE GARIMPO, DISTÂNCIA DE CORPOS D'ÁGUA] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Mapa mostrando áreas de garimpo em relação a corpos d'água em terras indígenas Kayapó, Munduruku e Yanomami. elementos=[mapa, legenda, gráfico de barras]; dados_chave=[Kayapó: 70% até 500m, 30% a partir de 500m, Munduruku: 39% até 500m, 61% a partir de 500m, Yanomami: 64% até 500m, 36% a partir de 500m]; grandezas=[]; estrutura=[]; texto_detectado=[ÁREA DE GARIMPO, KAYAPÓ, MUNDURUKU, YANOMAMI, DISTÂNCIA DE CORPOS D'ÁGUA, Garimpo até 500m d'água, Garimpo a partir de 500m d'água] IMG_DESC_END
 MapBiomas. 2024. Proximidade de Garimpos, Rios e Lagos na Amazônia (Adaptado).
 
 A partir dos dados apresentados e da realidade socioambiental da Amazônia, é correto afirmar:
@@ -80,7 +80,7 @@ A partir dos dados apresentados e da realidade socioambiental da Amazônia, é c
 # 03
 
 ![](images/d1680abbe3675fac03e47d2e6c6177fd785356b340dbaaaecb214b464e7038c8.jpg)  
-IMG_DESC_START : tipo=outro; resumo=Ilustração crítica sobre o impacto do garimpo ilegal, mostrando descarte de mercúrio na água e suas consequências. elementos=[garimpeiros, mercúrio, água, índios, panela, fogo, cabana]; dados_chave=[garimpo ilegal, mercúrio, água]; grandezas=[]; estrutura=[(garimpeiro, esquerda), (mercúrio, centro), (índios, direita)]; texto_detectado=[GARIMPO ILEGAL, O mercúrio a gente descarta na água, jeangalvão] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem mostra garimpo ilegal com descarte de mercúrio na água e impacto em indígenas; elementos=[garimpeiros, mercúrio, água, indígenas, panela, fogo]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[GARIMPO ILEGAL, O mercúrio a gente descarta na água, jeangalvão] IMG_DESC_END
 Jean Galvão. Disponível em https://cartum.folha.uol.com.br/.
 
 Considerando a charge, é correto afirmar:
@@ -110,7 +110,7 @@ De acordo com o excerto, a ocupação territorial da América portuguesa pelos c
 Os quadrinhos a seguir sao parte da obra Dois irmas, de Fabio Moon e Gabriel Ba (2015), uma adaptação do romance Dois irmas, de Milton Hatoum, para o universo das novelas graficas (graphic novels).
 
 ![](images/7afd428a75046826c68c22bd74dea28b226c6c35ca51695f8266e20820847857.jpg)
-IMG_DESC_START : tipo=texto; resumo=Quadrinhos com cenas de um menino observando fotos e reflexões sobre cicatrizes emocionais e violência familiar.; elementos=[menino, fotos, cicatriz, mãos, casa, árvore, carro]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=["EM PRIMEIRO LUGAR, BABA!", "Cresci vendo as fotos do Yaqub e ouvindo a mãe dele ler suas cartas.", "A cicatriz começava a crescer no corpo de Yaqub. A cicatriz, a dor e um sentimento que não revelava e talvez desconhecesse. Remoía calado, matutava.", "Não tornaram a falar um com o outro.", "Os pais temiam a reação de Yaqub, temiam o pior.", "A violência dentro de casa.", "Fui observador desse jogo e presenciei muitas cartadas, até o lance final."] IMG_DESC_END
+IMG_DESC_START : tipo=texto; resumo=Quadrinhos em preto e branco com narrativa sobre Yaqub e suas cicatrizes emocionais. Elementos visuais incluem quadros, personagens e uma casa. elementos=[quadros, personagem, casa, árvore, carro]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=["EM PRIMEIRO LUGAR, BABA!", "Cresci vendo as fotos do Yaqub e ouvindo a mãe dele ler suas cartas.", "A cicatriz começava a crescer no corpo de Yaqub. A cicatriz, a dor e um sentimento que não revelava e talvez desconhecesse. Remoía calado, matutava.", "Não tornaram a falar um com o outro.", "Os pais temiam a reação de Yaqub, temiam o pior.", "A violência dentro de casa.", "Fui observador desse jogo e presenciei muitas cartadas, até o lance final."] IMG_DESC_END
 
 Considerando as características visuais dos quadrinhos e os tragos narrativos do romance Dois irmas, de Milton Hatoum, e correto afirmar:
 
@@ -132,7 +132,7 @@ Leia o texto e analise a charge a seguir.
 HUSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, 2013.
 
 ![](images/a58a03eb26120713c8c7920b74e07057bb78926b61b1b443f4454c74483e73e5.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem mostra duas figuras em uma conversa sobre imigração ilegal; elementos=[balões de fala, penas, colar, roupa tradicional]; dados_chave=["Imigrantes ilegais trazem crime, drogas e violência!", "Nós sabemos!", Genio Zadkovic & Bira Dantas]; grandezas=[]; estrutura=[(balão1, pos1), (balão2, pos2)]; texto_detectado=["Imigrantes ilegais trazem crime, drogas e violência!", "Nós sabemos!", "Genio Zadkovic & Bira Dantas"] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem de uma charge com dois personagens discutindo sobre imigração ilegal.; elementos=[personagem com terno, personagem indígena, balões de fala]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[IMIGRANTES ILEGAIS TRAZEM CRIME, DROGAS E VIOLÊNCIA!, NÓS SABEMOS!, GENIO ZADKOVIC & BIRA DANTAS] IMG_DESC_END
 
 Bira Dantas. Disponível em https://facebook.com/.
 
@@ -149,7 +149,7 @@ Qual situação reproduz essa estrutura de equiparação exibida na charge?
 # 07
 
 ![](images/5ebe6e2b0ac8442428b5f09c930ec433095648d5db594d87a3a9a99aec1a0257.jpg)  
-IMG_DESC_START : tipo=texto; resumo=Tira de quadrinhos com Charlie Brown e Lucy discutindo sobre ajuda psiquiátrica; elementos=[Charlie Brown, Lucy, placa "PSYCHIATRIC HELP", placa "THE DOCTOR IS IN", banquinho]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=["PSYCHIATRIC HELP", "THE DOCTOR IS IN", "WELL, I APPRECIATE THE HELP YOU'VE GIVEN ME", "I WAS WONDERING, THOUGH, IF I SHOULD GET A SECOND OPINION..", "ONLY IF YOU DON'T MIND MY BEATING YOU OVER THE HEAD WITH THAT STOOL YOU'RE SITTING ON!", "I GUESS FIRST OPINIONS ARE PRETTY GOOD.."] IMG_DESC_END
+IMG_DESC_START : tipo=texto; resumo=Tira de quadrinhos com Charlie Brown e Lucy discutindo sobre ajuda psiquiátrica; elementos=[Charlie Brown, Lucy, consultório psiquiátrico, banco]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[PSYCHIATRIC HELP, THE DOCTOR IS IN, WELL I APPRECIATE THE HELP YOU'VE GIVEN ME, I WAS WONDERING THOUGH IF I SHOULD GET A SECOND OPINION, ONLY IF YOU DON'T MIND MY BEATING YOU OVER THE HEAD WITH THAT STOOL YOU'RE SITTING ON, I GUESS FIRST OPINIONS ARE PRETTY GOOD] IMG_DESC_END
 Disponível em https://screenrant.com/funniest-peanuts-comics-charlie-brown-vs-lucy/.
 
 Falacias sao argumentos que podem até parecer a primeira vista bem construidos logicamente, mas sao falhos, seja em termos do uso da linguagem, de pertinência temática ou de correção formal. Os primeiros estudos sistemáticos das falacias foram feitos pelo filósofo Aristoteles, que classificou alguns dos argumentos falacios mais comuns.
@@ -303,7 +303,7 @@ Acessibilidade a edificacoes, mobilario, espanca e equipamentos urbanos. Disponi
 A inclinacao i da rampa em porcentagem  $(\%)$  e calculada dividindo a altura  $h$  do desnivel do segmento da rampa, em metros, pelo comprimento da projecao horizontal  $C$ , em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.
 
 ![](images/154bfccdf5213006e2a1f43ba63e026afabc1a2811c121d5332cf2d6d6162f66.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama de uma rampa com corrimão para cadeirantes, mostrando dimensões c e h.; elementos=[rampa, corrimão, cadeirante]; dados_chave=[c, h]; grandezas=[]; estrutura=[(rampa, posição); (corrimão, posição); (cadeirante, posição)]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama de uma rampa para cadeirantes com medidas indicadas.; elementos=[rampa, corrimão, cadeirante]; dados_chave=[inclinação, acessibilidade]; grandezas=[(c, valor, unidade), (h, valor, unidade)]; estrutura=[(0,0);(10,0);(20,10);(30,10)]; texto_detectado=[] IMG_DESC_END
 
 Determinada rampa de dois segmentos foi construida da seguinte maneira:
 
@@ -322,7 +322,7 @@ Com base no que foi apresentado sobre a normativa, o que é correto afirmar sobr
 A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto O e deseja chegar ao ponto C. Para tanto, percorre o trajeto pela faixa que liga O a B e, em seguida, utiliza a faixa que liga B a C. Considere que as codernadas dos pontos indicados na figura, em metros, são: O(0,0), B(13,- 15) e C(29,- 8).
 
 ![](images/ff2b449fd175145448219ecda67b7f567a665ac6b1c59b3ee3f161f0e497c14a.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem aérea de um cruzamento urbano com marcações geométricas; elementos=[cruzamento, faixa de pedestres, Rua da Consolação, pontos O, B, C, linhas amarelas, linhas rosa]; dados_chave=[Rua da Consolação, linhas amarelas, linhas rosa]; grandezas=[]; estrutura=[(O↔B), (B↔C), (C↔O)]; texto_detectado=[Rua da Consolação] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Imagem aérea de um cruzamento urbano com marcações geométricas; elementos=[cruzamento, ruas, edifícios, marcações geométricas]; dados_chave=[Rua da Consolação, pontos O, B, C]; grandezas=[]; estrutura=[(O, B, C)]; texto_detectado=[Rua da Consolação] IMG_DESC_END
 
 Seja  $d$  a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga O e C. Nesse contexto, é correto afirmar:
 
@@ -339,7 +339,7 @@ No dia 26 de marco de 2024, a 1h29min, aproximadamente, o navio cargueiro MV Dal
 A figura a seguir mostra os dados da velocidade do navio em fungao da hora local. A colisao ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no grafico.
 
 ![](images/e3d4926eec74ffbec5b56bc316377031379d5cf5e15d2d602bedc6e22faebb1a.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra a velocidade de um navio ao longo do tempo, com uma redução brusca ao entrar em contato com uma ponte.; elementos=[linhas, pontos, texto, eixos]; dados_chave=[milhas por hora, MarineTraffic, My Ship Tracking, 1:18 a.m., 1:34 a.m., 38s]; grandezas=[(velocidade,7.82,m.p.h.),(velocidade,2.5,m.p.h.)]; estrutura=[(1:18,8);(1:20,8.5);(1:22,9);(1:24,9.5);(1:26,9.8);(1:28,7.82);(1:30,2.5);(1:32,1);(1:34,0.5)]; texto_detectado=["milhas por hora", "O navio começa a diminuir a velocidade", "38s", "7,82 m.p.h.", "Neste intervalo, o navio entra em contato com a ponte", "2,5 m.p.h.", "Velocidades de acordo com as fontes:", "MarineTraffic", "My Ship Tracking", "Nota: Os pontos de dados são representados como círculos. As linhas são apenas orientativas, ou seja, não são conhecidas as velocidades reais entre os pontos de dados."] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra a velocidade de um navio ao longo do tempo, destacando uma redução brusca de velocidade.; elementos=[linha azul, linha verde, pontos de dados, texto explicativo]; dados_chave=[7,82, 2,5, 38]; grandezas=[(m.p.h., 7,82, milhas por hora), (m.p.h., 2,5, milhas por hora), (s, 38, segundos)]; estrutura=[(1:18 a.m., 8→10); (1:26 a.m., 10→8); (1:28 a.m., 8→7,82); (1:30 a.m., 7,82→2,5); (1:34 a.m., 2,5→0)]; texto_detectado=[milhas por hora, O navio começa a diminuir a velocidade, 38s, 7,82 m.p.h., Neste intervalo, o navio entra em contato com a ponte, 2,5 m.p.h., Velocidades de acordo com as fontes:, MarineTraffic, My Ship Tracking, Nota: Os pontos de dados são representados como círculos. As linhas são apenas orientativas, ou seja, não são conhecidas as velocidades reais entre os pontos de dados.] IMG_DESC_END
 
 Disponivel em https://www.mynhas.com/ (Adaptado).
 
@@ -362,7 +362,7 @@ Utilize 1 m.p.h.  $= 0.5m / s$
 O efeito Compton, descoberto na decada de 1920, e hoje amplamente utilizado durante tratamentos radioterapicos. O efeito relaciona- se a mudanca no comprimento de onda de fotonos de raios X quando interagem com particulas como eletrons ou protones, conforme ilustrado na figura a seguir.
 
 ![](images/c6ab9aaeb7907f95c667ba10f0ce837f9c8d1ecdf3c3667f3d1bbb7a3400dc44.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a interação de um fóton com uma partícula e sua trajetória emergente; elementos=[fóton, partícula, fóton emergente, partícula emergente]; dados_chave=[eixos x e y, λ0, λ', θ, φ]; grandezas=[]; estrutura=[(fóton↔partícula), (fóton emergente↔partícula emergente)]; texto_detectado=[fóton, partícula, fóton emergente, partícula emergente] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a interação de um fóton com uma partícula, resultando em um fóton emergente e uma partícula emergente; elementos=[fóton, partícula, fóton emergente, partícula emergente]; dados_chave=[λ0, λ', θ, φ]; grandezas=[(λ0, valor, unidade), (λ', valor, unidade), (θ, valor, unidade), (φ, valor, unidade)]; estrutura=[(fóton, partícula, interação); (fóton emergente, partícula emergente, resultado)]; texto_detectado=[fóton, partícula, fóton emergente, partícula emergente] IMG_DESC_END
 
 Quando um foton com comprimento de onda  $\lambda_0$  incide sobre uma particula, ele emerge dessa interacao formando um angulo  $\theta$  com sua direcao inicial de movimento, e seu novo comprimento de onda  $\lambda^\prime$  é dado pela relacao
 
@@ -385,7 +385,7 @@ Com base nessas informacoes e em seus conhecimentos sobre a propagação das ond
 A figura a seguir apresenta a evolucao dos modelos atomicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913.
 
 ![](images/96052814f9f021d3aa43b9991af757dead547d749f1488a7746bdef7de11b676.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a evolução dos modelos atômicos de Dalton, Thomson, Rutherford e Bohr; elementos=[esfera vermelha, esfera amarela com símbolos de carga, esfera roxa com núcleo, esfera azul com órbitas]; dados_chave=[Dalton (1803), Thomson (1904), Rutherford (1911), Bohr (1913)]; grandezas=[]; estrutura=[(Dalton, esfera vermelha), (Thomson, esfera amarela com símbolos de carga), (Rutherford, esfera roxa com núcleo), (Bohr, esfera azul com órbitas)]; texto_detectado=[Dalton (1803), Thomson (1904) (Cargas positivas e negativas), Rutherford (1911) (Núcleo e eletrosfera), Bohr (1913) (Níveis de energia)] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a evolução dos modelos atômicos de Dalton, Thomson, Rutherford e Bohr; elementos=[átomos, cargas, núcleos, eletrosferas, níveis de energia]; dados_chave=[Dalton 1803, Thomson 1904, Rutherford 1911, Bohr 1913]; grandezas=[]; estrutura=[(Dalton, esfera sólida); (Thomson, esfera com cargas); (Rutherford, núcleo e eletrosfera); (Bohr, níveis de energia)]; texto_detectado=[Dalton (1803), Thomson (1904) (Cargas positivas e negativas), Rutherford (1911) (Núcleo e eletrosfera), Bohr (1913) (Níveis de energia)] IMG_DESC_END
 
 Sobre os quatro modelos atomicos apresentados, é correto afirmar:
 
@@ -410,7 +410,7 @@ Distribução eletromica:  $\mathsf{Li} = 1\mathsf{s}^{+}$ ,  $2\mathsf{s}^{+}$ 
 # 22
 
 ![](images/51fed61c162cbb40be353c551d70e742bbfe4069ee58ac1c1da3470a7e28af7c.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando reflexão total e luz espalhada com interação de um dedo e ângulos de incidência em diferentes meios.; elementos=[dedo, luz, superfície, ângulos, meios]; dados_chave=[reflexão total, luz espalhada, θ, θL, n1, n2]; grandezas=[]; estrutura=[(dedo↔superfície), (luz↔superfície), (θ>θL), (θ<θL)]; texto_detectado=[reflexão total, luz espalhada, θ>θL, θ<θL, n1, n2] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama ilustrando o fenômeno de reflexão total e luz espalhada em um meio com índice de refração variável.; elementos=[dedo, luz, meio, índice de refração]; dados_chave=[reflexão total, luz espalhada, θL, n1, n2]; grandezas=[]; estrutura=[(reflexão total, luz espalhada, θ>θL, θ<θL)]; texto_detectado=[reflexão total, luz espalhada, θ>θL, θ<θL, n1, n2] IMG_DESC_END
 
 Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração  $n_{1}$ , em direção a um meio 2, com índice de refração  $n_{2}$ , formando com a direção perpendicular à interface entre os meios um ângulo  $\theta$  maior do que um centro valor limite  $\theta_{\mathrm{L}}$ , tal que sen  $\theta_{\mathrm{L}} = n_{2} / n_{1}$ . Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa  $F$  fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.
 
@@ -429,7 +429,7 @@ Tratando o meio 2 sempre como tendo índice de refração  $n_{2} = 1,0003$ , o 
 Considere o texto a seguir.
 
 ![](images/cd41f5de9525c99e780cca82dfa1a1d00341ecf940703bd6515f3c3ee799b68a.jpg)  
-IMG_DESC_START : tipo=foto; resumo=Imagem de um buraco negro com um anel luminoso ao redor; elementos=[buraco negro, anel luminoso]; dados_chave=[cores: laranja, amarelo, preto]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem de um buraco negro com luzes brilhantes ao redor; elementos=[buraco negro, luzes, brilho]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
 The Event Horizon Telescope Collaboration.
 
 "Com observacoes feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros.
@@ -451,7 +451,7 @@ Com base no texto e em seus conhecimentos, é correto afirmar:
 Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano.
 
 ![](images/e1ccb48d085d6f470a35f34a942c03a8026ec6481ff46783859fd6f942a6d732.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem aérea de um cruzamento urbano com ruas identificadas.; elementos=[ruas, edifícios, telhados, vegetação]; dados_chave=[R. Relíquia do Oceano, R. Cloreto de Sódio]; grandezas=[]; estrutura=[(R. Relíquia do Oceano↔R. Cloreto de Sódio)]; texto_detectado=[R. Relíquia do Oceano, R. Cloreto de Sódio] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Imagem aérea de um cruzamento urbano com ruas identificadas.; elementos=[ruas, edifícios, veículos]; dados_chave=[R. Relíquia do Oceano, R. Cloreto de Sódio]; grandezas=[]; estrutura=[]; texto_detectado=[R. Relíquia do Oceano, R. Cloreto de Sódio] IMG_DESC_END
 
 A coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio
 
@@ -478,7 +478,7 @@ Com base nessas medidas, a escala numérica do mapa corresponde a
 Atualmente  $80\%$  do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de Suez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região passou a ser uma nova fronteira para o comércio mundial.
 
 ![](images/65915b3fb4a013c32703e75ca5c357e8d78ec67fb7bfc0302d8b2db52c358341.jpg)  
-IMG_DESC_START : tipo=mapa; resumo=Mapa mostrando rotas marítimas no Ártico e comparação com rotas tradicionais. elementos=[Canal do Panamá, Canal de Suez, Rota Nordeste, Rota Noroeste, Polo Norte, Groenlândia, Islândia, Noruega, Rússia, China, Estados Unidos, Canadá, Europa]; dados_chave=[500 km, 25.588 km, 19.550 km, 16.100 km, 15.793 km, 2019, 2030]; grandezas=[]; estrutura=[]; texto_detectado=[Via Canal do Panamá, Rota Noroeste, Via Canal de Suez, Rota Nordeste, Rotas entre China, Europa, EUA e Canadá, Mar de Bering, Estreito de Bering, Circulo Polar Ártico, Oceano Glacial Ártico, Polo Norte, Baía de Hudson, Baía de Baffin, Groenlândia, Islândia, Noruega, Suécia, Finlândia, Rússia, China, América, Ásia, Europa, Legenda, Zona turística, Bases Militares, Portos Comerciais, Cidades, Exploração e Produção, Petróleo, Gás, Principais zonas de exploração mineral, Limite da Zona Econômica Exclusiva, Cobertura do gelo marinho no Ártico em setembro, Projeção para 2030, Rotas marítimas do Ártico, Rota Noroeste, Ponte Ártica da Passagem Noroeste, aberta 4 meses por ano, Rota Nordeste, Tráfego marítimo intenso] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Mapa das rotas marítimas no Ártico destacando a Rota Nordeste e Noroeste e suas distâncias comparativas com canais de Suez e Panamá.; elementos=[China, Europa, EUA, Canadá, Groenlândia, Islândia, Rússia, Noruega, Suécia, Finlândia, Oceano Glacial Ártico, Polo Norte, Baía de Hudson, Baía de Baffin, Mar de Bering, Mar de Barents, Estreito de Bering, Roterdã, Shanghai, Via Canal do Panamá, Via Canal de Suez, Rota Nordeste, Rota Noroeste]; dados_chave=[Rota Nordeste 15793 km, Rota Noroeste 16100 km, Via Canal do Panamá 25588 km, Via Canal de Suez 19550 km, 500 km escala gráfica]; grandezas=[(km, 15793, distância), (km, 16100, distância), (km, 25588, distância), (km, 19550, distância), (km, 500, escala gráfica)]; estrutura=[]; texto_detectado=[Via Canal do Panamá, Rota Nordeste, Rota Noroeste, Roterdã, Shanghai, Mar de Bering, Ásia, América, Estados Unidos, Canadá, Groenlândia, Dinamarca, Islândia, Europa, Rússia, Noruega, Suécia, Finlândia, Circulo Polar Ártico, Oceano Glacial Ártico, Polo Norte, Baía de Hudson, Baía de Baffin, Mar de Barents, Estreito de Bering, Rotas entre China, Europa, EUA e Canadá, Legenda, Zona turística, Bases Militares, Portos Comerciais, Cidades, Exploração e Produção, Petróleo, Gás, Principais zonas de exploração mineral, Limite da Zona Econômica Exclusiva, Cobertura do gelo marinho no Ártico em setembro, 2019, Projeção para 2030, Rotas marítimas do Ártico, Rota Noroeste, Ponte Ártica da Passagem Noroeste, aberta 4 meses por ano, Rota Nordeste, Tráfego marítimo intenso] IMG_DESC_END
 Carto Le monde en cartes, n.59, maio-junho 2020 (Adaptado).
 
 Com base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.
@@ -546,7 +546,7 @@ Considerando os seres vivos atuais, as informações trazidas pelo texto e os pr
 A imagem a seguir ilustra o aparecimento de uma barreira que promoveu separação de uma população de rinocerontes e consequente redução no tamanho das populações resultantes.
 
 ![](images/38afffe08f02391957ff357ffe99cb53df4143202989a328649abf617daa8c42.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a redução da população de rinocerontes após a fragmentação do habitat ao longo do tempo.; elementos=[rinocerontes, casas, círculos, flecha, texto]; dados_chave=[cores dos círculos, direção do tempo]; grandezas=[]; estrutura=[(rinocerontes, círculo maior);(casas, dispersas);(flecha, entre círculos);(rinocerontes, círculo menor)]; texto_detectado=[Redução no tamanho da população após a fragmentação do habitat, Tempo] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a redução da população de rinocerontes após a fragmentação do habitat; elementos=[rinocerontes, casas, círculos coloridos, setas, texto]; dados_chave=[]; grandezas=[]; estrutura=[(população inicial, população reduzida)]; texto_detectado=[Redução no tamanho da população após a fragmentação do habitat, Tempo] IMG_DESC_END
 
 Disponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).
 
@@ -571,7 +571,7 @@ Assinale a alternativa que representa a relacao ecologica entre os corais e as a
 O fenomeno fisico conhecido como iridescencia ocorre nas asas de certas especies de borboletas e caracteriza- se pela variacao das cores de acordo com o angulo de observacao. A existencia de faixas coloridas na superficie das asas das borboletas ocorre devido a diferentes formas de superposicao entre raios luminosos refletidos por uma fina camada de substancia transparente existente na superficie das asas.
 
 ![](images/18ecd599aaa3bd8851d09d0e14fa7345da328c9cd12282bddeb9851568e74ea0.jpg)  
-IMG_DESC_START : tipo=foto; resumo=Foto de uma borboleta com asas coloridas em fundo preto.; elementos=[borboleta, asas, fundo preto]; dados_chave=[cores: verde, azul, preto]; grandezas=[]; estrutura=[(borboleta, centro)]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Foto de uma borboleta com asas coloridas; elementos=[borboleta, asas, fundo escuro]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
 Disponivel em https://www.pbs.org/wgbh/.
 
 Os fenomenos fisicos diretamente relacionados com a iridescencia sao
@@ -585,7 +585,7 @@ Os fenomenos fisicos diretamente relacionados com a iridescencia sao
 # 33
 
 ![](images/a9b12c5da2ee542cf7d4203ecf215658913f61abf412984c3a52c39bb67af132.jpg)  
-IMG_DESC_START : tipo=outro; resumo=Imagens de um pica-pau com pontos coloridos numerados e gráfico de desaceleração em g com picos coloridos correspondentes.; elementos=[pica-pau, gráfico, pontos coloridos, números]; dados_chave=[desaceleração, g, 0.01s, 1, 2, 3, 4]; grandezas=[(g,200,g)]; estrutura=[(1,0.01,0→200);(2,0.02,0→150);(3,0.03,0→180);(4,0.04,0→170)]; texto_detectado=[Desaceleração, 0.01s] IMG_DESC_END
+IMG_DESC_START : tipo=outro; resumo=Imagens de um pica-pau com gráfico de desaceleração em diferentes pontos da cabeça; elementos=[pica-pau, gráfico, pontos numerados]; dados_chave=[desaceleração, tempo]; grandezas=[(g, 200, g), (tempo, 0.01, s)]; estrutura=[]; texto_detectado=[Desaceleração, 0.01s] IMG_DESC_END
 WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024) (Adaptado).
 
 Em um estudo relatado no periodico Physics Today, cientistas belgas mostraram que os pica- paus nao dispom de mecanismos de absorcao de choques em seus ossos do cranio, ao contrario do que se acreditava anteriomente. Nos experimentos realizados, verificou- se que o cerebro de um pica- pau pode experimentar desaceleracoes instantaneas de ate  $400g$  ,sendo  $g$  o modulo da aceleracao da gravidade. Suponha que, durante uma batida em um tronco de dvore, o cranio do pica- pau, suposto perfeitamente rigido, sofra uma desaceleracao constante de  $200g$  ao longo de um tempo de 2,0 milissegundos. Qual e a distancia percorrida pelo cranio do pica- pau durante esse tempo, até atingir momentaneamente o repouso?
@@ -690,7 +690,7 @@ Assinale a alternativa que apresenta uma correspondência correta entre os verso
 # 39
 
 ![](images/fe81634155881f8479d2ced3d2325b0cc77b6510e255f3ee29b4174c433c99ba.jpg)
-IMG_DESC_START : tipo=outro; resumo=Imagens ilustrativas com texto sobre família e figuras políticas; elementos=[mulher, criança, coração, homem, casal]; dados_chave=[mamá, Ema, Y, Eva, Perón, Sara, esposo, peronistas]; grandezas=[]; estrutura=[(mulher, mesa), (mulher, criança), (mulher, coração), (homem, gesto), (casal, juntos)]; texto_detectado=[mi mamá, mamá y Ema, veo a mamá, mi mamá me ve, Eva amó a mamá, Eva me amó, Perón, Sara y su esposo a Perón, Son peronistas, Votaron a Perón, Perón y Eva Perón] IMG_DESC_END
+IMG_DESC_START : tipo=texto; resumo=Imagens de um livro infantil com ilustrações e textos sobre família e figuras políticas; elementos=[mulher, criança, coração, homem, casal]; dados_chave=[mamá, Ema, Perón, Eva Perón]; grandezas=[]; estrutura=[]; texto_detectado=[mi mamá, mamá y Ema, veo a mamá, Eva amó a mamá, Perón, Sara y su esposo, Son peronistas, Votaron a Perón, Perón y Eva Perón] IMG_DESC_END
 
 PALACIO, Angela. Privilegiados. Libro de lectura inicial. Buenos Aires: Kapelusz, 1954. Apud CAPELATO, Maria Helena. Multidoes em cena. Propaganda política no varguismo e no peronismo. Campinas: Papirus, 1998. p.88- 91.
 
@@ -705,7 +705,7 @@ As imagens mostram páginas de uma cartilha de alfabetização produzida durante
 # 40
 
 ![](images/856a1db6e5186b41d71663eee71e86eef53fb586cd14642a91e1c4bff5d9c054.jpg)
-IMG_DESC_START : tipo=outro; resumo=Símbolo representando igualdade de gênero com sinais de masculino e feminino integrados.; elementos=[círculo, seta, cruz, sinal de igual]; dados_chave=[cor vermelha, símbolo de igualdade, símbolo masculino, símbolo feminino]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=outro; resumo=Símbolo representando igualdade de gênero com sinais de masculino e feminino unidos por um sinal de igual.; elementos=[símbolo de masculino, símbolo de feminino, sinal de igual]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
 
 Attingir a igualdade de género é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015.
 
@@ -764,7 +764,7 @@ No texto, a percepção de "conforto como construto" indica que o eu lírico vê
 # 44
 
 ![](images/5f49e4a392047718a0f7ae13b3e31b9a00c469db230081cd69697ba90446c509.jpg)  
-IMG_DESC_START : tipo=foto; resumo=Imagem de Calvin e Haroldo conversando sobre mudanças inesperadas.; elementos=[Calvin, Haroldo, balão de fala]; dados_chave=[]; grandezas=[]; estrutura=[(Calvin, esquerda), (Haroldo, direita)]; texto_detectado=["SABE O QUE É ESTRANHO? NADA PARECE MUDAR DE UM DIA PARA O OUTRO, MAS DE REPENTE TUDO FICA DIFERENTE."] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem de Calvin e Haroldo conversando sobre mudanças inesperadas.; elementos=[Calvin, Haroldo, balão de fala]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[SABE O QUE É ESTRANHO?, NADA PARECE MUDAR DE UM DIA PARA O OUTRO, MAS DE REPENTE TUDO FICA DIFERENTE.] IMG_DESC_END
 Disponível em https://br.pinterest.com/.
 
 "Quem negaria que os futuros ainda não são? Mas já está na mente a espera dos futuros. E quem negaria que os passados já não são? Todavia, ainda está na mente a memória dos passados. E quem negaria que o tempo presente não tem extensão temporal, porque massa em um instante? Todavia, perdura a atenção, pela qual o que está presente se encaminha para a ausência."
@@ -806,7 +806,7 @@ A maior parte da alimentacao humana e constituida por graos e cereais, que, em s
 A figura a seguir representa os niveis medios de consumo de gordura saturada nadrieta para adultos com idade ≥20 anos.
 
 ![](images/de971a16b25e2bd52cb463dadc791e0cc1130030c59f547eae5b85840db66344.jpg)  
-IMG_DESC_START : tipo=mapa; resumo=Mapa mundial mostrando a ingestão de gordura saturada em adultos com mais de 20 anos, categorizada por faixas de porcentagem de energia diária. elementos=[América do Norte, América do Sul, Europa, Ásia, África, Oceania, legenda]; dados_chave=[<4,0, 4,0-5,4, 5,5-6,9, 7,0-8,4, 8,5-9,9, 10,0-11,4, 11,5-12,9, 13,0-14,4, 14,5-15,9, ≥16,0]; grandezas=[(energia/dia, %, unidade não especificada)]; estrutura=[]; texto_detectado=[Ingestão de gordura saturada (% energia/dia) para adultos ≥ 20 anos] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Mapa mundial mostrando a ingestão de gordura saturada em adultos com 20 anos ou mais. As cores indicam diferentes faixas de porcentagem de energia diária proveniente de gordura saturada.; elementos=[América do Norte, América do Sul, Europa, África, Ásia, Oceania]; dados_chave=[<4,0, 4,0-5,4, 5,5-6,9, 7,0-8,4, 8,5-9,9, 10,0-11,4, 11,5-12,9, 13,0-14,4, 14,5-15,9, ≥16,0]; grandezas=[(% energia/dia, ≥20, anos)]; estrutura=[]; texto_detectado=[Ingestão de gordura saturada (% energia/dia) para adultos ≥ 20 anos, <4,0, 4,0-5,4, 5,5-6,9, 7,0-8,4, 8,5-9,9, 10,0-11,4, 11,5-12,9, 13,0-14,4, 14,5-15,9, ≥16,0] IMG_DESC_END
 MICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI: 10.1136/bmj.g2272.
 
 Considerando apenas os dados da figura, os habitantes da Australia e da Russia apresentam maiores riscos de desenvolver doenças
@@ -822,11 +822,11 @@ Considerando apenas os dados da figura, os habitantes da Australia e da Russia a
 48Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre (indicado por algarismo romano), segundo informações obtidas pelo IBGE.
 
 ![](images/6b21ec9173ee67468dbb5a90ba355cef015ec840541eb5886dd2945c5719dfef.jpg)  
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico de linha mostrando a quantidade de cabeças de gado em milhões ao longo dos anos de 2019 a 2024.; elementos=[linhas, pontos, eixos]; dados_chave=[Milhões de cabeças, 2019, 2020, 2021, 2022, 2023, 2024, I, II, III, IV, 7.93, 7.34, 6.60, 7.01, 7.44, 9.30]; grandezas=[]; estrutura=[(2019,I,7.93);(2019,II,7.93);(2019,III,7.93);(2019,IV,7.93);(2020,I,7.34);(2020,II,7.34);(2020,III,7.34);(2020,IV,7.34);(2021,I,6.60);(2021,II,6.60);(2021,III,6.60);(2021,IV,6.60);(2022,I,7.01);(2022,II,7.01);(2022,III,7.01);(2022,IV,7.01);(2023,I,7.44);(2023,II,7.44);(2023,III,7.44);(2023,IV,7.44);(2024,I,9.30)]; texto_detectado=[Milhões de cabeças, 7.93, 7.34, 6.60, 7.01, 7.44, 9.30, 2019, 2020, 2021, 2022, 2023, 2024, I, II, III, IV] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico de linha mostrando a variação do número de cabeças de gado em milhões de 2019 a 2024; elementos=[linha, pontos, eixos, rótulos]; dados_chave=[7.93, 7.34, 6.60, 7.01, 7.44, 9.30]; grandezas=[(cabeças, 9.30, milhões)]; estrutura=[(2019,I,7.93);(2019,II,7.93);(2019,III,7.93);(2019,IV,7.93);(2020,I,7.34);(2020,II,7.34);(2020,III,7.34);(2020,IV,7.34);(2021,I,6.60);(2021,II,6.60);(2021,III,6.60);(2021,IV,6.60);(2022,I,7.01);(2022,II,7.01);(2022,III,7.01);(2022,IV,7.01);(2023,I,7.44);(2023,II,7.44);(2023,III,7.44);(2023,IV,7.44);(2024,I,9.30)]; texto_detectado=[Milhões de cabeças, 2019, 2020, 2021, 2022, 2023, 2024, I, II, III, IV] IMG_DESC_END
 Evolugao do abate de bovinos no Brasil por trimestre (2019-2024)
 
 ![](images/4d278b28bbcd2be9f3fa62fa92b559b2162f952b5d18187a39bb970c0fe04ea3.jpg)  
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico de linhas mostrando a porcentagem de fêmeas e machos de 2019 a 2024.; elementos=[linhas, pontos, eixos, legenda]; dados_chave=[%, anos, trimestres, Fêmeas, Machos, 53.4, 46.6, 57.3, 42.7, 63.2, 36.8, 60.5, 39.5, 55.2, 44.8, 53.8, 46.2]; grandezas=[(%,53.4,),(%,46.6,),(%,57.3,),(%,42.7,),(%,63.2,),(%,36.8,),(%,60.5,),(%,39.5,),(%,55.2,),(%,44.8,),(%,53.8,),(%,46.2,)]; estrutura=[intervalos=(2019,I,53.4→46.6);(2019,II,46.6→53.4);(2019,III,53.4→46.6);(2019,IV,46.6→53.4);(2020,I,57.3→42.7);(2020,II,42.7→57.3);(2020,III,57.3→42.7);(2020,IV,42.7→57.3);(2021,I,63.2→36.8);(2021,II,36.8→63.2);(2021,III,63.2→36.8);(2021,IV,36.8→63.2);(2022,I,60.5→39.5);(2022,II,39.5→60.5);(2022,III,60.5→39.5);(2022,IV,39.5→60.5);(2023,I,55.2→44.8);(2023,II,44.8→55.2);(2023,III,55.2→44.8);(2023,IV,44.8→55.2);(2024,I,53.8→46.2)]; texto_detectado=[Fême
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico de linhas mostrando a porcentagem de fêmeas e machos de 2019 a 2024; elementos=[linhas, pontos, eixos, legenda]; dados_chave=[53,4, 46,6, 57,3, 42,7, 63,2, 36,8, 60,5, 39,5, 55,2, 44,8, 53,8, 46,2]; grandezas=[('%', 53,4, 'percentual'), ('%', 46,6, 'percentual')]; estrutura=[(2019, 2020, 2021, 2022, 2023, 2024)]; texto_detectado=[Fêmeas, Machos] IMG_DESC_END
 Evolugao da participação de machos e fêmeas no abate de bovinos no Brasil por trimestre (2019-2024)
 
 IBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias. Pesquisa Trimestral do Abate de Animais 2019- 2024 (Adaptado).
@@ -840,7 +840,7 @@ A partir dos dados observados nos gráficos, é correto afirmar:(A) No primeiro 
 49Observe as imagens de satélite que indicam o desmatamento de 12.272 hectares no município de Formosa do Rio Preto (BA), região do MATOPIBA, composta pelos estados do Maranhão, Tocantins, Piauí e Bahia, no período 2019- 2022.
 
 ![](images/ec0fe3e0506ad021ba2737f3b3827d3ef092c6a0eab55674bafb12f91f1763bf.jpg)  
-IMG_DESC_START : tipo=gráfico; resumo=Imagens de satélite mostram os limites da Área de Proteção Ambiental do Rio Preto de 2019 a 2022.; elementos=[imagem satélite, contorno amarelo, legenda]; dados_chave=[anos 2019, 2020, 2021, 2022, cor amarela, limites da Área de Proteção Ambiental do Rio Preto]; grandezas=[]; estrutura=[]; texto_detectado=[2019, 2020, 2021, 2022, Legenda:, Limites da Área de Proteção Ambiental do Rio Preto] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Imagens de satélite mostram mudanças na área de proteção ambiental do Rio Preto de 2019 a 2022.; elementos=[limites, área de proteção ambiental, Rio Preto, anos 2019-2022]; dados_chave=[limites da área de proteção ambiental, Rio Preto]; grandezas=[]; estrutura=[(2019,2020,2021,2022)]; texto_detectado=[2019, 2020, 2021, 2022, Legenda, Limites da Área de Proteção Ambiental do Rio Preto] IMG_DESC_END
 MapBiomas. 2023. Rediório de desmatamento no Brasil (Adaptado).
 
 Com base na análise temporal das imagens, assinale a alternativa que apresenta, respectivamente, o bioma correspondente à região do MATOPIBA, a atividade econômica desenvolvida nesse local e o possível impacto ambiental negativo decorrente de tal atividade.
@@ -868,7 +868,7 @@ A descrição da patagem impactada por ações humanas refere- se ao bioma
 A figura a seguir representa a variagao espacial da temperatura do ar por tipo de area, considerando diferentes padroes de uso e ocupagao do solo de um municipio.
 
 ![](images/ea4208049e4d7cbc23b4336d49950bf8b6823273d3c93e61b6fe736e9de3192b.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra variação de temperatura em diferentes tipos de área; elementos=[linha vermelha, ícones de áreas]; dados_chave=[Temperatura °C, Tipo de Área, Rural, Periferia, Comercial, Centro, Residencial, Verde, 29.4, 30.0, 30.6, 31.1, 31.7, 32.2, 32.8, 33.3]; grandezas=[]; estrutura=[(Rural,29.4);(Periferia,30.6);(Comercial,31.7);(Centro,32.8);(Residencial,31.1);(Verde,30.0)]; texto_detectado=[Temperatura °C, Tipo de Área, Rural, Periferia, Comercial, Centro, Residencial, Verde] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando a variação de temperatura em diferentes tipos de áreas urbanas e rurais.; elementos=[linha de temperatura, áreas urbanas, áreas rurais]; dados_chave=[temperatura mínima, temperatura máxima]; grandezas=[(Temperatura, 29.4-33.3, °C)]; estrutura=[(Rural, 29.4);(Periferia, 30.6);(Comercial, 31.7);(Centro, 32.8);(Residencial, 31.7);(Verde, 30.6)]; texto_detectado=[Temperatura °C, Tipo de Área, Rural, Periferia, Comercial, Centro, Residencial, Verde] IMG_DESC_END
 
 Revista Pesquisa FAPESP - Setembro/2023 (Adaptado).
 
@@ -908,7 +908,7 @@ Quando a frequência  $f$  é multiplicada por 3, o comprimento da onda sofre al
 A Estação Meteorológica Mirante de Santana é a principal referência do Instituto Nacional de Meteorologia (INMET) no município de São Paulo - SP. O climograma a seguir apresenta dados referentes ao mão de fevereiro de 2023. Neste mesmo mês, o Centro de Georenciamento de Emergências Climáticas detectou 11 pontos de alagamentos no dia 19 e 14 pontos no dia 21.
 
 ![](images/e73160073ae37576178c23b8411475d9073c86e91f5dd1b2fdea8ba62b3993d3.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra temperaturas máximas e mínimas e precipitações diárias e acumuladas em fevereiro de 2023 em São Paulo.; elementos=[linhas, barras, eixos, legendas, título]; dados_chave=[Temperatura (°C), Precipitação (mm), Chuva Dia, T.Max, T.Min, Chuva acumulada, 31.5, 21.6, 17.8, 21.5, 428.9]; grandezas=[(T,31.5,°C),(T,21.6,°C),(T,17.8,°C),(T,21.5,°C),(P,428.9,mm)]; estrutura=[intervalos=(1,2,31.5→29);(2,3,29→31);(3,4,31→28);(4,5,28→30);(5,6,30→28);(6,7,28→29);(7,8,29→27);(8,9,27→28);(9,10,28→27);(10,11,27→28);(11,12,28→29);(12,13,29→27);(13,14,27→28);(14,15,28→29);(15,16,29→27);(16,17,27→28);(17,18,28→21.6);(18,19,21.6→25);(19,20,25→27);(20,21,27→28);(21,22,28→29);(22,23,29→30);(23,24,30→28);(24,25,28→29);(25,26,29→30);(26,27,30→31);(27,28,31→32)]; texto_detectado=[Temperaturas e Precipitações: Fevereiro de 2023, Mirante de Santana, São Paulo - SP, Chuva Dia, T.Max, T.Min, Chuva acumulada] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra temperaturas máximas e mínimas e precipitações diárias e acumuladas em fevereiro de 2023 em Mirante de Santana, SP; elementos=[linha vermelha, linha azul, barras verdes, linha verde pontilhada]; dados_chave=[31,5°C, 21,6°C, 17,8°C, 21,5°C, 428,9mm]; grandezas=[(temperatura máxima, 31,5, °C), (temperatura mínima, 21,6, °C), (chuva acumulada, 428,9, mm)]; estrutura=[]; texto_detectado=[Temperaturas e Precipitações: Fevereiro de 2023, Mirante de Santana, São Paulo - SP, Chuva Dia, T.Max, T.Min, Chuva acumulada] IMG_DESC_END
 
 Disponível em https://portal.immet.gov.br/noticias/ (Adaptado).
 
@@ -963,7 +963,7 @@ A partir dessas informações, assinale a alternativa correta.
 Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa superaturada de acetato de sodio armazenada em um reservatório maleável, conforme mostrado na figura a seguir.
 
 ![](images/2e457ebafdfe35e6408cdf035e9a73ded65f8279ac8790b2ccd2d2acad71ab80.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem mostra duas bolsas térmicas com texto indicando ativação por choque mecânico; elementos=[bolsa térmica esquerda, bolsa térmica direita, texto]; dados_chave=[cor laranja, ativação por choque mecânico]; grandezas=[]; estrutura=[(bolsa térmica esquerda, posição esquerda); (bolsa térmica direita, posição direita)]; texto_detectado=[ativação por choque mecânico] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem mostra duas bolsas térmicas com instrução de ativação por choque mecânico; elementos=[bolsa térmica, instrução, seta]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[Ativação por choque mecânico] IMG_DESC_END
 
 Um choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultado no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando- o pronto para ser reutilizado.
 
@@ -992,7 +992,7 @@ Note e adote: Massa molar  $(g / mol)$  :  $\mathrm{Pb} = 207$
 Quando uma barra de um certo material é aquecida até uma temperatura  $T$  a partir de uma temperatura inicial  $T_{0}$  seu comprimento inicial  $L_{0}$  sofre um aumento  $\Delta L$  dado por  $\Delta L = \alpha L_{0}$ $(T - T_{0})$  , sendo  $\alpha$  o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.
 
 ![](images/a22c5cc40eb38758a6881171c5974eb121dc34b0fc73661ea06a2301e5988db0.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando a variação do comprimento de diferentes materiais em função da temperatura.; elementos=[linhas, eixos, etiquetas]; dados_chave=[Comprimento (m), Temperatura (°C), Polietileno, Cobre, Alumínio, 0, 50, 100, 150, 200, 9.9, 10.0, 10.1, 10.2, 10.3, 10.4, 10.5]; grandezas=[]; estrutura=[intervalos=(0,50,9.9→10.0);(50,100,10.0→10.1);(100,150,10.1→10.2);(150,200,10.2→10.3)]; texto_detectado=[Polietileno, Cobre, Alumínio, Comprimento (m), Temperatura (°C)] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando a variação do comprimento de diferentes materiais em função da temperatura.; elementos=[Polietileno, Cobre, Alumínio]; dados_chave=[comprimento, temperatura]; grandezas=[(comprimento, 10, m), (temperatura, 0, °C)]; estrutura=[(0,10,0→10);(50,10,0→10,1);(100,10,1→10,2);(150,10,2→10,3);(200,10,3→10,4)]; texto_detectado=[Comprimento (m), Temperatura (°C), Polietileno, Cobre, Alumínio] IMG_DESC_END
 
 Com base no gráfico e nas informações apresentadas, é correto afirmar:
 
@@ -1030,7 +1030,7 @@ A qual episódio (real ou hipotético) da história da física o trecho da músi
 Um brinquedo bastante comum em palques de diversoes, a montanha- russa, utiliza- se da transformagao parcial de energia potencial em energia cinetica (e vice- versa) como principio de funcionamento. Uma das montanhas- russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensao, localiza- se no Japao e tem vista para o Monte Fuji. Nela, a subida inicial ate o ponto mais alto, situado a uma altura aproximada de  $50m$  do solo, e feita sob angulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de  $30m / s$  em poucos segundos.
 
 ![](images/31a524aedaad87b6c250210f997a2cf6672514269f1644256309cbcae6af0622.jpg)  
-IMG_DESC_START : tipo=foto; resumo=Imagem de uma montanha-russa com o Monte Fuji ao fundo; elementos=[montanha-russa, carrinho, céu, nuvens, árvores, Monte Fuji]; dados_chave=[cor=vermelho(carrinho), estrutura=metal(montanha-russa)]; grandezas=[]; estrutura=[(montanha-russa, centro);(Monte Fuji, fundo)]; texto_detectado=[] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Foto de uma montanha-russa com o Monte Fuji ao fundo; elementos=[montanha-russa, carrinho, céu, nuvens, árvores, Monte Fuji]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[] IMG_DESC_END
 Montanha-russa Takabisha.
 
 Considerando um carrinho ocupado com massa total de  $300kg$  em repouso na posigao de altura maxima, a energia mecânica perdida durante a descida inicial e, aproximadamente,
@@ -1048,7 +1048,7 @@ Note e adote: Aceleragao da gravidade:  $\mathbf{g} = 10\mathbf{m} / \mathbf{s}^
 A utilizacao de matrizes energeticas limpas, tais como aquelas que nao aumentam a concentracao de  $CO_2(g)$  na atmosfera, e essencial para evitar a escalada das alteracoes climaticas causadas pela emissao de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a producao de uma matriz energetica limp.
 
 ![](images/9ac753027f8d99768b2eca0f99e333e7294902f1bab336d19be086df6a7f8344.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a captura e fixação de CO2 e CH4 usando NaOH e Na2CO3.; elementos=[fábrica, becker com NaOH, becker com Na2CO3, molécula de CO2, molécula de CH4, molécula de H2]; dados_chave=[CO2(g), 2NaOH(aq), Na2CO3(aq), H2O(l), CH4(g), 4H2(g)]; grandezas=[]; estrutura=[(fábrica↔CO2), (CO2↔NaOH), (NaOH↔Na2CO3), (Na2CO3↔CH4), (CH4↔H2)]; texto_detectado=[Captura, Fixação] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama ilustrando a captura e fixação de CO2 e CH4 usando NaOH e Na2CO3.; elementos=[CO2, NaOH, Na2CO3, H2O, CH4, H2]; dados_chave=[]; grandezas=[]; estrutura=[(captura, NaOH→Na2CO3); (fixação, Na2CO3→CH4)]; texto_detectado=[CO2(g) + 2NaOH(aq) → Na2CO3(aq) + H2O(l), Captura, Fixação, Na2CO3(aq) + 4H2(g) → CH4(g) + 2NaOH(aq) + H2O(l)] IMG_DESC_END
 
 (1) Capturar o  $CO_2(g)$  atmosferico utilizando NaOH(aq) para formar  $\mathrm{Na_2CO_3(aq)}$  . (1l) Tratar essa solugao, na presencia de um catalisador, com  $\mathsf{H}_2(\mathsf{g})$  oriundo de fontas renovaveis, para gerar  $\mathsf{CH}_4(\mathsf{g})$  um gas combustivel.
 
@@ -1110,7 +1110,7 @@ Ao empregar o promoem se em "utilizou- se o caldo de cana em uma célula a combu
 Pesquisas e terapias com células- tronco têm se mostrado cada vez mais promissores pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células- tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir.
 
 ![](images/ca399dff38e33e37261d7c86244b09590e8f4f169991ba33203aeef62878d788.jpg)  
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a diferenciação de células-tronco em diferentes tipos celulares; elementos=[célula-tronco, célula muscular, célula epitelial, célula nervosa, célula adiposa, célula óssea]; dados_chave=[setas indicando diferenciação]; grandezas=[]; estrutura=[(célula-tronco↔célula muscular), (célula-tronco↔célula epitelial), (célula-tronco↔célula nervosa), (célula-tronco↔célula adiposa), (célula-tronco↔célula óssea)]; texto_detectado=[célula muscular, célula epitelial, célula nervosa, célula adiposa, célula óssea, célula-tronco] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a diferenciação de células-tronco em diferentes tipos celulares.; elementos=[célula-tronco, célula muscular, célula epitelial, célula adiposa, célula óssea, célula nervosa]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[célula muscular, célula epitelial, célula adiposa, célula óssea, célula nervosa, célula-tronco] IMG_DESC_END
 Disponível em https://upload.wikimedia.org/wikipedia/(Adaptado).
 
 As células especializadas que derivam de uma mesma célula- tronco possuem os(as) mesmos(as)
@@ -1128,7 +1128,7 @@ O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e 
 Publicações científicas e PIB por pessoa - 2020 Area dos discos proportional ao número absoluto de publicações
 
 ![](images/d5d97c62b4eabbf12c8606df59cb160bafec1247533b95803706542a9047cefc.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico de dispersão mostrando a relação entre o PIB per capita e publicações científicas por milhão de habitantes em diferentes países.; elementos=[círculos, linha média mundial, rótulos de países]; dados_chave=[eixo x: PIB por pessoa em dólares, eixo y: publicações científicas por milhão de habitantes, média mundial]; grandezas=[]; estrutura=[(25000,400);(5000,100);(10000,400);(20000,1600);(40000,6400);(80000,6400)]; texto_detectado=[Média mundial, BRASIL, SÃO PAULO, Finlândia, Austrália, Suécia, Reino Unido, Noruega, Singapura, Irlanda, Holanda, Canadá, Bélgica, Alemanha, Estados Unidos, Coreia do Sul, Japão, Romênia, Malásia, Turquia, Rússia, Argentina, Tailândia, México, China, Egito, África do Sul, Tunísia, Irã, Índia, Vietnã, Indonésia, Espanha] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico de dispersão mostrando a relação entre PIB per capita e publicações científicas por milhão de habitantes em vários países.; elementos=[Finlândia, Austrália, Suécia, Reino Unido, Noruega, Singapura, Irlanda, Holanda, Bélgica, Alemanha, Canadá, Estados Unidos, Coreia do Sul, Japão, Arábia Saudita, Romênia, Malásia, Turquia, Rússia, São Paulo, China, Brasil, Argentina, Tailândia, México, Egito, África do Sul, Tunísia, Irã, Vietnã, Índia, Indonésia, Espanha, Itália]; dados_chave=[Média mundial]; grandezas=[(PIB por pessoa, 25000, dólares), (Publicações científicas, 6400, por milhão de habitantes)]; estrutura=[]; texto_detectado=[Média mundial, SÃO PAULO, BRASIL, Publicações científicas por milhão de habitantes, PIB por pessoa em dólares] IMG_DESC_END
 
 Revista Pesquisa FAPESP - Agosto/2022 (Adaptado).
 
@@ -1145,7 +1145,7 @@ A partir da análise do gráfico e do texto, é correto afirmar:
 No plano cartesiano Oxy, o gráfico que melhor representa a função  $f(x) = |x^2 + 5x - 6| - 5x + 6$  é dado por
 
 ![](images/41326c6624b2e2703359aef7b2bb2d190763fac9b2486187839b57f25169be53.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Conjunto de cinco gráficos de funções matemáticas com diferentes formas e comportamentos. elementos=[gráfico A, gráfico B, gráfico C, gráfico D, gráfico E]; dados_chave=[eixo x, eixo y, -15 a 15, -5 a 40, cor laranja]; grandezas=[]; estrutura=[(A,(-15,40),(15,0)),(B,(-15,40),(15,0)),(C,(-15,-40),(15,0)),(D,(-15,40),(15,0)),(E,(-15,40),(15,0))]; texto_detectado=[A, B, C, D, E, y, x] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Conjunto de gráficos de funções matemáticas com diferentes formas e comportamentos; elementos=[eixos x, eixos y, curvas]; dados_chave=[]; grandezas=[]; estrutura=[(A, parábola); (B, curva com inflexão); (C, curva com mínimo); (D, curva com máximo); (E, curva com máximo e mínimo)]; texto_detectado=[(A), (B), (C), (D), (E), x, y] IMG_DESC_END
 
 # 70
 
@@ -1192,7 +1192,7 @@ Revista Pesquisa FAPESP - Janeiro/2024 (Adaptado).
 O grafico a seguir ilustra o crescimento de uma especie de bacteria em meio de cultura, com e sem antibiotico. Foram testados tres antibioticos diferentes (1, 2 e 3).
 
 ![](images/943c90d39d07221bde0e4b5df3cb80cf39d051763d086f72909cae5aab4b901b.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando o número de bactérias ao longo de 17 dias sob diferentes condições de antibióticos.; elementos=[linha vermelha, linha verde, linha azul, linha roxa, eixos, legendas]; dados_chave=[eixo x: Tempo em cultura (dias), eixo y: Número de bactérias (milhões), sem antibiótico, antibiótico 1, antibiótico 2, antibiótico 3]; grandezas=[]; estrutura=[intervalos=(0,17,40→140),intervalos=(0,17,40→0),intervalos=(0,17,40→80),intervalos=(0,17,40→100)]; texto_detectado=[sem antibiótico, antibiótico 1, antibiótico 2, antibiótico 3, Tempo em cultura (dias), Número de bactérias (milhões)] IMG_DESC_END
+IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando o efeito de diferentes antibióticos no crescimento de bactérias ao longo de 17 dias.; elementos=[linha sem antibiótico, linha antibiótico 1, linha antibiótico 2, linha antibiótico 3, eixo x, eixo y, legenda]; dados_chave=[sem antibiótico, antibiótico 1, antibiótico 2, antibiótico 3]; grandezas=[(tempo, 0-17, dias), (número de bactérias, 0-140, milhões)]; estrutura=[(0,40,sem antibiótico);(0,40,antibiótico 1);(0,40,antibiótico 2);(0,40,antibiótico 3);(17,140,sem antibiótico);(17,0,antibiótico 1);(17,0,antibiótico 2);(17,0,antibiótico 3)]; texto_detectado=[sem antibiótico, antibiótico 1, antibiótico 2, antibiótico 3, Tempo em cultura (dias), Número de bactérias (milhões)] IMG_DESC_END
 
 Considerando o texto e o grafico, sobre a resistencia de bactérias a antibioticos, e correto afirmar:
 
@@ -1207,7 +1207,7 @@ Considerando o texto e o grafico, sobre a resistencia de bactérias a antibiotic
 A reagao do antibiotico sulfanilamida com halogenios leva a reagao de substituicao com o halogenio em duas posicoes distintas do anel aromatico, como representado na equagao nao balanceada a seguir.
 
 ![](images/17b3ab7faf0c7e7ea9592d677c8099098e049928bb0453f7c7ffb3de83f4a1a8.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Reação química mostrando a bromação de um anel benzênico substituído.; elementos=[anel benzênico, NH2, SO2NH2, Br2, Br, subproduto, seta]; dados_chave=[]; grandezas=[]; estrutura=[(anel benzênico↔NH2), (anel benzênico↔SO2NH2), (anel benzênico↔Br2), (anel benzênico↔Br), (anel benzênico↔subproduto)]; texto_detectado=[NH2, SO2NH2, Br2, Br, subproduto] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama de reação química mostrando a bromação de um anel aromático; elementos=[anel aromático, NH2, SO2NH2, Br2, Br, subproduto]; dados_chave=[bromação, reação química]; grandezas=[]; estrutura=[(anel aromático, NH2, SO2NH2);(Br2);(anel aromático, NH2, SO2NH2, Br, Br)]; texto_detectado=[NH2, SO2NH2, Br2, Br, subproduto] IMG_DESC_END
 
 Em um experimento, 1 L de uma solucao de sulfanilamida de pH 5 reagiu com  $\mathsf{Br}_2$  em excesso, obtendo- se pH 4 apos reagao total. Considerando que o volume se manteve inalterado apos a adigao do halogenio, quantos mols de sulfanilamida reagiram com bromo?
 
@@ -1226,7 +1226,7 @@ $$
 $$
 
 ![](images/9269079b51b58f7ff2d563f7660d4d35bff71c69b09cbe467cdb4ccb2267727f.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama de uma garrafa com manômetro indicando pressão interna e dois volumes distintos; elementos=[garrafa, manômetro, V_CO2, V_vin]; dados_chave=[pressão, escala de cores no manômetro]; grandezas=[]; estrutura=[(garrafa, centro), (manômetro, topo), (V_CO2↔V_vin)]; texto_detectado=[V_CO2, V_vin] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama de uma garrafa com medidor de pressão contendo dois volumes distintos; elementos=[garrafa, medidor de pressão, V_CO2, V_vin]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[V_CO2, V_vin] IMG_DESC_END
 
 A reagao ocorre no interior de uma garrafa PET de 2 L de volume util total, da qual foi retirado todo o ar. Insere- se na garrafa um volume inicial  $V_{\text{vin}}$  de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manometro. A reagao produzirá gas carbonico que ocupará um volume  $V_{CO_2}$  e exercera uma pressao  $P_{CO_2}$  sobre a tampa da garrafa, medida pelo manometro, como mostra a figura.
 
@@ -1272,7 +1272,7 @@ Considere que as forças relevantes atuando sobre a rolha no momento em que é e
 Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir.
 
 ![](images/e2234416b1bf22f3d9b7eab390ef81222ebc5a3a93802872be880d4bfb1b45be.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama de dois cones opostos com raios e alturas indicados.; elementos=[cone superior, cone inferior, eixo central]; dados_chave=[R, r, h]; grandezas=[(R, valor desconhecido, unidade desconhecida), (r, valor desconhecido, unidade desconhecida), (h, valor desconhecido, unidade desconhecida)]; estrutura=[(cone superior, pos superior), (cone inferior, pos inferior)]; texto_detectado=[R, r, h] IMG_DESC_END
+IMG_DESC_START : tipo=diagrama; resumo=Diagrama de dois cones opostos com raios e alturas indicados.; elementos=[cone superior, cone inferior, raio maior, raio menor, altura]; dados_chave=[R, r, h]; grandezas=[(R, -, unidade), (r, -, unidade), (h, -, unidade)]; estrutura=[]; texto_detectado=[R, h, r, R, h] IMG_DESC_END
 
 Sabe- se que a base e o topo do vaso são uma circunferência de raio  $R$  que mede  $10 \mathrm{cm}$ , a parte central é uma circunferência de raio  $r$  de  $5 \mathrm{cm}$  e a medida  $h$  mede  $12 \mathrm{cm}$ . Qual é a capacidade volumétrica desse vaso em  $cm^3$ ?
 
@@ -1307,7 +1307,7 @@ Em relação ao plano cartesiano Oxy, é correto afirmar que as equações  $x^{
 # 78
 
 ![](images/abc1f061c83a771ad947991aebe21f3ea013483303a7e0ef5d26adcabd64fafa.jpg)
-IMG_DESC_START : tipo=foto; resumo=Um professor está explicando uma equação matemática para três alunos em uma sala de aula.; elementos=[professor, alunos, quadro branco, equação]; dados_chave=[4+x=10, x=10-4, x=6]; grandezas=[]; estrutura=[(professor, direita), (alunos, esquerda)]; texto_detectado=[4+x=10, x=10-4, x=6, © MARK ANDERSON, WWW.ANDERTOONS.COM, ANDERSON] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Um professor ensina uma equação matemática para alunos em uma sala de aula.; elementos=[professor, alunos, quadro branco]; dados_chave=[equação matemática]; grandezas=[]; estrutura=[]; texto_detectado=[4+x=10, x=10-4, x=6] IMG_DESC_END
 
 "Hold on. When we learned Roman numerals, X was 10. Now it's 6. What's going on around here?!"
 
@@ -1320,7 +1320,7 @@ Contribui para o efeito decomicidade do cartum a(A) atitude do docente diante da
 # 79
 
 ![](images/30f1c3f75501bd2985194fa2ccd3bd3652acbec9facd4b2f246f32ae845803d4.jpg)
-IMG_DESC_START : tipo=mapa; resumo=Mapa mostrando as invasões bárbaras na Europa durante a queda do Império Romano, com rotas de diferentes tribos. elementos=[Europa, Império Romano do Ocidente, Império Romano do Oriente, Châlons, Roma, Cartago, Constantinopla, Adrianópolis, Anglos, Saxões, Francos, Godos, Visigodos, Ostrogodos, Hunos, Vândalos]; dados_chave=[linhas coloridas, legenda com tipos de linhas para diferentes tribos]; grandezas=[]; estrutura=[]; texto_detectado=[Império Romano do Ocidente, Império Romano do Oriente, Châlons, Roma, Cartago, Constantinopla, Adrianópolis, Anglos, Saxões, Francos, Godos, Visigodos, Ostrogodos, Hunos, Vândalos] IMG_DESC_END
+IMG_DESC_START : tipo=mapa; resumo=Mapa mostrando as invasões bárbaras na Europa durante a queda do Império Romano. elementos=[Europa, Império Romano do Ocidente, Império Romano do Oriente, Roma, Cartago, Constantinopla, Châlons, Adrianópolis, Anglos, Saxões, Francos, Godos, Visigodos, Ostrogodos, Hunos, Vândalos]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[Império Romano do Ocidente, Império Romano do Oriente, Roma, Cartago, Constantinopla, Châlons, Adrianópolis, Anglos, Saxões, Francos, Godos, Visigodos, Ostrogodos, Hunos, Vândalos] IMG_DESC_END
 
 Migrações e invasões no Império Romano, séculos IV e V.
 
@@ -1437,7 +1437,7 @@ No texto intitulado Tarsila, a pesquisaadora Aracy Amaral transcreve um trecho d
 AMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila, In: Tarsila do Amaral. São Paulo: Fundação Finambras, s.d, p.4.
 
 ![](images/5c70a4d1e4de721a65bd9f6691d940594c0cfb8b61995fceb0faf181cdbf6b13.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem colorida de uma paisagem rural com casas, vegetação e pessoas; elementos=[casas, árvores, pessoas, ponte, rio, vegetação]; dados_chave=[cores vivas, estilo artístico]; grandezas=[]; estrutura=[(casas, centro); (ponte, parte inferior); (pessoas, centro-direita)]; texto_detectado=[TARSILA] IMG_DESC_END
+IMG_DESC_START : tipo=foto; resumo=Imagem colorida de uma paisagem rural com casas, árvores e pessoas sobre uma ponte.; elementos=[casas, árvores, pessoas, ponte, rio]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[Tarsila] IMG_DESC_END
 
 Tarsila do Amaral, O mamoeiro, 1925, óleo s/ tela, 65,0 cm x 70,0 cm. Coleção Mário de Andrade - incluítao de Estudos Brasileiros da Universidade de São Paulo. Reprodução fotográfica: Rômulo Fialdini. Disponível em: https://enciclopedia.itaucultural.org.br/.
 

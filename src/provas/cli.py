@@ -16,7 +16,7 @@ def ocr(
 
 @app.command()
 def clean(
-    base: Path = typer.Argument(Path("provas"), help="Base folder containing exam subfolders")
+    base: Path = typer.Argument(Path("provas"), help="Base folder containinzg exam subfolders")
 ):
     """Normalize markdown (merge preambles, strip inline options)."""
     clean_batch(base)

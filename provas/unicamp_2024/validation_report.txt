@@ -1,6 +1,9 @@
 Exam: unicamp_2024
 Total questions: 69
-Questions with warnings: 1
+Questions with warnings: 2
 
 ## Questão 5
  - full_text is empty
+
+## Questão 46
+ - only 3 alternatives (often 4–5 expected)

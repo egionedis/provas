@@ -180,22 +180,18 @@
     },
     {
       "number": 9,
-      "full_text": "No inficio da novela Casa Velha, de Machado de Assis, o conego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutors:\n\n\"– Não desejo ao meu maior inimigo o que me aconteceu no mês de abril de 1839. \"",
+      "full_text": "De acordo com o texto, o acontecimento desagradável que vitimou o religioso faz com que ele possa ser considerado, ao final da narrativa, como a) um boêmio que se sente entediado na presença dos convivas da Casa Velha: \"Disseram-me que era amiga da família, e se chamava Matalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo\" (p. 29-30).",
       "alternatives": [
         {
           "letter": "A",
-          "text": "um boêmio que se sente entediado na presença dos convivas da Casa Velha: \"Disseram-me que era amiga da família, e se chamava Matalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo\" (p. 29-30)."
-        },
-        {
-          "letter": "B",
           "text": "um antiescravista, obrigado a conviver, na mesma casa grande, com senhores, agregados e escravos: \"Lalau (...) com as mãos no ombro do moleque, ora fitava os olhos na carapi- nha deste, ouwindo somente as palavras de Félix, ora orgua - os para o moço (...) (p. 67)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "um republicano que suporta um velho Coronel de posigoes conservadoras: \"Preverendissimo, (...) os farrapos invadiram Santa Catarina, entriram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento...\" (p. 89)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "um ingênuo que se deixa lludir em suas relações pessoais: \"nem por sombras me acudiu que a revelação de Dona An- tônia podia não ter verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as palavras que ela trazia na mente (...) (p. 89)."
         }
       ],
@@ -411,7 +407,7 @@
     },
     {
       "number": 19,
-      "full_text": "Imagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reûne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper- realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casa do branco.\n\nTradução da legenda: Eu apenas respiro por vocé. Um beijo, meu belo anjo!\n\nPanfleto anônimo produzido na França pré- revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Po- ignac.\n\nCom propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é cometo afirmar que",
+      "full_text": "Imagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reûne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper- realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casa do branco.\n\nTradução da legenda: Eu apenas respiro por vocé. Um beijo, meu belo anjo!\n\nPanfleto anônimo produzido na França pré- revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Po- ignac.\n\nCom propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é cometo afirmar que a)",
       "alternatives": [
         {
           "letter": "A",
@@ -657,6 +653,10 @@
         {
           "letter": "D",
           "text": "Os deltas sao formatados por sedimentos fluviais e cobertos por especies arboreas de grande porte."
+        },
+        {
+          "letter": "E",
+          "text": "da crise conjuntural da última década, agravada com a pandemia de covid-19; muitas vezes, a gestão urbana impõe a essa população a precariedade da circulação sem fim pela cidade e mesmo pela rede urbana."
         }
       ],
       "images": []
@@ -1035,18 +1035,14 @@
       "alternatives": [
         {
           "letter": "A",
-          "text": "os gametas se fundirem nos machos e operárias."
-        },
-        {
-          "letter": "B",
           "text": "os machos contem células haploïdes das linhagens 1 e 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "os machos serem homozigotos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "os machos serem diploides oriundos das linhagens 1 e 2."
         }
       ],
@@ -1058,18 +1054,14 @@
       "alternatives": [
         {
           "letter": "A",
-          "text": "competem por recursos e apresentam diferenças na eficiência de utilização do alimento disponível."
-        },
-        {
-          "letter": "B",
           "text": "ocupam nichos e cológicos distintos e têm crescimento populacional até o limite imposto pela resistência ambiental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "são generalistas e assim têm nichos ecológicos mais restritos, o que diminui a competição entre elas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "apresentam uma relação de cooperação, facilitando o crescimento populacional na ausência da resistência ambiental."
         }
       ],
@@ -1249,22 +1241,18 @@
     },
     {
       "number": 55,
-      "full_text": "Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta e feita usando a seguinte regra:\n\nSe Ana anda de patins, entao Carol tambem anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta.\n\nSabendo que neste final de semana Carol andou de patins, entao e necessariamente verdade que",
+      "full_text": "Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta e feita usando a seguinte regra:\n\nSe Ana anda de patins, entao Carol tambem anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta.\n\nSabendo que neste final de semana Carol andou de patins, entao e necessariamente verdade que a) Ana andou de patins.",
       "alternatives": [
         {
           "letter": "A",
-          "text": "Ana andou de patins."
-        },
-        {
-          "letter": "B",
           "text": "Ana nao andou de patins."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Bruna andou de patins."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Bruna nao andou de patins."
         }
       ],

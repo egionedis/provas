@@ -1243,7 +1243,7 @@
     },
     {
       "number": 45,
-      "full_text": "Considere que a expectativa de vida no Brasil a idade de 19 anos pode ser calculada, de forma aproximada, como a media aritmetica simples entre a expectativa de vida estimada a mesma idade dos homens e das mulheres. O mesmo pode ser feito a idade de 20 anos.\n\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil a idade de 19 anos era 58, e a expectativa de vida estimada dos homens a mesma idade era 54,7.\n\nSabe- se que a diferencia entre a expectativa de vida estimada dos homens e a das mulheres se manteve a idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade  $(\\mathsf{EVH}_{20})$  era 53,8.\n\nCom base nos dados apresentados, assimale a alternativa que apresenta a expectativa de vida estimada dos mulheres a idade de 19 anos  $(\\mathsf{EVM}_{19})$  e a expectativa de vida estimada a idade de 20 anos no Brasil  $(\\mathsf{EVB}_{20})$  em 2022.",
+      "full_text": "Com base nos dados apresentados, assimale a alternativa que apresenta a expectativa de vida estimada dos mulheres a idade de 19 anos  $(\\mathsf{EVM}_{19})$  e a expectativa de vida estimada a idade de 20 anos no Brasil  $(\\mathsf{EVB}_{20})$  em 2022.",
       "alternatives": [
         {
           "letter": "A",
@@ -1329,7 +1329,7 @@
     },
     {
       "number": 48,
-      "full_text": "A partir dos dados observados nos gráficos, é correto afirmar:(A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019. (B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões. (C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual. (D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões. (E) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019.",
+      "full_text": "A partir dos dados observados nos gráficos, é correto afirmar:\n\nA partir dos dados observados nos gráficos, é correto afirmar:(A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019. (B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões. (C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual. (D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões. (E) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019.",
       "alternatives": [
         {
           "letter": "A",
@@ -1628,7 +1628,7 @@
     },
     {
       "number": 58,
-      "full_text": "A toxicidade do Pb e o risco de sua ingestao ganharam notoriedade na midia devido a presença desse elemento em copos termicos amplamente comercializados. A exposicao ao Pb, no entanto, pode ocorrer tambem por fontes naturais, como a ingestao de agua em contato prolongado com minérios como a anglesita, rico em  $\\mathrm{PbSO_4}$ $(\\mathrm{Kps} = 1,0\\times 10^{- 8})$  Sabendo que a legislação estabelece a concentração máxima de Pb de  $0,01\\mathrm{mg / L}$  para agua potavel, assimale a alternativa correta em relação à ingestao de agua que tenha contato prolongado com a anglesita.",
+      "full_text": "Sabendo que a legislação estabelece a concentração máxima de Pb de  $0,01\\mathrm{mg / L}$  para agua potavel, assimale a alternativa correta em relação à ingestao de agua que tenha contato prolongado com a anglesita.",
       "alternatives": [
         {
           "letter": "A",
@@ -1691,11 +1691,11 @@
       "alternatives": [
         {
           "letter": "A",
-          "text": "Massa (mg) — Massa (mg)"
+          "text": "Massa (mg) — Massa (mg) — Massa (mg) — Massa (mg) — Massa (mg)"
         },
         {
           "letter": "B",
-          "text": "Tempo (meses) — Tempo (meses)"
+          "text": "Tempo (meses) — Tempo (meses) — Tempo (meses) — Tempo (meses) — Tempo (meses)"
         }
       ],
       "images": []
