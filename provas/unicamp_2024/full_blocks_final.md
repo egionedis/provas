@@ -128,17 +128,15 @@ c) "Os assaltantes desceram rápido. Maria olhou saudosa e desesperada para o pr
 d) "Nos últimos tempos na favela, os tirsteios aconteciam com frequência e a qualquer hora. Os componentes dos grupos rivais brigavam para garantir seus espaços e freguesias. Ha- via ainda o confronto constante com os policiais que invadiam a área" (p. 76).
 ----
 ## Questão 9
-
 No inficio da novela Casa Velha, de Machado de Assis, o conego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutors:
 
 "– Não desejo ao meu maior inimigo o que me aconteceu no mês de abril de 1839. " (MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11. )
 
-De acordo com o texto, o acontecimento desagradável que vitimou o religioso faz com que ele possa ser considerado, ao final da narrativa, como a) um boêmio que se sente entediado na presença dos convivas da Casa Velha: "Disseram-me que era amiga da família, e se chamava Matalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo" (p. 29-30).
+De acordo com o texto, o acontecimento desagradável que vitimou o religioso faz com que ele possa ser considerado, ao final da narrativa, como
 
+a) um boêmio que se sente entediado na presença dos convivas da Casa Velha: "Disseram-me que era amiga da família, e se chamava Matalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo" (p. 29-30).
 b) um antiescravista, obrigado a conviver, na mesma casa grande, com senhores, agregados e escravos: "Lalau (...) com as mãos no ombro do moleque, ora fitava os olhos na carapi- nha deste, ouwindo somente as palavras de Félix, ora orgua - os para o moço (...) (p. 67).
-
 c) um republicano que suporta um velho Coronel de posigoes conservadoras: "Preverendissimo, (...) os farrapos invadiram Santa Catarina, entriram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento..." (p. 89).
-
 d) um ingênuo que se deixa lludir em suas relações pessoais: "nem por sombras me acudiu que a revelação de Dona An- tônia podia não ter verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as palavras que ela trazia na mente (...) (p. 89).
 ----
 ## Questão 10
@@ -283,28 +281,19 @@ c) traz a imagem de mulheres enfileiradas, capturadas e obrigadas a se prostitu�
 d) registra mulheres que, durante a Guerra das Coreias, escolheram se casar e migrar com os soldados japoneses. A violação sexual é uma das marcas dos conflitos entre nações, atingindo em especial mulheres e crianças que, entendidas como vulneráveis, se tornam vítimas do dominio masculino.
 ----
 ## Questão 18
-
 Priões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, director da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem pertencia aos quadros do partido. Herzog foi assassinado dentro do DOI- CODI, sendo a versão oficial de sua morte falsamente atribuida a um enforcamento. Em sua Autobiografia, Rita Lee publicou o bilhete de Elis Regina que fazia menção a uma música feita para "Vlado" e que, obviamente, fora censurada.
 
-(Adaptado de: UIMA, N. Ditadura no Brasil e Censura nas Cancões de Rita Lee. Curitiba: Appris, 2019, p.17. )
 
-A partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é conreto afirmar, sobre os eventos narrados, que a) Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tiveram suas músicas censuradas pela Ditadura Militar, apesar da manutenção da garantia constitucional da liberdade de expressão.
+A partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é conreto afirmar, sobre os eventos narrados, que
 
+a) Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tiveram suas músicas censuradas pela Ditadura Militar, apesar da manutenção da garantia constitucional da liberdade de expressão.
 b) A Ditadura Militar permitiu a continuidade do Partido Comunista Brasileiro e perseguia sua etuação revolucionária vinculada a Stalin e à União Soviética; por conta disso, prenda e torturava seus filiados.
-
 c) Centros de detenção da Ditadura Militar, como o DOI-CODI, operaram dentro da legalidade constitucional, sendo que os presos, políticos ou não, eram fichados e tinham direito à defesa garantido por lei.
-
 d) Vladimir Herzog e outros jornalistas foram vítimas de perseguição política, prisões, torturas e execuções realizadas por militares, com apoio de parte da sociedade civil, em nome da ideologia da segurança nacional.
 ----
 ## Questão 19
-
 ![](images/54a08c609d3cfedebf74b583b857422c485476ee322905eb1bc7bf805d6dfb88.jpg)
-
-(Disponível em: https://www.uol.com.br/tilt/noticias/redecao/2023/03/26/oto- do- pa- pa- usando- casaca- estiloso- foi- triada- por- in- teligencia- artificial.htm?cmpio=copiaecola. Acesso em 04/05/2023. )
-
 ![](images/c5bacced38540bc8c7324dae146a88e799a79e66fe05b1dd8166d3a8a610e94b.jpg)
-
-(Biblioteca Nacional da França, sem data, RES 8- LB39- 12153. Disponível em: https://gallica.bnf.fr/ark:/12148/btv1- b6 942376r.item. Acesso em 04/05/2023. )
 
 Imagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reûne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper- realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casa do branco.
 
@@ -312,12 +301,11 @@ Tradução da legenda: Eu apenas respiro por vocé. Um beijo, meu belo anjo!
 
 Panfleto anônimo produzido na França pré- revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Po- ignac.
 
-Com propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é cometo afirmar que a) as campanhas de desinformação podem ser encontradas em diferentes contextos, como visto no uso do panfleto da rainha pela coroa francesa – com o objetivo de defender a monarquia – e na imagem do Papa – que explora a contra- dição entre a riqueza do Vaticano e os excluídos defendidos por ele.
+Com propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é cometo afirmar que
 
+a) as campanhas de desinformação podem ser encontradas em diferentes contextos, como visto no uso do panfleto da rainha pela coroa francesa – com o objetivo de defender a monarquia – e na imagem do Papa – que explora a contra- dição entre a riqueza do Vaticano e os excluídos defendidos por ele.
 b) no século XVIII e no século XXI, a produção e a circulação de fake news e desinformação são controladas pelos aparelhos de censura que revisam conteúdos orais e impressos, ainda que estruturados a partir de tecnologias diferenciadas.
-
 c) na era digital, a ruptura causada pelo uso de Inteligência Artificial e seu potencial na produção de desinformação está ao alcance do público, na instantaneidade e no realismo da imagem. No início da contemporaneidade, as manipulações em imagens e em notícias eram acessadas pelo público através de jornais e panfletos.
-
 d) os dispositivos de Inteligência Artificial representam uma ruptura no combate à desinformação ao possibilitar o rastreio e a eliminação instantânea de fake news. No século XVIII, o público era réfém de notícias falsas pela ausência desta tecnologia.
 ----
 ## Questão 20
@@ -431,7 +419,6 @@ c) Caiaras da regiao litoranea do Ceara praticam a pesca artesanal, utilizar as 
 d) Faxinalenses do norte de Minas Gerais usufruem dos campos para o desenvolvimento do extrativismo vegetal da eva mate e do pinhao, do cultivo agricola em pequena escala e da criacao de animais soltos.
 ----
 ## Questão 28
-
 O litoral brasileiro tem uma historia fisiografica e ecologica rica e complexa, influenciaada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e subtropical onde e possivel observar uma diversidade de ocorreencias geomorfologicas e paisagisticas que se sucedem ao longo de sua costa.
 
 (Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros, p. 281, 2005. )
@@ -442,7 +429,8 @@ a) Os manguezais localizam-se nas planicies marinhas recobertas por especies her
 b) Os campos de dunas associam-se aos depositos argilosos e arenosos, fixados por vegetacao pioneira. 
 c) As falesias ativas evoluem de processos continentais e mari-nhos, com ausencia de vegetacao na sua base. 
 d) Os deltas sao formatados por sedimentos fluviais e cobertos por especies arboreas de grande porte.
-
+----
+## Questão 29
 Moradores em situação de rua em São Paulo/SP
 
 ![](images/21032f8041541d03422c5fd7f1ed7252b4ccfa8622d4f8bdbcd43b9ef207664d.jpg)
@@ -669,29 +657,30 @@ c) Autofagia, que permite à célula eliminar porções envelhecidas ou danifica
 d) Heterofagia por fagocitose, o que permite à célula capturar macromoléculas, utilizando-as nas diferentes vias biosintéticas.
 ----
 ## Questão 45
-
 Uma quimera é um indivíduo formado por dois ou mais tipos de células, em que cada tipo contem um genoma distinto. Os machines da espécie de formiga Anoplolepis gracilipes são quimeras formadas por dois tipos de células haploïdes, bastante distintas do ponto de vista genético; essas células são provenientes de duas linhagens de formigas, podendo sự chamadas de linhagem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir óvulos) desta espécie são indivíduos formados pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 1. Já as fêmeas operárias (não reprodutivas) são indivíduos formados pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 2.
 
-(Adaptado de: DARRAS, H. et al. Science, Washington, v. 380, p.55- 58, abr. 2023. )
 
-Com base em seus conhecimentos e considerando o texto apre sentado, pode- se dizer que as diferenças genéticas entre rainhas e operárias se explicam pelo fato de a) os gametas se fundirem nos machos e operárias.  
-b) os machos contem células haploïdes das linhagens 1 e 2.  
-c) os machos serem homozigotos.  
+Com base em seus conhecimentos e considerando o texto apre sentado, pode- se dizer que as diferenças genéticas entre rainhas e operárias se explicam pelo fato de
+
+a) os gametas se fundirem nos machos e operárias.
+b) os machos contem células haploïdes das linhagens 1 e 2.
+c) os machos serem homozigotos.
 d) os machos serem diploides oriundos das linhagens 1 e 2.
 ----
 ## Questão 46
+![](images/4a32639e28863d1fc0b7e7c1e1c37b2e8f55697b6be80a7edcf4c26ce8bb560d.jpg)
 
 A dinâmica populacional de duas espécies que compartilham o mesmo habitat e representada na figura a seguir. O tamanno máximo da população de cada espécie é limitado pela disponibilidade de recursos no habitat.
 
-![](images/4a32639e28863d1fc0b7e7c1e1c37b2e8f55697b6be80a7edcf4c26ce8bb560d.jpg)
 
-Considerando seus conhecimentos e os dados apresentados, é correto afirmar que as espécies a) competem por recursos e apresentam diferenças na eficiência de utilização do alimento disponível.  
-b) ocupam nichos e cológicos distintos e têm crescimento populacional até o limite imposto pela resistência ambiental.  
-c) são generalistas e assim têm nichos ecológicos mais restritos, o que diminui a competição entre elas.  
+Considerando seus conhecimentos e os dados apresentados, é correto afirmar que as espécies
+
+a) competem por recursos e apresentam diferenças na eficiência de utilização do alimento disponível.
+b) ocupam nichos e cológicos distintos e têm crescimento populacional até o limite imposto pela resistência ambiental.
+c) são generalistas e assim têm nichos ecológicos mais restritos, o que diminui a competição entre elas.
 d) apresentam uma relação de cooperação, facilitando o crescimento populacional na ausência da resistência ambiental.
 ----
 ## Questão 47
-
 A partir da organização tecidual, é possível reconhecer o está-
 
 gio de desenvolvimento dos plantas e mesmo diferenciar mono
@@ -706,7 +695,8 @@ a) Figura A, floema e endoderme.
 b) Figura B, floema e pericíclo.  
 c) Figura A, xilema e endoderme.  
 d) Figura B, xilema e pericíclo.
-
+----
+## Questão 48
 Quando desempenho minha tarefa de imao, de marido ou de cidadao, quando executo os compromissos que assumi, eu cumpro deveres que estao definidos fora de nim e de meus atos, no direito e nos costumes. Ainda que eles estejam de acordo com os meus sentimentos proprios e que eu santa interiormente a realidade deles, tal realidade nao deixa de ser objetiva, pois nao fui eu que os fiz, mas os recebi pela educeagao. Eis ai, portanto, maneiras de agir, de pensar e de sentir que apresentam essa notavel propriedade de existirem fora das consciencias individuais. (Adaptado de: DURKHEIM, E. As regras do metodo sociologico. Sao Paulo: Martins Fontes, 2014. )
 
 Ernie Durkheim e um dos fundadores da Sociologia e analisa a relacao entre individuo e sociedade. A partir do texto, podemos afirmar que os modos de agir, de pensar e de sentir, em uma sociedade, sao definidos
@@ -785,8 +775,6 @@ c) tanto Aristoteles quanto Epicuro - ainda que com concepccoes eticas distintas
 d) Aristoteles e Epicuro concordam entre si e discordam daque les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela acao.
 ----
 ## Questão 53
-----
-## Questão 53
 
 "Apesar de sua presumida evidencia, a articulacao entre liberidade e igualidade e mais complicada do que parece. Sua reuniao em um mesmo individuo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensoes significativas. Como, por exemplo, alguem poderia ser livre en, um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os individuos nao pudorem singularizar- se e diferenciar- se uns dos outros?" (FIGUEIREDO, V. A paisiao da igualdade: uma genealogia do individuo moral na Franca. Belo Horizonte: Relicario, p. 9, 2021. )
 
@@ -798,24 +786,25 @@ c) A articulacao entre liberdade e igualdade e complexa porque exige tanto a sup
 d) O desenvolvimento pleno do capitalismo e da livre concorrencia sao condigoes suficientes para a concretizacao da liberdade e da igualdade.
 ----
 ## Questão 54
-
 Sr. Gauss tem uma pizzaria, chamada  $\pi$  - zzaria, que vende dois tipos de pizzas circulares: uma individual, de diametro d; e uma de  $20cm$  de diametro, partida em quatro pedacos iguais.
 
 Considerando que o preco de uma pizza e proporcional a sua area, qual precisa sero valor de d para que quatro pizzas indi- . viduais custem o mesmo que a pizza mencionada, de quatro pedacos?
 
-a) 6 cm. c) 10 cm. 
-b) 8 cm. 
+a) 6 cm.
+b) 8 cm.
+c) 10 cm.
 d) 12 cm.
 ----
 ## Questão 55
-
 Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta e feita usando a seguinte regra:
 
 Se Ana anda de patins, entao Carol tambem anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta.
 
-Sabendo que neste final de semana Carol andou de patins, entao e necessariamente verdade que a) Ana andou de patins. 
-b) Ana nao andou de patins. 
-c) Bruna andou de patins. 
+Sabendo que neste final de semana Carol andou de patins, entao e necessariamente verdade que
+
+a) Ana andou de patins.
+b) Ana nao andou de patins.
+c) Bruna andou de patins.
 d) Bruna nao andou de patins.
 ----
 ## Questão 56
@@ -976,14 +965,17 @@ c) Sustentabilidade na pesquisa de novos protocolos para agricultura tradicional
 d) Agricultura celular de diversas fontes de proteína.
 ----
 ## Questão 69
-
 Em uma materia para um site, jornalistas fizeram interações com o ChatGPT a fim de analisar sua capacidade de criar textos possivelmente problemáticos. Para tanto, eles pediram que o programa de inteligencia artificial reescrevesse um e- mail que seria, hipoteticamente, usado como golpe. Eis o texto reescrito pelo ChatGPT:
 
 "Hey there. You're probably wondering why you're getting this e- mail. The truth is, I put some malware on a website that you visited. My malware took control of your browser and recorded everything, including your contacts from your messenger, Facebook, and e- mail account. To top it all off, I also took videos of you. So I'll give you the option to make a deal before I do anything with it."
 
-(Adaptado de: https://mashable.com/article/chatgpt- scan- uses. Acesso em 12/05/2023. )
 
-O e- mail criado pelo programa chama a atenção a) pelo uso de linguagem agressiva, pois se apoia em expressoes violentas para tentar extorquir o usuario. b) por reproduzir a sintaxe da comunicação humana a medida que recorre ao humor para acusar o usuario. c) pelo emprego de um tom sarcástico, pois se apoia em linguagem informal para ameaçar o usuário. d) por infringir questiones éticas, uma vez que informa ter tornado públicas informações privadas do usuário.
+O e- mail criado pelo programa chama a atenção
+
+a) pelo uso de linguagem agressiva, pois se apoia em expressoes violentas para tentar extorquir o usuario.
+b) por reproduzir a sintaxe da comunicação humana a medida que recorre ao humor para acusar o usuario.
+c) pelo emprego de um tom sarcástico, pois se apoia em linguagem informal para ameaçar o usuário.
+d) por infringir questiones éticas, uma vez que informa ter tornado públicas informações privadas do usuário.
 ----
 ## Questão 70
 

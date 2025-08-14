@@ -1,12 +1,11 @@
 ----
 ## Questão 1
+Assinale a alternativa que corresponde ao maior número inteiro  $x$  que satisfaz a desigualdade  $2x - 10 \leq - 3x + 8$ .
 
-Assinale a alternativa que corresponde ao maior número inteiro  $x$  que satisfaz a desigualdade  $2x - 10 \leq - 3x + 8$ .A)  $- 2$ B) 0C) 3D) 4E) 5
-
-A) -2 
-B) 0 
-C)3 
-D) 4 
+A)  $- 2$
+B) 0
+C) 3
+D) 4
 E) 5
 ----
 ## Questão 2
@@ -20,13 +19,13 @@ D) 9
 E) 10
 ----
 ## Questão 3
+No plano cartesiano, considere os pontos  $P = (2a,0)$  e  $Q = (a + 1,a - 1)$ , sendo  $a$  um número real positivo. Sabendo que a distância entre  $P$  e  $Q$  é igual a  $\sqrt{8}$  cm, assinale a alternativa que corresponde ao valor de  $a$ .
 
-No plano cartesiano, considere os pontos  $P = (2a,0)$  e  $Q = (a + 1,a - 1)$ , sendo  $a$  um número real positivo. Sabendo que a distância entre  $P$  e  $Q$  é igual a  $\sqrt{8}$  cm, assinale a alternativa que corresponde ao valor de  $a$ .A) 1/2B)  $\sqrt{3}$ C) 1D) 2E) 3
-
-A) 1/2 
-B)  $\sqrt{3}$  
-C) 1 
-D) 2 E)3
+A) 1/2
+B)  $\sqrt{3}$
+C) 1
+D) 2
+E) 3
 ----
 ## Questão 4
 
@@ -806,18 +805,18 @@ D) A colonização europeia contribuiu para o crescimento do Rio Grande do Sul.
 E) Os brasileiros desconhecem a presença da população negra no Rio Grande do Sul.
 ----
 ## Questão 59
+![](images/978131d4e24d70f8ff689df784782ee4c71be4818501d889431140b78a3ee703.jpg)
 
 Leia os quadrinhos abaixo:
 
-![](images/978131d4e24d70f8ff689df784782ee4c71be4818501d889431140b78a3ee703.jpg)
 
-Disponivel em: https://www.instagram.com/tirinhadearmandinho.
 
 Assinale a alternativa que aponta o fenômeno linguistico que provoca humor nesses quadrinhos.
 
-A) Sinonímia  
-B) Conotação  ▶C) Homofónia  
-D) Metáfora  
+A) Sinonímia
+B) Conotação  ▶
+C) Homofónia
+D) Metáfora
 E) Derivação
 ----
 ## Questão 60
@@ -924,39 +923,30 @@ A presenta(m) marca expressiva da subjetividade do autor:
 A) apenas a afirmativa 1.  B) apenas as afirmativas 1 e 4.  C) apenas as afirmativas 2 e 3.  D) apenas as afirmativas 2, 3 e 4.  E) as afirmativas 1, 2, 3 e 4.
 ----
 ## Questão 64
-
-
 Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.
 
-llari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.
 
 De acordo com o texto, assimale a alternativa correta.
 
-A) Segundo os autores, para avaliar a influência dos fatores extralinguísticos apresentados, é preciso saber exatamente quais são. 
-B) Os fatores extralinguísticos citados no texto são os principais responsáveis pelo processo de estandardização das línguas.  C) As chamadas línguas de cultura apresentam processo de estandardização em que atuam fatores internos e externos à natureza linguística. 
-D) Somente em alguns séculos, as obras foram lidas com o mesmo formato de texto em diferentes locais, graças à invenção da imprensa. 
+A) Segundo os autores, para avaliar a influência dos fatores extralinguísticos apresentados, é preciso saber exatamente quais são.
+B) Os fatores extralinguísticos citados no texto são os principais responsáveis pelo processo de estandardização das línguas.
+C) As chamadas línguas de cultura apresentam processo de estandardização em que atuam fatores internos e externos à natureza linguística.
+D) Somente em alguns séculos, as obras foram lidas com o mesmo formato de texto em diferentes locais, graças à invenção da imprensa.
 E) Os autores afirmam que, historicamente, pode-se constatar que todas as línguas passam por um processo de estandardização.
 ----
 ## Questão 65
-
-
 Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.
 
-llari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.
 
-- Assinale a alternativa que apresenta a ideia central do texto.
-----
-## Questão 65
+Assinale a alternativa que apresenta a ideia central do texto.
 
-
-Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.
-
-llari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.
-
-Assinale a alternativa que apresenta a ideia central do texto.A) As versões manuscritas de textos seriam desnecessárias, segundo os autores, porque eram imprecisas e se alteravam conforme o copista.  B) A estandardização consiste em um processo de normatização de padrões geais acerca de representações escritas das línguas humanas.  C) As imprecisões de textos manuscritos se devem ao emprego de diferentes copistas e à diversidade de sua formação.  D) Os meios de comunicação e massa e a expansão da educação primária fomentaram o mercado de livros, especialmente os didáticos.  E) Os meios de comunicação e massa, entre eles o rápido, a televisão e a internet, são os principais fatores que permitiram a estandardização linguística.
+A) As versões manuscritas de textos seriam desnecessárias, segundo os autores, porque eram imprecisas e se alteravam conforme o copista.
+B) A estandardização consiste em um processo de normatização de padrões geais acerca de representações escritas das línguas humanas.
+C) As imprecisões de textos manuscritos se devem ao emprego de diferentes copistas e à diversidade de sua formação.
+D) Os meios de comunicação e massa e a expansão da educação primária fomentaram o mercado de livros, especialmente os didáticos.
+E) Os meios de comunicação e massa, entre eles o rápido, a televisão e a internet, são os principais fatores que permitiram a estandardização linguística.
 ----
 ## Questão 66
-
 -Leia o texto a seguir:
 
 # A Lua esta encolhendo
@@ -967,12 +957,15 @@ A Lua esta encolhendo, Revista Pesquisa FAPESP, n. 337, p. 7, mar. 2024.
 
 # De acordo com o texto, assinale a alternativa correta.
 
-De acordo com o texto, assinale a alternativa correta.A) O geólogo Thomas Watters, com base em modelos de pesquisa, afirma que deslizamentos podem ocorrer a partir de terremotos em falhas na superficie lunar.  B) O autor do texto emprega a comparação com uma uva que enruga e vira passa, porque não esteve na Lua e desconhece a paisagem lunar.  C) Pesquisadores da Nasa, de universidades e institutos de pesquisa dos Estados Unidos descobriram falhas tectônicas no Polo Sul na Terra e na Lua.  D) O pouco da missão Artemis 3, previsto para 2026, está cogitado para a zona de deformações provocadas por instabilidade do solo lunar.  E) A circunferência da Lua encolhenu 45 metros em virtude de seu resfriamento, mas isso é insignificante considerando-se o tempo que levou para que ocorresse.
+De acordo com o texto, assinale a alternativa correta.
 
-# LITERATURA BRASILEIRA
+A) O geólogo Thomas Watters, com base em modelos de pesquisa, afirma que deslizamentos podem ocorrer a partir de terremotos em falhas na superficie lunar.
+B) O autor do texto emprega a comparação com uma uva que enruga e vira passa, porque não esteve na Lua e desconhece a paisagem lunar.
+C) Pesquisadores da Nasa, de universidades e institutos de pesquisa dos Estados Unidos descobriram falhas tectônicas no Polo Sul na Terra e na Lua.
+D) O pouco da missão Artemis 3, previsto para 2026, está cogitado para a zona de deformações provocadas por instabilidade do solo lunar.
+E) A circunferência da Lua encolhenu 45 metros em virtude de seu resfriamento, mas isso é insignificante considerando-se o tempo que levou para que ocorresse.
 ----
 ## Questão 67
-
 - Considere o seguinte texto:
 
 O homem está na cidade como uma coisa está em outra e a cidade está no homem que está em outra cidade mas variados são os modos como uma coisa está em outra coisa: o homem, por exemplo, não está na cidade como uma árvore está em qualquer outra nem como uma árvore está em qualquer uma de suas folhas (mesmo rolando longe dela) O homem não está na cidade como uma árvore está num livro quando um vento ali a folheia.
@@ -981,11 +974,18 @@ Gullar, F. Poema sujo, Rio de Janeiro: Civilizacao Brasileira, 1983. p. 102.
 
 Com base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.
 
-Com base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.A) As reflexões existenciais predominam em Poema sujo, afastando outras temáticas frequentes na poesia brasileira da década de 1970, tais como as diferenças sociais e os posicionamentos políticos.  B) As memórias do menino e do adolescente se misturam de forma perturbadora na consciência doidualo que cria o poema, motivo pelo qual ele sempre desejo abandonar os lugares sujos em que vivem.  C) Enquanto, no fragmento transcrito, as referências à linguagem e aos livros são genéricas, em outros versos do poema, as várias fases da trajetória literária de Ferreira Gullar são apresentadas em order cronológica.  D) A sucesso de imagens e sensações recuperadas pela força da memória nas cuais predominanto que é sujo ou degradado cede lugar, no final do poema, a imagens da natureza, considerada mais purado que a cidade.  E) Os versos "e a cidade está no homem / que está em outra cidade" indicam que o passado vivido em São Luís do Maranhão segue entranhado no poeta enquanto ele vive como exilado político em Buenos Aires.
+Com base na leitura desse fragmento, extraido da parte final de Poema sujo, de Ferreira Gullar, e na leitura da integralidade do poema, assassare a alternativa correta.
+
+A) As reflexões existenciais predominam em Poema sujo, afastando outras temáticas frequentes na poesia brasileira da década de 1970, tais como as diferenças sociais e os posicionamentos políticos.
+B) As memórias do menino e do adolescente se misturam de forma perturbadora na consciência doidualo que cria o poema, motivo pelo qual ele sempre desejo abandonar os lugares sujos em que vivem.
+C) Enquanto, no fragmento transcrito, as referências à linguagem e aos livros são genéricas, em outros versos do poema, as várias fases da trajetória literária de Ferreira Gullar são apresentadas em order cronológica.
+D) A sucesso de imagens e sensações recuperadas pela força da memória nas cuais predominanto que é sujo ou degradado cede lugar, no final do poema, a imagens da natureza, considerada mais purado que a cidade.
+E) Os versos "e a cidade está no homem / que está em outra cidade" indicam que o passado vivido em São Luís do Maranhão segue entranhado no poeta enquanto ele vive como exilado político em Buenos Aires.
 ----
 ## Questão 68
+A narrativa de A Falencia, publicada por Julia Lopes de Almeida em 1904, traz a tona algumas tensoes e desigualdades que caracterizam o Brasil apos a Abolicao e a Proclamacao da Republic
 
-A narrativa de A Falencia, publicada por Julia Lopes de Almeida em 1904, traz a tona algumas tensoes e desigualdades que caracterizam o Brasil apos a Abolicao e a Proclamacao da Republica. Considere as seguintes afirmativas sobre as marcas dessas tensoes nos personagens e no espaço:
+a. Considere as seguintes afirmativas sobre as marcas dessas tensoes nos personagens e no espaço:
 
 1. O embate entre o dinheiro conquistado com o trabalho e o capital alcancado por meio da especulação financeira acompanha a trajetória de Francisco Teodoro.  
 2. A violência contra a mulher se inscreve no passado de D. Joana, personagem que sofreu maus-tratos do falecido marido, e no de Capitão Rino, cuja mãe foi assassinada por adultério.  
@@ -994,29 +994,31 @@ A narrativa de A Falencia, publicada por Julia Lopes de Almeida em 1904, traz a 
 
 Assinale a alternativa correta.
 
-A) Somente a afirmativa 3 é verdadeira.  
-B) Somente as afirmativas 1 e 4 são verdadeiras.  
-C) Somente as afirmativas 2 e 4 são verdadeiras.  D) Somente as afirmativas 1, 2 e 3 são verdadeiras.  
+A) Somente a afirmativa 3 é verdadeira.
+B) Somente as afirmativas 1 e 4 são verdadeiras.
+C) Somente as afirmativas 2 e 4 são verdadeiras.
+D) Somente as afirmativas 1, 2 e 3 são verdadeiras.
 E) As afirmativas 1, 2, 3 e 4 são verdadeiras.
 ----
 ## Questão 69
-
 A respeito de Liras de Marilia de Dirceu, de Tomás Antônio Gonzaga, analise as afirmativas a seguir:
 
-1. A publicação das liras em Minas Gerais inspirou o anseio de liberdade política, tendo colaborado para a deflagração da Inconfidência Mineira.  
+1. A publicação das liras em Minas Gerais inspirou o anseio de liberdade política, tendo colaborado para a deflagração da Inconfidência Mineir
+
+a.  
 2. A voz poética de todas as liras é a do pastor Dirceu, que foge do amor por Marilia até ser vencido pelo deus do amor, Cupido.  
 3. Os versos metrificados, especialmente os de 5 e 7 silabas, não às liras um ritmo frequente na tradição da poesia de lingua portuguesa.  
 4. As características arcades das liras se apresentam sobretudo no referencial bucolico presente nos poemas, reconhecível no mundo pastoril ali retratado.
 
 Assinale a alternativa correta.
 
-A) Somente a afirmativa 4 é verdadeira.  
-B) Somente as afirmativas 1 e 2 são verdadeiras.  
-C) Somente as afirmativas 1 e 3 são verdadeiras.  D) Somente as afirmativas 2, 3 e 4 são verdadeiras.  
+A) Somente a afirmativa 4 é verdadeira.
+B) Somente as afirmativas 1 e 2 são verdadeiras.
+C) Somente as afirmativas 1 e 3 são verdadeiras.
+D) Somente as afirmativas 2, 3 e 4 são verdadeiras.
 E) As afirmativas 1, 2, 3 e 4 são verdadeiras.
 ----
 ## Questão 70
-
 Considere o seguinte texto:
 
 Eu deixei o leito as 3 da manhã porque quando a gente perde o sono começa pensar nas miserias que nos rodeia [...] Deixe o leito para escrever. Enquanto escrevo vou pensando que resido num castelo cor de ouro que reluz na luz do sol. Que as janelas são de prata e as luzes de brilhantes. Que a minha vista circula no jardim e eu contemplo as flores de todas as qualidadeds [...] E preciso crier este ambiente de fantasia, para esquecer que estou na favela. Fiz o cafe e fui carregar agua. Olhei o céu, a estrela Dalva ja estava no ceu. Como e horrivel pisar na lama.
@@ -1025,7 +1027,11 @@ Jesus, C. M. de. Quarto de despejo: diario de uma favelada. Sao Paulo: Atica, 20
 
 Com base na leitura desse fragmento de Quarto de despejo, de Carolina Maria de Jesus, e na integralidade da leitura do livro, assinale a alternativa correta.
 
-A) A visão da estrela Dalva, assim como a ideia de viver em um castelo dourado, são fantasias causadas pela fome e pelo excesso de esforço físico.  B) Meso enquanto escreve seu diario, Carolina tem consciência de que vive num lugar insalubre, o que não a impede de sonhar com uma situação menos descumana.  C) Um desejo de Carolina é se mudar da favela para o quarto de despejo de alguma cesa de alvenaria em um bairro mais próximo do centro.  D) Por privilegiar a fantasia, Quarto de despejo se afasta do registro realista, tendência predominante na literatura brasileira da década de 1950.  E) Por idealizar uma vida impossível para quem vive na favela, Carolina presenteia seus filhos com brinquedos incompatíveis com sua situação econômica.
+A) A visão da estrela Dalva, assim como a ideia de viver em um castelo dourado, são fantasias causadas pela fome e pelo excesso de esforço físico.
+B) Meso enquanto escreve seu diario, Carolina tem consciência de que vive num lugar insalubre, o que não a impede de sonhar com uma situação menos descumana.
+C) Um desejo de Carolina é se mudar da favela para o quarto de despejo de alguma cesa de alvenaria em um bairro mais próximo do centro.
+D) Por privilegiar a fantasia, Quarto de despejo se afasta do registro realista, tendência predominante na literatura brasileira da década de 1950.
+E) Por idealizar uma vida impossível para quem vive na favela, Carolina presenteia seus filhos com brinquedos incompatíveis com sua situação econômica.
 ----
 ## Questão 71
 
@@ -1106,14 +1112,19 @@ D) a sensacao e a memoria naca dao a conhecer.
 E) a ciencia é o conhecimento das causas dos fenomenos.
 ----
 ## Questão 77
-
 "A tarefa [...] é elaborar um conceito amplo de justica que consiga acomodar tanto as reivindicacoes defensaveis de igualdade social quanto as reivindicacoes defensaveis de reconhecimento da diferencia."
 
 Fraser, N. Reconhecimento sem etica?, Lua Nova, Sao Paulo, 70, p. 103, 2007.
 
-De acordo com Nancy Fraser no artigo "Reconhecimento sem etica?", politicas de reconhecimento são necessarias para:
+De acordo com Nancy Fraser no artigo "Reconhecimento sem etica?", politicas de reconhecimento são necessarias par
 
-A) promover paridade de particoacao entre os grupos sociais. B) afirmar a identidade e a particularidade de cada grupo social. C) garantir a justa distribuicao das riquezas. D) permitir que todos gozem de igual estima social. E) promover o desenvolvimento etico e psiquico de cada cidadao.
+a:
+
+A) promover paridade de particoacao entre os grupos sociais.
+B) afirmar a identidade e a particularidade de cada grupo social.
+C) garantir a justa distribuicao das riquezas.
+D) permitir que todos gozem de igual estima social.
+E) promover o desenvolvimento etico e psiquico de cada cidadao.
 
 # SOCIOLOGIA
 ----

@@ -785,8 +785,6 @@ c) tanto Aristoteles quanto Epicuro - ainda que com concepccoes eticas distintas
 d) Aristoteles e Epicuro concordam entre si e discordam daque les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela acao.
 ----
 ## Questão 53
-----
-## Questão 53
 
 "Apesar de sua presumida evidencia, a articulacao entre liberidade e igualidade e mais complicada do que parece. Sua reuniao em um mesmo individuo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensoes significativas. Como, por exemplo, alguem poderia ser livre en, um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os individuos nao pudorem singularizar- se e diferenciar- se uns dos outros?" (FIGUEIREDO, V. A paisiao da igualdade: uma genealogia do individuo moral na Franca. Belo Horizonte: Relicario, p. 9, 2021. )
 

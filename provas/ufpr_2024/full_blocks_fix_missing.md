@@ -944,15 +944,6 @@ Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua histor
 
 llari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.
 
-- Assinale a alternativa que apresenta a ideia central do texto.
-----
-## Questão 65
-
-
-Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.
-
-llari, R.; Basso, R. O portugués da gente: a língua que estudamos a língua que falamos. São Paulo: Contexo, 2006. p. 197- 199. Adaptado.
-
 Assinale a alternativa que apresenta a ideia central do texto.A) As versões manuscritas de textos seriam desnecessárias, segundo os autores, porque eram imprecisas e se alteravam conforme o copista.  B) A estandardização consiste em um processo de normatização de padrões geais acerca de representações escritas das línguas humanas.  C) As imprecisões de textos manuscritos se devem ao emprego de diferentes copistas e à diversidade de sua formação.  D) Os meios de comunicação e massa e a expansão da educação primária fomentaram o mercado de livros, especialmente os didáticos.  E) Os meios de comunicação e massa, entre eles o rápido, a televisão e a internet, são os principais fatores que permitiram a estandardização linguística.
 ----
 ## Questão 66

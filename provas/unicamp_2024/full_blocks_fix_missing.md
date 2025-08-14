@@ -431,7 +431,6 @@ c) Caiaras da regiao litoranea do Ceara praticam a pesca artesanal, utilizar as 
 d) Faxinalenses do norte de Minas Gerais usufruem dos campos para o desenvolvimento do extrativismo vegetal da eva mate e do pinhao, do cultivo agricola em pequena escala e da criacao de animais soltos.
 ----
 ## Questão 28
-
 O litoral brasileiro tem uma historia fisiografica e ecologica rica e complexa, influenciaada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e subtropical onde e possivel observar uma diversidade de ocorreencias geomorfologicas e paisagisticas que se sucedem ao longo de sua costa.
 
 (Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros, p. 281, 2005. )
@@ -442,7 +441,8 @@ a) Os manguezais localizam-se nas planicies marinhas recobertas por especies her
 b) Os campos de dunas associam-se aos depositos argilosos e arenosos, fixados por vegetacao pioneira. 
 c) As falesias ativas evoluem de processos continentais e mari-nhos, com ausencia de vegetacao na sua base. 
 d) Os deltas sao formatados por sedimentos fluviais e cobertos por especies arboreas de grande porte.
-
+----
+## Questão 29
 Moradores em situação de rua em São Paulo/SP
 
 ![](images/21032f8041541d03422c5fd7f1ed7252b4ccfa8622d4f8bdbcd43b9ef207664d.jpg)
@@ -691,7 +691,6 @@ c) são generalistas e assim têm nichos ecológicos mais restritos, o que dimin
 d) apresentam uma relação de cooperação, facilitando o crescimento populacional na ausência da resistência ambiental.
 ----
 ## Questão 47
-
 A partir da organização tecidual, é possível reconhecer o está-
 
 gio de desenvolvimento dos plantas e mesmo diferenciar mono
@@ -706,7 +705,8 @@ a) Figura A, floema e endoderme.
 b) Figura B, floema e pericíclo.  
 c) Figura A, xilema e endoderme.  
 d) Figura B, xilema e pericíclo.
-
+----
+## Questão 48
 Quando desempenho minha tarefa de imao, de marido ou de cidadao, quando executo os compromissos que assumi, eu cumpro deveres que estao definidos fora de nim e de meus atos, no direito e nos costumes. Ainda que eles estejam de acordo com os meus sentimentos proprios e que eu santa interiormente a realidade deles, tal realidade nao deixa de ser objetiva, pois nao fui eu que os fiz, mas os recebi pela educeagao. Eis ai, portanto, maneiras de agir, de pensar e de sentir que apresentam essa notavel propriedade de existirem fora das consciencias individuais. (Adaptado de: DURKHEIM, E. As regras do metodo sociologico. Sao Paulo: Martins Fontes, 2014. )
 
 Ernie Durkheim e um dos fundadores da Sociologia e analisa a relacao entre individuo e sociedade. A partir do texto, podemos afirmar que os modos de agir, de pensar e de sentir, em uma sociedade, sao definidos
@@ -783,8 +783,6 @@ b) diferentemente de Aristoteles, Epicuro defende que a felicidade consiste na r
 c) tanto Aristoteles quanto Epicuro - ainda que com concepccoes eticas distintas - entendem que nao ha uma identificacao imediata entre felicidade e prazer.
 
 d) Aristoteles e Epicuro concordam entre si e discordam daque les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela acao.
-----
-## Questão 53
 ----
 ## Questão 53
 
