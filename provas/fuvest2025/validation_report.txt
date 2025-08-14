@@ -1,9 +1,0 @@
-Exam: fuvest2025
-Total questions: 89
-Questions with warnings: 2
-
-## Questão 48
- - image images/4d278b28bbcd2be9f3fa62fa92b559b2162f952b5d18187a39bb970c0fe04ea3.jpg has no IMG_DESC
-
-## Questão 60
- - only 2 alternatives (often 4–5 expected)

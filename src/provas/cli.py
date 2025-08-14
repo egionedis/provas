@@ -23,3 +23,9 @@ def export_cmd(path: Path = typer.Argument(...)):
 def export_all_cmd(base: Path = typer.Argument(Path("provas"))):
     from .export_json import export_batch
     export_batch(base)
+
+@app.command()
+def blocks(base: Path = typer.Argument(Path("provas"))):
+    """Split full.md into '----' blocks, attach shared preambles, keep duplicates."""
+    from .blocks import blocks_batch
+    blocks_batch(base)

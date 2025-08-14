@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Tuple
 
 from .schema import Exam, Question, Alternative, ImageDesc
-from llm_client import chat as llm_chat
+from .llm_client import chat as llm_chat
 
 from dotenv import load_dotenv
 

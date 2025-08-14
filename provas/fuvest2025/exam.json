@@ -602,23 +602,7 @@
       "alternatives": [
         {
           "letter": "A",
-          "text": "maior do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem maior massa e menor raio iônico do que o  $\\mathsf{Li}^{+}$ ."
-        },
-        {
-          "letter": "B",
-          "text": "menor do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem maior massa e maior raio iônico do que o  $\\mathsf{Li}^{+}$ ."
-        },
-        {
-          "letter": "C",
-          "text": "maior do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem menor massa e maior raio iônico do que o  $\\mathsf{Li}^{+}$ ."
-        },
-        {
-          "letter": "D",
-          "text": "menor do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem menor massa e menor raio iônico do que o  $\\mathsf{Li}^{+}$ ."
-        },
-        {
-          "letter": "E",
-          "text": "igual à de uma bateria ion-Li, pois ambos os ions são monovalentes."
+          "text": "maior do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem maior massa e menor raio iônico do que o  $\\mathsf{Li}^{+}$ .(B) menor do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem maior massa e maior raio iônico do que o  $\\mathsf{Li}^{+}$ .(C) maior do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem menor massa e maior raio iônico do que o  $\\mathsf{Li}^{+}$ .(D) menor do que de uma bateria ion-Li, pois o  $\\mathsf{Na}^{+}$ tem menor massa e menor raio iônico do que o  $\\mathsf{Li}^{+}$ .(E) igual à de uma bateria ion-Li, pois ambos os ions são monovalentes. # Note e adote: Distribução eletromica:  $\\mathsf{Li} = 1\\mathsf{s}^{+}$ ,  $2\\mathsf{s}^{+}$ ,  $\\mathsf{Na} = 1\\mathsf{s}^{+}$ ,  $2\\mathsf{s}^{+}$ ,  $2\\mathsf{p}^{+}$ ,  $3\\mathsf{s}^{+}$ . Massa atômica (u):  $\\mathsf{Li} = 7$ ;  $\\mathsf{Na} = 23$ ."
         }
       ],
       "images": []
@@ -741,7 +725,7 @@
         },
         {
           "letter": "E",
-          "text": "1:20.000.000."
+          "text": "1:20.000.000. Atualmente  $80\\%$  do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de Suez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região passou a ser uma nova fronteira para o comércio mundial. ![](images/65915b3fb4a013c32703e75ca5c357e8d78ec67fb7bfc0302d8b2db52c358341.jpg) IMG_DESC_START : tipo=mapa; resumo=Mapa mostrando rotas marítimas no Ártico e comparação com rotas tradicionais. elementos=[Canal do Panamá, Canal de Suez, Rota Nordeste, Rota Noroeste, Polo Norte, Groenlândia, Islândia, Noruega, Rússia, China, Estados Unidos, Canadá, Europa]; dados_chave=[500 km, 25.588 km, 19.550 km, 16.100 km, 15.793 km, 2019, 2030]; grandezas=[]; estrutura=[]; texto_detectado=[Via Canal do Panamá, Rota Noroeste, Via Canal de Suez, Rota Nordeste, Rotas entre China, Europa, EUA e Canadá, Mar de Bering, Estreito de Bering, Circulo Polar Ártico, Oceano Glacial Ártico, Polo Norte, Baía de Hudson, Baía de Baffin, Groenlândia, Islândia, Noruega, Suécia, Finlândia, Rússia, China, América, Ásia, Europa, Legenda, Zona turística, Bases Militares, Portos Comerciais, Cidades, Exploração e Produção, Petróleo, Gás, Principais zonas de exploração mineral, Limite da Zona Econômica Exclusiva, Cobertura do gelo marinho no Ártico em setembro, Projeção para 2030, Rotas marítimas do Ártico, Rota Noroeste, Ponte Ártica da Passagem Noroeste, aberta 4 meses por ano, Rota Nordeste, Tráfego marítimo intenso] IMG_DESC_END Carto Le monde en cartes, n.59, maio-junho 2020 (Adaptado). Com base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta."
         }
       ],
       "images": []
@@ -862,28 +846,7 @@
     {
       "number": 31,
       "full_text": "Alguns corais contem, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construgao do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de protecao e importantes nutrientes as algas. As mudangas climaticas globais tem provocado a morte dessas algas e, em muitos casos, a morte dos corais.\n\nAssinale a alternativa que representa a relacao ecologica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.",
-      "alternatives": [
-        {
-          "letter": "A",
-          "text": "Predacao — Formacao das mares vermelhas e desoxigenacao das aguas oceaniaicos."
-        },
-        {
-          "letter": "B",
-          "text": "Mutualismo — Perda de habitat para diversas especies marinas, assim como diminuicao de suas fontes de protecao e ilimento."
-        },
-        {
-          "letter": "C",
-          "text": "Colonia — Aumento de habitats e nichos ecologicos para especies que passam a viver no local antes ocupado pelos corais."
-        },
-        {
-          "letter": "D",
-          "text": "Competicao — Invasao biodlogica por especies que ocupam o nicho deixado vago pelos corais."
-        },
-        {
-          "letter": "E",
-          "text": "Comensalismo — Enriquecimento das aguas oceaniaicos por calcio e nitrogente, favorecendo o desenvolvimento de algas marinas."
-        }
-      ],
+      "alternatives": [],
       "images": []
     },
     {
@@ -1243,29 +1206,8 @@
     },
     {
       "number": 45,
-      "full_text": "Com base nos dados apresentados, assimale a alternativa que apresenta a expectativa de vida estimada dos mulheres a idade de 19 anos  $(\\mathsf{EVM}_{19})$  e a expectativa de vida estimada a idade de 20 anos no Brasil  $(\\mathsf{EVB}_{20})$  em 2022.",
-      "alternatives": [
-        {
-          "letter": "A",
-          "text": "54,7 — 54,7"
-        },
-        {
-          "letter": "B",
-          "text": "54,7 — 58"
-        },
-        {
-          "letter": "C",
-          "text": "60 — 54"
-        },
-        {
-          "letter": "D",
-          "text": "61,3 — 56"
-        },
-        {
-          "letter": "E",
-          "text": "61,3 — 57,1"
-        }
-      ],
+      "full_text": "Considere que a expectativa de vida no Brasil a idade de 19 anos pode ser calculada, de forma aproximada, como a media aritmetica simples entre a expectativa de vida estimada a mesma idade dos homens e das mulheres. O mesmo pode ser feito a idade de 20 anos.\n\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil a idade de 19 anos era 58, e a expectativa de vida estimada dos homens a mesma idade era 54,7.\n\nSabe- se que a diferencia entre a expectativa de vida estimada dos homens e a das mulheres se manteve a idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade  $(\\mathsf{EVH}_{20})$  era 53,8.\n\nCom base nos dados apresentados, assimale a alternativa que apresenta a expectativa de vida estimada dos mulheres a idade de 19 anos  $(\\mathsf{EVM}_{19})$  e a expectativa de vida estimada a idade de 20 anos no Brasil  $(\\mathsf{EVB}_{20})$  em 2022.\n\n<table><tr><td></td><td>EVM19</td><td>EVB20</td></tr><tr><td>(A)</td><td>54,7</td><td>54,7</td></tr><tr><td>(B)</td><td>54,7</td><td>58</td></tr><tr><td>(C)</td><td>60</td><td>54</td></tr><tr><td>(D)</td><td>61,3</td><td>56</td></tr><tr><td>(E)</td><td>61,3</td><td>57,1</td></tr></table>",
+      "alternatives": [],
       "images": []
     },
     {
@@ -1329,29 +1271,8 @@
     },
     {
       "number": 48,
-      "full_text": "A partir dos dados observados nos gráficos, é correto afirmar:\n\nA partir dos dados observados nos gráficos, é correto afirmar:(A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019. (B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões. (C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual. (D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões. (E) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019.",
-      "alternatives": [
-        {
-          "letter": "A",
-          "text": "No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019."
-        },
-        {
-          "letter": "B",
-          "text": "No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões."
-        },
-        {
-          "letter": "C",
-          "text": "No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual."
-        },
-        {
-          "letter": "D",
-          "text": "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões."
-        },
-        {
-          "letter": "E",
-          "text": "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019."
-        }
-      ],
+      "full_text": "48Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre (indicado por algarismo romano), segundo informações obtidas pelo IBGE.\n\nEvolugao do abate de bovinos no Brasil por trimestre (2019-2024)\n\nIMG_DESC_START : tipo=gráfico; resumo=Gráfico de linhas mostrando a porcentagem de fêmeas e machos de 2019 a 2024.; elementos=[linhas, pontos, eixos, legenda]; dados_chave=[%, anos, trimestres, Fêmeas, Machos, 53.4, 46.6, 57.3, 42.7, 63.2, 36.8, 60.5, 39.5, 55.2, 44.8, 53.8, 46.2]; grandezas=[(%,53.4,),(%,46.6,),(%,57.3,),(%,42.7,),(%,63.2,),(%,36.8,),(%,60.5,),(%,39.5,),(%,55.2,),(%,44.8,),(%,53.8,),(%,46.2,)]; estrutura=[intervalos=(2019,I,53.4→46.6);(2019,II,46.6→53.4);(2019,III,53.4→46.6);(2019,IV,46.6→53.4);(2020,I,57.3→42.7);(2020,II,42.7→57.3);(2020,III,57.3→42.7);(2020,IV,42.7→57.3);(2021,I,63.2→36.8);(2021,II,36.8→63.2);(2021,III,63.2→36.8);(2021,IV,36.8→63.2);(2022,I,60.5→39.5);(2022,II,39.5→60.5);(2022,III,60.5→39.5);(2022,IV,39.5→60.5);(2023,I,55.2→44.8);(2023,II,44.8→55.2);(2023,III,55.2→44.8);(2023,IV,44.8→55.2);(2024,I,53.8→46.2)]; texto_detectado=[Fême\nEvolugao da participação de machos e fêmeas no abate de bovinos no Brasil por trimestre (2019-2024)\n\n\nA partir dos dados observados nos gráficos, é correto afirmar:\n\nA partir dos dados observados nos gráficos, é correto afirmar:(A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019. (B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões. (C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual. (D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões. (E) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019.",
+      "alternatives": [],
       "images": [
         {
           "src": "images/6b21ec9173ee67468dbb5a90ba355cef015ec840541eb5886dd2945c5719dfef.jpg",
@@ -1628,7 +1549,7 @@
     },
     {
       "number": 58,
-      "full_text": "Sabendo que a legislação estabelece a concentração máxima de Pb de  $0,01\\mathrm{mg / L}$  para agua potavel, assimale a alternativa correta em relação à ingestao de agua que tenha contato prolongado com a anglesita.",
+      "full_text": "",
       "alternatives": [
         {
           "letter": "A",
@@ -1648,7 +1569,7 @@
         },
         {
           "letter": "E",
-          "text": "E segura, pois a concentração de Pb na agua sera de  $2,07\\times 10^{-6}\\mathrm{mg / L}$  , maior que o valor permitido."
+          "text": "E segura, pois a concentração de Pb na agua sera de  $2,07\\times 10^{-6}\\mathrm{mg / L}$  , maior que o valor permitido. Note e adote: Massa molar  $(g / mol)$  :  $\\mathrm{Pb} = 207$"
         }
       ],
       "images": []
@@ -1687,17 +1608,8 @@
     },
     {
       "number": 60,
-      "full_text": "As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo. Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.",
-      "alternatives": [
-        {
-          "letter": "A",
-          "text": "Massa (mg) — Massa (mg) — Massa (mg) — Massa (mg) — Massa (mg)"
-        },
-        {
-          "letter": "B",
-          "text": "Tempo (meses) — Tempo (meses) — Tempo (meses) — Tempo (meses) — Tempo (meses)"
-        }
-      ],
+      "full_text": "As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo. Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.\n\n<table><tr><td></td><td>Ferro</td><td>Aço inoxidável</td></tr><tr><td rowspan=\"2\">(A)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan=\"2\">(B)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan=\"2\">(C)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan=\"2\">(D)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan=\"2\">(E)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr></table>",
+      "alternatives": [],
       "images": []
     },
     {
