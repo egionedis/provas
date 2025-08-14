@@ -1,11 +1,12 @@
 ----
 ## Questão 1
-Assinale a alternativa que corresponde ao maior número inteiro  $x$  que satisfaz a desigualdade  $2x - 10 \leq - 3x + 8$ .
 
-A) -2
-B) 0
-C) 3
-D) 4
+Assinale a alternativa que corresponde ao maior número inteiro  $x$  que satisfaz a desigualdade  $2x - 10 \leq - 3x + 8$ .A)  $- 2$ B) 0C) 3D) 4E) 5
+
+A) -2 
+B) 0 
+C)3 
+D) 4 
 E) 5
 ----
 ## Questão 2

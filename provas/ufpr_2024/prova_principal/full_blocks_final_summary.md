@@ -6,7 +6,6 @@
 - expected alternatives per question (mode): 5
 
 ## Fixed
-- Q1: STRICT 5 → 5 (LLM organize)
 - Q3: STRICT 4 → 5 (LLM organize)
 - Q25: STRICT 5 → 5 (inline split, relaxed)
 - Q26: STRICT 5 → 5 (inline split, relaxed)
@@ -23,6 +22,7 @@
 - Q78: STRICT 5 → 5 (inline split, relaxed)
 
 ## Unresolved (kept as-is)
+- Q1: could not extract 5 alternatives; kept original
 - Q16: could not extract 5 alternatives; kept original
 - Q23: could not extract 5 alternatives; kept original
 
