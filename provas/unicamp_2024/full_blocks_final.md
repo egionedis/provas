@@ -790,10 +790,10 @@ Sr. Gauss tem uma pizzaria, chamada  $\pi$  - zzaria, que vende dois tipos de pi
 
 Considerando que o preco de uma pizza e proporcional a sua area, qual precisa sero valor de d para que quatro pizzas indi- . viduais custem o mesmo que a pizza mencionada, de quatro pedacos?
 
-a) 6 cm.
-b) 8 cm.
-c) 10 cm.
-d) 12 cm.
+A) 6 cm.
+B) 8 cm.
+C) 10 cm.
+D) 12 cm.
 ----
 ## Questão 55
 Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta e feita usando a seguinte regra:

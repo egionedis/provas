@@ -69,17 +69,20 @@ De acordo com o excerto, a ocupação territorial da América portuguesa pelos c
 (E) pela exploração do transporte fluvial e marítimo por meio de pirogas.
 ----
 ## Questão 5
-![](images/7afd428a75046826c68c22bd74dea28b226c6c35ca51695f8266e20820847857.jpg)
 
 Os quadrinhos a seguir sao parte da obra Dois irmas, de Fabio Moon e Gabriel Ba (2015), uma adaptação do romance Dois irmas, de Milton Hatoum, para o universo das novelas graficas (graphic novels).
 
+![](images/7afd428a75046826c68c22bd74dea28b226c6c35ca51695f8266e20820847857.jpg)
 
 Considerando as características visuais dos quadrinhos e os tragos narrativos do romance Dois irmas, de Milton Hatoum, e correto afirmar:
 
-(A) O uso dos contrastes claro x escuro na novela grafica confere enfase visual ao conflito entre diferentes formas de privilégio e marginalização presentes no romance de Hatoum, explicitadas pelo ponto de vista do narrador.
-(B) Ao trabalho com os contrastes claro x escuro em suas imagens, a novela grafica enfatiza a diferenca etnica e social que fundamenta a rivalidade fatalerna entre Yaqub e Omar, um dos eixos estruturais do romance.
-(C) Ao utilizar procedimentos como a aproximação (zoom-in) e a fragmentação das imagens, a novela grafica recria o fluxo de consciência e a atmosfera orírica da narrativa de Hatoum.
+(A) O uso dos contrastes claro x escuro na novela grafica confere enfase visual ao conflito entre diferentes formas de privilégio e marginalização presentes no romance de Hatoum, explicitadas pelo ponto de vista do narrador. 
+(B) Ao trabalho com os contrastes claro x escuro em suas imagens, a novela grafica enfatiza a diferenca etnica e social que fundamenta a rivalidade fatalerna entre Yaqub e Omar, um dos eixos estruturais do romance. 
+(C) Ao utilizar procedimentos como a aproximação (zoom-in) e a fragmentação das imagens, a novela grafica recria o fluxo de consciência e a atmosfera orírica da narrativa de Hatoum. 
 (D) A novela grafica demonstra, por meio de imagens, que o romance Dois irmas reinventa a tradição da literatura
+
+regionalista do Brasil, retratando a opulência da cidade de Manaus ao longo do século XX.
+
 (E) Por meio de recursos estéticos como a fragmentação das imagens, a novela grafica recuperara o ponto de vista fraturado do romance de Hatoum, composto por vários narradores ao longo da história.
 ----
 ## Questão 6
@@ -362,11 +365,15 @@ Baterias ion- litio (ion- Li) armazenam energia por meio de um processo de inter
 
 Considerando que a única diferença entre baterias de mesma massa e volume seja o fon utilizado (Na\* ou  $\mathsf{Li}^{+}$  ) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria ion- Na é
 
-(A) maior do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem maior massa e menor raio iônico do que o  $\mathsf{Li}^{+}$ .
-(B) menor do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem maior massa e maior raio iônico do que o  $\mathsf{Li}^{+}$ .
-(C) maior do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem menor massa e maior raio iônico do que o  $\mathsf{Li}^{+}$ .
-(D) menor do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem menor massa e menor raio iônico do que o  $\mathsf{Li}^{+}$ .
-(E) igual à de uma bateria ion-Li, pois ambos os ions são monovalentes.
+A) maior do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem maior massa e menor raio iônico do que o  $\mathsf{Li}^{+}$ .
+B) menor do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem maior massa e maior raio iônico do que o  $\mathsf{Li}^{+}$ .
+C) maior do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem menor massa e maior raio iônico do que o  $\mathsf{Li}^{+}$ .
+D) menor do que de uma bateria ion-Li, pois o  $\mathsf{Na}^{+}$ tem menor massa e menor raio iônico do que o  $\mathsf{Li}^{+}$ .
+E) igual à de uma bateria ion-Li, pois ambos os ions são monovalentes.
+
+# Note e adote:
+
+Distribução eletromica:  $\mathsf{Li} = 1\mathsf{s}^{+}$ ,  $2\mathsf{s}^{+}$ ,  $\mathsf{Na} = 1\mathsf{s}^{+}$ ,  $2\mathsf{s}^{+}$ ,  $2\mathsf{p}^{+}$ ,  $3\mathsf{s}^{+}$ . Massa atômica (u):  $\mathsf{Li} = 7$ ;  $\mathsf{Na} = 23$ .
 ----
 ## Questão 22
 
@@ -556,12 +563,17 @@ Disponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).
 (E) favorecimento da mistura entre elas.
 ----
 ## Questão 31
-
 Alguns corais contem, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construgao do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de protecao e importantes nutrientes as algas. As mudangas climaticas globais tem provocado a morte dessas algas e, em muitos casos, a morte dos corais.
 
 Assinale a alternativa que representa a relacao ecologica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.
 
-<table><tr><td></td><td>Relacao ecologica</td><td>Impacto imediato</td></tr><tr><td>(A)</td><td>Predacao</td><td>Formacao das mares vermelhas e desoxigenacao das aguas oceaniaicos.</td></tr><tr><td>(B)</td><td>Mutualismo</td><td>Perda de habitat para diversas especies marinas, assim como diminuicao de suas fontes de protecao e ilimento.</td></tr><tr><td>(C)</td><td>Colonia</td><td>Aumento de habitats e nichos ecologicos para especies que passam a viver no local antes ocupado pelos corais.</td></tr><tr><td>(D)</td><td>Competicao</td><td>Invasao biodlogica por especies que ocupam o nicho deixado vago pelos corais.</td></tr><tr><td>(E)</td><td>Comensalismo</td><td>Enriquecimento das aguas oceaniaicos por calcio e nitrogente, favorecendo o desenvolvimento de algas marinas.</td></tr></table>
+<table><tr><td></td><td>Relacao ecologica</td><td>Impacto imediato</td></tr><tr><td>
+
+A) </td><td>Predacao</td><td>Formacao das mares vermelhas e desoxigenacao das aguas oceaniaicos.</td></tr><tr><td>
+B) </td><td>Mutualismo</td><td>Perda de habitat para diversas especies marinas, assim como diminuicao de suas fontes de protecao e ilimento.</td></tr><tr><td>
+C) </td><td>Colonia</td><td>Aumento de habitats e nichos ecologicos para especies que passam a viver no local antes ocupado pelos corais.</td></tr><tr><td>
+D) </td><td>Competicao</td><td>Invasao biodlogica por especies que ocupam o nicho deixado vago pelos corais.</td></tr><tr><td>
+E) </td><td>Comensalismo</td><td>Enriquecimento das aguas oceaniaicos por calcio e nitrogente, favorecendo o desenvolvimento de algas marinas.</td></tr></table>
 ----
 ## Questão 32
 
@@ -765,12 +777,12 @@ No texto, a percepção de "conforto como construto" indica que o eu lírico vê
 (E) algo criado pela sociedade, produzindo falsa sensação de segurança.
 ----
 ## Questão 43
-43Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poetica original. Com base no exposto, em Alguma poesia (1930). (
+43Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poetica original. Com base no exposto, em Alguma poesia (1930).
 
-A) os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versus livres, a nostalgia romântica da infância idealizada. (
-B) o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das volguridas modernistas, em especial a esinha automática e o surrealismo. (
-C) a topica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade. (
-D) o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta- se como eixo temático de cunho ufanista. (
+A) os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versus livres, a nostalgia romântica da infância idealizada.
+B) o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das volguridas modernistas, em especial a esinha automática e o surrealismo.
+C) a topica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade.
+D) o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta- se como eixo temático de cunho ufanista.
 E) a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao "vasto mundo".
 ----
 ## Questão 44
@@ -791,7 +803,6 @@ Ao propor uma aproximacao entre a fala da personagem Calvin no quadrinho e o tre
 (E) Ha ruptura completa entre o tempo presente e o futuro.
 ----
 ## Questão 45
-
 Considere que a expectativa de vida no Brasil a idade de 19 anos pode ser calculada, de forma aproximada, como a media aritmetica simples entre a expectativa de vida estimada a mesma idade dos homens e das mulheres. O mesmo pode ser feito a idade de 20 anos.
 
 Segundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil a idade de 19 anos era 58, e a expectativa de vida estimada dos homens a mesma idade era 54,7.
@@ -800,7 +811,13 @@ Sabe- se que a diferencia entre a expectativa de vida estimada dos homens e a da
 
 Com base nos dados apresentados, assimale a alternativa que apresenta a expectativa de vida estimada dos mulheres a idade de 19 anos  $(\mathsf{EVM}_{19})$  e a expectativa de vida estimada a idade de 20 anos no Brasil  $(\mathsf{EVB}_{20})$  em 2022.
 
-<table><tr><td></td><td>EVM19</td><td>EVB20</td></tr><tr><td>(A)</td><td>54,7</td><td>54,7</td></tr><tr><td>(B)</td><td>54,7</td><td>58</td></tr><tr><td>(C)</td><td>60</td><td>54</td></tr><tr><td>(D)</td><td>61,3</td><td>56</td></tr><tr><td>(E)</td><td>61,3</td><td>57,1</td></tr></table>
+<table><tr><td></td><td>EVM19</td><td>EVB20</td></tr><tr><td>
+
+A) </td><td>54,7</td><td>54,7</td></tr><tr><td>
+B) </td><td>54,7</td><td>58</td></tr><tr><td>
+C) </td><td>60</td><td>54</td></tr><tr><td>
+D) </td><td>61,3</td><td>56</td></tr><tr><td>
+E) </td><td>61,3</td><td>57,1</td></tr></table>
 ----
 ## Questão 46
 
@@ -840,12 +857,12 @@ Evolugao da participação de machos e fêmeas no abate de bovinos no Brasil por
 
 A partir dos dados observados nos gráficos, é correto afirmar:
 
-A partir dos dados observados nos gráficos, é correto afirmar:(
+A partir dos dados observados nos gráficos, é correto afirmar:
 
-A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019. (
-B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões. (
-C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual. (
-D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões. (
+A) No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019.
+B) No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões.
+C) No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual.
+D) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões.
 E) No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019.
 ----
 ## Questão 49
@@ -1012,10 +1029,15 @@ Com base no gráfico e nas informações apresentadas, é correto afirmar:
 (E) Duas barras de comprimentos  $5m$  e  $10m$  a  $0^{\circ}C,$  feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de  $0^{\circ}C$  a  $100^{\circ}C$
 ----
 ## Questão 60
-
 As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo. Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo.
 
-<table><tr><td></td><td>Ferro</td><td>Aço inoxidável</td></tr><tr><td rowspan="2">(A)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">(B)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">(C)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">(D)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">(E)</td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr></table>
+<table><tr><td></td><td>Ferro</td><td>Aço inoxidável</td></tr><tr><td rowspan="2">
+
+A) </td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">
+B) </td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">
+C) </td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">
+D) </td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr><tr><td rowspan="2">
+E) </td><td>Massa (mg)</td><td>Massa (mg)</td></tr><tr><td>Tempo (meses)</td><td>Tempo (meses)</td></tr></table>
 ----
 ## Questão 61
 
@@ -1331,12 +1353,12 @@ Em relação ao plano cartesiano Oxy, é correto afirmar que as equações  $x^{
 
 Contribui para o efeito decomicidade do cartum a
 
-Contribui para o efeito decomicidade do cartum a(
+Contribui para o efeito decomicidade do cartum a
 
-A) atitude do docente diante da apatia do grupo, incapaz de produzir uma resposta. (
-B) certeza do aluno em seu argumento, desafiando a autoridade do professor. (
-C) interpretação por parte do discente de símbolos matemáticos ligados à teoria dos conjuntos. (
-D) adoção pelo professor de duas formas semelhantes e eficazes de resolver a mesma equação. (
+A) atitude do docente diante da apatia do grupo, incapaz de produzir uma resposta.
+B) certeza do aluno em seu argumento, desafiando a autoridade do professor.
+C) interpretação por parte do discente de símbolos matemáticos ligados à teoria dos conjuntos.
+D) adoção pelo professor de duas formas semelhantes e eficazes de resolver a mesma equação.
 E) rivalidade entre os colegas para determinar quem possui mais conhecimento.
 ----
 ## Questão 79

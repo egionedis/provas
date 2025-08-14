@@ -2,7 +2,7 @@
 ## Questão 1
 Assinale a alternativa que corresponde ao maior número inteiro  $x$  que satisfaz a desigualdade  $2x - 10 \leq - 3x + 8$ .
 
-A)  $- 2$
+A) -2
 B) 0
 C) 3
 D) 4
@@ -292,7 +292,6 @@ D) Covalente simples
 E) Covalente multipla
 ----
 ## Questão 25
-
 Na busca por combustiveis menos danosos ao meio ambiente, a amonia (NH3) bem sido considerada uma possivel alternativa. Sua combustao no motor nao libera gas carbonico para a atmosfera o produz bastante calor, como mostra a Reacao 1:
 
 $$
@@ -313,22 +312,21 @@ $$
 
 Utilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variacao da entalpia da Reacao 3  $(\Delta H_3)$  ,em kJ.
 
-A)182 
-B) 364 
-C) 728 
-D) 1086 
+A) 182
+B) 364
+C) 728
+D) 1086
 E) 2172
 ----
 ## Questão 26
-
 Muitas moleculas organicas apresentam mais de uma fungao organica em sua estrutura, alem das cadeias hidrocarbonicas inerentes a elas. Quando isso acontece, diz- se que a molecula apresenta fungao mista.
 
 Considerando essas informacoes, qual das moleculas a seguir apresenta fungao mista?
 
-A) Acetato de etila 
-B) Acetileno 
-C)Acido cloroacetico 
-D) Anidrido acetico 
+A) Acetato de etila
+B) Acetileno
+C) Acido cloroacetico
+D) Anidrido acetico
 E) Cloreto de acetila
 ----
 ## Questão 27
@@ -900,7 +898,6 @@ D) ao conter - permitiriam - em seguida,
 E) que conten - o que permite - por outro lado,
 ----
 ## Questão 63
-
 Leia o texto a seguir.
 
 # O santo bateau
@@ -920,7 +917,11 @@ Considere as seguintes sequências extraidas do texto:
 
 A presenta(m) marca expressiva da subjetividade do autor:
 
-A) apenas a afirmativa 1.  B) apenas as afirmativas 1 e 4.  C) apenas as afirmativas 2 e 3.  D) apenas as afirmativas 2, 3 e 4.  E) as afirmativas 1, 2, 3 e 4.
+A) apenas a afirmativa 1.
+B) apenas as afirmativas 1 e 4.
+C) apenas as afirmativas 2 e 3.
+D) apenas as afirmativas 2, 3 e 4.
+E) as afirmativas 1, 2, 3 e 4.
 ----
 ## Questão 64
 Todas as grandes línguas de cultura que conhecemos hoje, ao longo de sua historia, passaram por um processo de estandardização. Por estandardização, entenderemos aqui o fato de que a língua assume uma mesma forma para a maioria dos usuários e passa a obedecer a modelos definidos. No processo de estandardização de uma língua entram, às vezes, fatores de natureza extralinguística. Em poucos séculos, a invenção da imprensa fez com que as mesmas obras pudensem ser liás exatamente com o mesmo texto em lugares diferentes. Antes da imprensa, elas circulavam em versões manuscritas, produzidas a bico- de- pena em oficinas de copia: a ignorância dos empregados a respeito do assunto da obra, suas diferenças de formação, a própria lentidão da tarefa, que obrigava a utilizar vários copistas na produção de um mesmo manuscrito, faziam com que o texto copiado se alterasse ao longo do tempo. No século XX, a estandardização da língua esque intimamente ligada à explosão dos meios de comunicacao de massa (o radio, a televisão, o jornal, o outdoor e a internet), e a algumas grandes tendências da educação, como a generalização do ensino primário, que gerou um mercado de livros didáticos de grandes proporções e levou à criação de uma rica literatura infantil. É difícil avaliar de maneira exata a influência de todos esses fatores extralinguísticos, mas o certo é que eles contribuíram para uniformizar a língua e frear suas mudancas.
@@ -964,6 +965,8 @@ B) O autor do texto emprega a comparação com uma uva que enruga e vira passa, 
 C) Pesquisadores da Nasa, de universidades e institutos de pesquisa dos Estados Unidos descobriram falhas tectônicas no Polo Sul na Terra e na Lua.
 D) O pouco da missão Artemis 3, previsto para 2026, está cogitado para a zona de deformações provocadas por instabilidade do solo lunar.
 E) A circunferência da Lua encolhenu 45 metros em virtude de seu resfriamento, mas isso é insignificante considerando-se o tempo que levou para que ocorresse.
+
+# LITERATURA BRASILEIRA
 ----
 ## Questão 67
 - Considere o seguinte texto:
@@ -983,9 +986,7 @@ D) A sucesso de imagens e sensações recuperadas pela força da memória nas cu
 E) Os versos "e a cidade está no homem / que está em outra cidade" indicam que o passado vivido em São Luís do Maranhão segue entranhado no poeta enquanto ele vive como exilado político em Buenos Aires.
 ----
 ## Questão 68
-A narrativa de A Falencia, publicada por Julia Lopes de Almeida em 1904, traz a tona algumas tensoes e desigualdades que caracterizam o Brasil apos a Abolicao e a Proclamacao da Republic
-
-a. Considere as seguintes afirmativas sobre as marcas dessas tensoes nos personagens e no espaço:
+A narrativa de A Falencia, publicada por Julia Lopes de Almeida em 1904, traz a tona algumas tensoes e desigualdades que caracterizam o Brasil apos a Abolicao e a Proclamacao da Republica. Considere as seguintes afirmativas sobre as marcas dessas tensoes nos personagens e no espaço:
 
 1. O embate entre o dinheiro conquistado com o trabalho e o capital alcancado por meio da especulação financeira acompanha a trajetória de Francisco Teodoro.  
 2. A violência contra a mulher se inscreve no passado de D. Joana, personagem que sofreu maus-tratos do falecido marido, e no de Capitão Rino, cuja mãe foi assassinada por adultério.  
@@ -1003,9 +1004,7 @@ E) As afirmativas 1, 2, 3 e 4 são verdadeiras.
 ## Questão 69
 A respeito de Liras de Marilia de Dirceu, de Tomás Antônio Gonzaga, analise as afirmativas a seguir:
 
-1. A publicação das liras em Minas Gerais inspirou o anseio de liberdade política, tendo colaborado para a deflagração da Inconfidência Mineir
-
-a.  
+1. A publicação das liras em Minas Gerais inspirou o anseio de liberdade política, tendo colaborado para a deflagração da Inconfidência Mineira.  
 2. A voz poética de todas as liras é a do pastor Dirceu, que foge do amor por Marilia até ser vencido pelo deus do amor, Cupido.  
 3. Os versos metrificados, especialmente os de 5 e 7 silabas, não às liras um ritmo frequente na tradição da poesia de lingua portuguesa.  
 4. As características arcades das liras se apresentam sobretudo no referencial bucolico presente nos poemas, reconhecível no mundo pastoril ali retratado.
@@ -1116,9 +1115,7 @@ E) a ciencia é o conhecimento das causas dos fenomenos.
 
 Fraser, N. Reconhecimento sem etica?, Lua Nova, Sao Paulo, 70, p. 103, 2007.
 
-De acordo com Nancy Fraser no artigo "Reconhecimento sem etica?", politicas de reconhecimento são necessarias par
-
-a:
+De acordo com Nancy Fraser no artigo "Reconhecimento sem etica?", politicas de reconhecimento são necessarias para:
 
 A) promover paridade de particoacao entre os grupos sociais.
 B) afirmar a identidade e a particularidade de cada grupo social.
@@ -1129,17 +1126,16 @@ E) promover o desenvolvimento etico e psiquico de cada cidadao.
 # SOCIOLOGIA
 ----
 ## Questão 78
-
 "Segundo Marx, os economistas de seu tempo nao reconhecem a historicidade dos fenomenos que se manifestam na sociedade capitalista, por isso suas teorias sao comparaveis as dos teologos, para os quais boda religiao estranha e pura invencao humana, enquanto a deles proprios e uma emanacao de deus'. Ele questiona a perspectiva para a qual as relacoes burguesas de producao sao naturais, estao de acordo com as leis da natureza, como se fossem independentes da influencia do tempo'. Assim, as institucoes feudais teriam sido historicas, ironiza, mas as burguesas seriam naturais e, portanto, mutaveis. Para ele, tanto os processos ligados a producao sao transitorios, como as ideias, concepcoes, gostos, crencas, categorias do conhecimento e ideologias os quais, gerados socialmente, dependem do modo como os individuos se organizam para produzir".
 
 Quintaneiro, T.; Barbosa, M. L. de O.; Oliveira, M. G. M. de. Um toque de classicos: Marx, Durkheim e Weber. Belo Horizonte: Editora UFMG, 2003. p. 29- 30.
 
 Tendo por base esse trecho sobre a obra de Karl Marx, bem como a leitura da obra de Quintaneiro, Barbosa e Oliveira, e correto afirmar:
 
-A) Nao e o ser social quem determina a consciencia, mas a consciencia que determina o ser social. 
-B) O materialismo histoico formalado por Marx e uma ideologia que realima a importancia do mundo das ideias na construgao das sociedades capitalistas. 
-C) As relacoes materiais tem pouca ou nenhuma relacao com a teoria formulaeda por Marx, que julgava suficiente o desenvolvimento do comunismo como uma ideia revolucionaria. 
-D)O pensamento e a consciencia sao decorrencias da relacao entre individuo e natureza, ou seja, derivam das relacoes materiais. 
+A) Nao e o ser social quem determina a consciencia, mas a consciencia que determina o ser social.
+B) O materialismo histoico formalado por Marx e uma ideologia que realima a importancia do mundo das ideias na construgao das sociedades capitalistas.
+C) As relacoes materiais tem pouca ou nenhuma relacao com a teoria formulaeda por Marx, que julgava suficiente o desenvolvimento do comunismo como uma ideia revolucionaria.
+D) O pensamento e a consciencia sao decorrencias da relacao entre individuo e natureza, ou seja, derivam das relacoes materiais.
 E) A luta de classes, a alienacao, a ideologia e a revolucao sao conceitos que prescindem de analise histoico-materialista, pois sao atemporais, assim como o de burguesia.
 ----
 ## Questão 79

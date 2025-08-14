@@ -50,3 +50,7 @@ def finalize_cmd(base: Path = typer.Argument(Path("provas"))):
     finalize_batch_from_audit(base)
 
 
+@app.command(name="blocks-json")
+def blocks_json_cmd(base: Path = typer.Argument(Path("provas"))):
+    from .blocks_json import run
+    run(base)

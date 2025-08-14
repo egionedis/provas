@@ -1,4 +1,4 @@
-# Finalize (inline + LLM fallback with exam pattern)
+# Finalize (letters-only; LaTeX-masked; safe pre-trim; relaxed inline; skip-if-none; LLM exact)
 - input: full_blocks_fix_missing.md
 - output: full_blocks_final.md
 - total blocks: 71
@@ -6,17 +6,17 @@
 - expected alternatives per question (mode): 4
 
 ## Fixed
-- Q9: STRICT 3 → 4 (LLM extract-only)
-- Q18: STRICT 3 → 4 (LLM extract-only)
-- Q19: STRICT 3 → 4 (LLM extract-only)
+- Q9: STRICT 3 → 4 (inline split)
+- Q18: STRICT 3 → 4 (inline split)
+- Q19: STRICT 3 → 4 (inline split)
 - Q45: STRICT 3 → 4 (inline split)
 - Q46: STRICT 3 → 4 (inline split)
-- Q54: STRICT 3 → 4 (LLM extract-only)
-- Q55: STRICT 3 → 4 (LLM extract-only)
+- Q54: STRICT 3 → 4 (inline split, relaxed)
+- Q55: STRICT 3 → 4 (inline split)
 - Q69: STRICT 0 → 4 (inline split)
 
 ## Unresolved (kept as-is)
-- Q26: could not extract 4 alternatives; kept original
-- Q40: could not extract 4 alternatives; kept original
-- Q67: could not extract 4 alternatives; kept original
+- Q26: no textual A.. options found (likely image-only); kept original
+- Q40: no textual A.. options found (likely image-only); kept original
+- Q67: no textual A.. options found (likely image-only); kept original
 
