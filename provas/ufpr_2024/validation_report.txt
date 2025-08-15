@@ -1,9 +1,0 @@
-Exam: ufpr_2024
-Total questions: 82
-Questions with warnings: 2
-
-## Questão 16
- - some alternatives have empty text
-
-## Questão 65
- - only 0 alternatives (often 4–5 expected)

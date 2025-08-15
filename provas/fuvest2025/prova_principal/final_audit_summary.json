@@ -1,0 +1,36 @@
+{
+  "file": "full_blocks_missing.md",
+  "total_blocks": 90,
+  "expected_alt_count": {
+    "mode": 5,
+    "mode_support": 81,
+    "histogram": {
+      "1": 1,
+      "4": 1,
+      "5": 81
+    }
+  },
+  "duplicates": {},
+  "missing_between_ranges": [],
+  "few_alts": [
+    {
+      "q": 5,
+      "alt_count": 4
+    },
+    {
+      "q": 21,
+      "alt_count": 1
+    }
+  ],
+  "inline_only": [
+    43,
+    45,
+    48,
+    78
+  ],
+  "no_alts": [
+    31,
+    60,
+    69
+  ]
+}

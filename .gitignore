@@ -11,11 +11,8 @@ __pycache__/
 *.code-workspace
 .editorconfig
 
-# outputs
-provas/**/full_with_descriptions.md
-provas/**/full_regex.md
-provas/**/exam.json
-provas/**/validation_report.txt
-
+src/provas/export_json.py
+src/provas/ocr.py
+src/provas/schema.py
 # images (if they are huge, track with LFS instead)
 # provas/**/images/

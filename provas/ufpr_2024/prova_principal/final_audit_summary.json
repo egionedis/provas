@@ -1,0 +1,81 @@
+{
+  "file": "full_blocks_missing.md",
+  "total_blocks": 82,
+  "expected_alt_count": {
+    "mode": 5,
+    "mode_support": 65,
+    "histogram": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 9,
+      "5": 65
+    }
+  },
+  "duplicates": {},
+  "missing_between_ranges": [],
+  "few_alts": [
+    {
+      "q": 1,
+      "alt_count": 2
+    },
+    {
+      "q": 3,
+      "alt_count": 4
+    },
+    {
+      "q": 16,
+      "alt_count": 4
+    },
+    {
+      "q": 23,
+      "alt_count": 4
+    },
+    {
+      "q": 25,
+      "alt_count": 4
+    },
+    {
+      "q": 26,
+      "alt_count": 2
+    },
+    {
+      "q": 59,
+      "alt_count": 4
+    },
+    {
+      "q": 63,
+      "alt_count": 4
+    },
+    {
+      "q": 64,
+      "alt_count": 4
+    },
+    {
+      "q": 68,
+      "alt_count": 4
+    },
+    {
+      "q": 69,
+      "alt_count": 4
+    },
+    {
+      "q": 70,
+      "alt_count": 1
+    },
+    {
+      "q": 77,
+      "alt_count": 1
+    },
+    {
+      "q": 78,
+      "alt_count": 3
+    }
+  ],
+  "inline_only": [
+    65,
+    66,
+    67
+  ],
+  "no_alts": []
+}

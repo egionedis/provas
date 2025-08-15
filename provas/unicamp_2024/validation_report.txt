@@ -1,6 +1,0 @@
-Exam: unicamp_2024
-Total questions: 69
-Questions with warnings: 1
-
-## Questão 5
- - full_text is empty

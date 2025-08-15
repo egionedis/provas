@@ -1,34 +1,5 @@
-# CONHECIMENTOS GERAIS
-
-![](images/652b3cb354814d6a151b85d8933ab8bae2c9d6b89cb05abb1c0f277e01ffd905.jpg)
-IMG_DESC_START : tipo=texto; resumo=Logo do vestibular Unicamp 2024 com design moderno e cores vibrantes; elementos=[números, texto, formas geométricas]; dados_chave=[cores=verde, laranja]; grandezas=[]; estrutura=[]; texto_detectado=[2024, VESTIBULAR, UNICAMP] IMG_DESC_END
-
-# Instruções para a realização da prova
-
-— A prova de Conhecimentos Gerais é composta de 72 questões de múltipla escolha. Para cada questão, há 4 alternativas, devendo ser marcada apenas uma.  — Assine, com caneta esferográfica preta, a folha de respostas. Transcreva para aquela folha as respostas escolhidas.  — Ao marcar o item correto, preenchá completamente o campo correspondente, utilizando caneta esferográfica preta.  — Na folha de respostas, não deixe em branco nenhuma das 72 questões.  — A duração total da prova é de 5 horas. Não haverá tempo adicional para transcrição de gabarito.  — Você só poderá deixar a sala – levando APENAS o Controle de Respostas do Candidato e a Declaração de Presença (abaixo) – 2 horas após o inúcio da prova.
-
-<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>UNICAMP VESTIBULAR 2024 – 1° FASE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CONHECIMENTOS GERAIS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
-
-NOME:
-
-INSCRÍAO:
-
-<table><tr><td colspan="16">CONTRIOLE DE RESPOSTAS DO CANDIDATO / PROVA Q e Y</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td></td><td>7</td><td></td><td>13</td><td></td><td>19</td><td></td><td>25</td><td></td><td>31</td><td></td><td>37</td><td></td><td>43</td><td></td><td>49</td><td></td><td>55</td><td></td><td>61</td><td></td><td>67</td><td></td></tr><tr><td>2</td><td></td><td>8</td><td></td><td>14</td><td></td><td>20</td><td></td><td>26</td><td></td><td>32</td><td></td><td>38</td><td></td><td>44</td><td></td><td>50</td><td></td><td>56</td><td></td><td>62</td><td></td><td>68</td><td></td></tr><tr><td>3</td><td></td><td>9</td><td></td><td>15</td><td></td><td>21</td><td></td><td>23</td><td></td><td>33</td><td></td><td>39</td><td></td><td>45</td><td></td><td>51</td><td></td><td>57</td><td></td><td>63</td><td></td><td>69</td><td></td></tr><tr><td>4</td><td></td><td>10</td><td></td><td>16</td><td></td><td>22</td><td></td><td>28</td><td></td><td>34</td><td></td><td>40</td><td></td><td>46</td><td></td><td>52</td><td></td><td>58</td><td></td><td>64</td><td></td><td>70</td><td></td></tr><tr><td>5</td><td></td><td>11</td><td></td><td>17</td><td></td><td>23</td><td></td><td>29</td><td></td><td>35</td><td></td><td>41</td><td></td><td>47</td><td></td><td>53</td><td></td><td>59</td><td></td><td>65</td><td></td><td>71</td><td></td></tr><tr><td>6</td><td></td><td>12</td><td></td><td>18</td><td></td><td>24</td><td></td><td>30</td><td></td><td>36</td><td></td><td>42</td><td></td><td>48</td><td></td><td>54</td><td></td><td>60</td><td></td><td>66</td><td></td><td>72</td><td></td></tr></table>
-
-![](images/242be600bc66e805840d762db5db467b10fc75eab59906842e51fb12388e12e3.jpg)
-IMG_DESC_START : tipo=tabela; resumo=Tabela periódica dos elementos químicos mostrando os elementos com seus números atômicos e massas atômicas. elementos=[Hidrogênio, Hélio, Lítio, Berílio, Boro, Carbono, Nitrogênio, Oxigênio, Flúor, Neônio, Sódio, Magnésio, Alumínio, Silício, Fósforo, Enxofre, Cloro, Argônio, Potássio, Cálcio, Escândio, Titânio, Vanádio, Cromo, Manganês, Ferro, Cobalto, Níquel, Cobre, Zinco, Gálio, Germânio, Arsênio, Selênio, Bromo, Criptônio, Rubídio, Estrôncio, Ítrio, Zircônio, Nióbio, Molibdênio, Tecnécio, Rutênio, Ródio, Paládio, Prata, Cádmio, Índio, Estanho, Antimônio, Telúrio, Iodo, Xenônio, Césio, Bário, Lantânidos, Háfnio, Tântalo, Tungstênio, Rênio, Ósmio, Irídio, Platina, Ouro, Mercúrio, Tálio, Chumbo, Bismuto, Polônio, Astato, Radônio, Frâncio, Rádio, Actinídeos, Rutherfordium, Dúbnio, Seabórgio, Bóhrio, Hássio, Meitnério]; dados_chave=[número atômico, massa atômica]; grandezas=[]; estrutura=[linha1=[H,He];linha2=[Li,Be,B,C,N,O,F,Ne];linha3=[Na,Mg,Al,Si,P,S,Cl,Ar];linha4=[K,Ca,Sc,Ti,V,Cr,Mn,Fe,Co,Ni,Cu,Zn,Ga,Ge,As,Se,Br,Kr];linha5=[Rb,Sr,Y,Zr,Nb,Mo,Tc,Ru,Rh,Pd,Ag,Cd,In,Sn,Sb,Te,I,Xe];linha6=[Cs,Ba,La-Lu,Hf,Ta,W,Re,Os,Ir,Pt,Au,Hg,Tl,Pb,Bi,Po,At,R
-
-![](images/39623f3e1a603696b459b31406ffb73aa433d2ac2551a703c23728ae15ed0e6a.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando informações sobre o elemento químico manganês.; elementos=[caixa, setas, texto]; dados_chave=[número atômico, símbolo, nome, 25, Mn, Manganês, 54.938]; grandezas=[]; estrutura=[(caixa, centro);(seta, esquerda);(texto, esquerda)]; texto_detectado=[Número atômico, Símbolo, Nome, 25, Mn, Manganês, 54.938] IMG_DESC_END
-
-Massa atómica relativa. A incertea no último digito e = 1, exceto quando indicado entre parêntesis. Os valores com * referem - se ao isotopo mais estável.
-
-![](images/b65305bbd9205ab63f7782f54ac233296a60a56c1f300defe0faf67f1975a3a5.jpg)
-IMG_DESC_START : tipo=tabela; resumo=Tabela com elementos químicos da tabela periódica, incluindo nome, símbolo e massa atômica.; elementos=[La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu, Ac, Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr]; dados_chave=[57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103]; grandezas=[(La,138.91,u),(Ce,140.12,u),(Pr,140.91,u),(Nd,144.24,u),(Pm,146.2,u),(Sm,150.36,u),(Eu,151.96,u),(Gd,157.25,u),(Tb,158.93,u),(Dy,162.5,u),(Ho,164.93,u),(Er,167.26,u),(Tm,168.93,u),(Yb,173.04,u),(Lu,174.97,u),(Ac,227.03,u),(Th,232.04,u),(Pa,231.04,u),(U,238.03,u),(Np,237.05,u),(Pu,239.05,u),(Am,241.06,u),(Cm,244.06,u),(Bk,249.08,u),(Cf,252.08,u),(Es,252.08,u),(Fm,257.1,u),(Md,258.1,u),(No,259.1,u),(Lr,262.11,u)]; estrutura=[linha1=[La,Ce,Pr,Nd,Pm,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu],linha2=[Ac,Th,Pa,U,Np,Pu,Am,Cm,Bk,Cf,Es,Fm,Md,No,Lr]]; texto_detectado=[Lantânio, Cério, Praseodímio, Neodímio
-
-# RASCUNHO
-
-# QUESTÃO 1
+----
+## Questão 1
 
 # 'Nevou' no Rio
 
@@ -42,8 +13,8 @@ a) literal e é sinônimo de descolorir.
 b) figurado e quer dizer embranquecer. 
 c) metafórico e é antônimo de escurecer. 
 d) metonímico e significa cabelos brancos.
-
-# QUESTÃO 2
+----
+## Questão 2
 
 Assinale a alternativa em que todas as palavras listadas têm um mesmo referente dentro do texto.
 
@@ -51,8 +22,8 @@ a) fenômeno - onda - tendência - modismo
 b) mania - onda - febre - força  
 c) fenômeno - momento - mania - febre  
 d) modismo - tendência - força - momento
-
-# QUESTÃO 3
+----
+## Questão 3
 
 # Texto 1
 
@@ -61,7 +32,6 @@ Vivemos no limiar de uma transição, em que a automação ocupará cada vez mai
 (Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam sociedade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021. )
 
 ![](images/ae3148070d04cce0bad3cb0b2d93d6f327aeadadc7ac7b6c36f76795ae1e292b.jpg)  
-IMG_DESC_START : tipo=outro; resumo=Tira de quadrinhos com dois personagens conversando sobre interesses pessoais e uma previsão de compra de curso.; elementos=[personagem1, personagem2, tapete de ioga, balões de fala]; dados_chave=[]; grandezas=[]; estrutura=[]; texto_detectado=[ELA CURTE IOGA, GOSTA DE GATOS CERÂMICA CONSTELAÇÃO FAMILIAR E COMIDA SEM GLÚTEN, ISSO QUER DIZER QUE ELA VAI COMPRAR O CURSO DE ENCADERNAÇÃO ARTESANAL] IMG_DESC_END
 Texto 2
 
 (Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da sé- rie criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas- tirinhas- de- andre- dahmer- transformam- algorithmo- em- personagem- intrometido/. Acesso em 28/07/2023. )
@@ -72,15 +42,14 @@ a) definem o que é melhor ou mais apropriado para cada pessoa.
 b) são opacos porque aleatoriamente expõem às pessoas pro- dutos para compra.  
 c) se servem dos nossos dados para nos oferecer continua- mente produtos a serem consumidos.  
 d) controlam a vida humana para aperfeiçoar as nossas tomadas de decisão.
-
-# QUESTÃO 4
+----
+## Questão 4
 
 O anúncio (Texto 1) reproduzido a seguir foi postado nas redes sociais da Portela, escola de samba carioca, para divulgar uma festa literária. A escola, que traz a água como símbolo em todos os seus desfiles (Texto 2), completou 100 anos em 2023.
 
 Texto 1
 
 ![](images/79c427cec1172fddcb7dd0d5be4aeeb0a893aa51df720a42c16a2ef8388557d3.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem promocional da FLIPORTELA, evento literário comemorando o centenário da Portela, com datas e informações de acesso.; elementos=[livro estilizado, águia, carro alegórico, texto]; dados_chave=[28,29,30 de abril, 1923,2023, Instagram, acesso em 24.06.2023]; grandezas=[]; estrutura=[(livro, topo), (águia, centro), (carro alegórico, base)]; texto_detectado=[FLIPORTELA, FESTA LITERÁRIA DA PORTELA, 28,29 e 30 de abril, Centenário, POR TEL A 100 ANOS, 1923.2023, Disponível em: https://www.instagram.com/p/CrIVA_t0mAW/, Acesso em 24.06.2023] IMG_DESC_END
 
 Considerando a imagem no texto 2, podemos afirmar que o texto 1 promove uma
 
@@ -88,8 +57,8 @@ a) fusao entre o simbolo da escola e o produto da expressao literaria, que apare
 b) relacao entre a festa literaria, mencionada em segundo plano, e o desenho do simbolo da escola, que passa a personificar a literatura. 
 c) associacao das asas da agua com o titulo atribuido a festa literaria, que mostra o nome da escola antecedido pelo preferio fil. 
 d) ressignificacao do simbolo da Portela, cujo desenho faz referencia direta a arte literaria, para destacar o centenario da escola como tema da festa.
-
-# QUESTAO 5
+----
+## Questão 5
 
 O texto a seguir é um trecho da cancao Pantanal, que foi tema de abertura da novela com o mesmo nome, exhibida originalmente pela TV Manchete em 1990 e regravada pela TV Globo em 2022.
 
@@ -101,8 +70,8 @@ a) repeticao de adverbios que indicam as mesmas circunstan cias de tempo e de lu
 b) indeterminacao de sujeito com verbo na terceira pessoa do plural, para produzir um efeito de incerteza quanto ao papel das futuras geracoes. 
 c) atribucao de caracteristicas positivas por meio de substanti vos que indicam cores, para produzir um efeito de otimismo na preservacao da natureza. 
 d) encadeamento sucessivo de termos ligados por preposicao, para produzir um efeito de continuidade temporal quanto a condicao do planeta.
-
-# QUESTAO 6
+----
+## Questão 6
 
 je ne parle pas bien\* je ne parle pas bien je ne parle pas bien je ne parle pas bien eu tenho uma lingua solta que nao me deixa esquecer que cada palavra minha e resquicio da colonizacao cada verbo que aprendi conjugar foi ensinado com a missao de me afastar de quem veio antes nossas escolas nao nos ensinam a dar voos [...] reinvencao nossa revolucao surge e urge das nossas bocas das falas aprendidas que sao ensinadas e muitas nao comprendidas salve, a cada gira je ne parle pas bien [...] o que era pra ser arma de colonizador esta virando revide de ex colonizado estamos aprendendo as suas linguas e descolonizando os pensamento
 
@@ -117,8 +86,8 @@ b) enfatiza a ideia de que a lingua francesa do colonizador ainda nao foi apreno
 c) é uma constatacao de que, na posicao de ex-colonia, nao conseguimos aprender linguas estrangeiras.
 
 d) indica um posicionamento de resistencia por meio de uma critica a aprendizagem forcada da lingua do colonizador.
-
-# QUESTAO 7
+----
+## Questão 7
 
 Texto 1 "Que seculo, meus Deus! - exclamaram os ratos E começaram a roer o edificio". ("Edificio Esplendor" (1955), de Carlos Drummond de Andrade, epigrafe do conto "Seminario dos Bates," de Lygia Esplunder Telles.)
 
@@ -135,8 +104,8 @@ b) A epigrafe mostra que os versos de Drummond são imprescindíveis à escrita 
 c) A epigrafe justifica o título do conto o comenta os possíveis sentidos críticos dele.
 
 d) A epigrafe identifica Lygia à geração de 30 do Modernismo, ao lado de Drummond.
-
-# QUESTÃO 8
+----
+## Questão 8
 
 Leia o trecho da reportagem:
 
@@ -157,8 +126,8 @@ b) "Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas 
 c) "Os assaltantes desceram rápido. Maria olhou saudosa e desesperada para o primeiro. (...) Algumé gritou que aquela puta safada lá da frente conhecia os ascalantes (...). A primeira voz, a que acordou a coragem de todos, (...) levantou e se encaminhou em direção à Maria (...)" (p. 41-42).
 
 d) "Nos últimos tempos na favela, os tirsteios aconteciam com frequência e a qualquer hora. Os componentes dos grupos rivais brigavam para garantir seus espaços e freguesias. Ha- via ainda o confronto constante com os policiais que invadiam a área" (p. 76).
-
-# QUESTÃO 9
+----
+## Questão 9
 
 No inficio da novela Casa Velha, de Machado de Assis, o conego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutors:
 
@@ -171,8 +140,8 @@ b) um antiescravista, obrigado a conviver, na mesma casa grande, com senhores, a
 c) um republicano que suporta um velho Coronel de posigoes conservadoras: "Preverendissimo, (...) os farrapos invadiram Santa Catarina, entriram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento..." (p. 89).
 
 d) um ingênuo que se deixa lludir em suas relações pessoais: "nem por sombras me acudiu que a revelação de Dona An- tônia podia não ter verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as palavras que ela trazia na mente (...) (p. 89).
-
-# QUESTÃO 10
+----
+## Questão 10
 
 "Um deles viu umas contas brancas de rosário, acenou que lhas dessem e divertiu- se muito com elas. Enrolou- as ao pescoço, depois tirou- as e embrulhou- as no braço, e acenava para a terra e depois para as contas, e em seguida para o colar do capitão, dando a entender que eles dariam ouro por aquilo. Isto nós entendíamos assim porque queríamos. Mas se ele queria dizer que levaria as cortas e mais o colar, isto nós não queríamos entender, porque não lho daríamos."
 
@@ -187,8 +156,8 @@ b) descreve e interpreta os fatos, mostrando que a compren-são dos portugueses 
 c) descreve como os povos originários do Novo Mundo auxiliaram os colonizadores na prospeção por riquezas, anteven-do a realização do projeto colonizador.
 
 d) descreve e interpreta os fatos, sugerindo que, na visão dos povos originários, era possível a convivência pacífica com o colonizador, já que compartilhavam os mesmos interesses.
-
-# QUESTÃO 11
+----
+## Questão 11
 
 Em 1921, Mário de Andrade, escrevendo a série de artigos "Mestres do passado", publicados no Jornal do Comércio (edi- ção de São Paulo), observou:
 
@@ -217,8 +186,8 @@ b) O critico elogia os salientes artificios da linguagem poética de Tarde, o qu
 c) O critico evoca, como resultado da pouca inspiração artística do poeta, a sobrecarga de investimento formal (os hipérbatos ou inversões, por exemplo).
 
 d) O critico associa a poesia de Bilac ao estilo decadentista, o que é reforçado pelas imagens de esgotamento, como se vê nas palavras "morna", "esmaiado", "ofego", "mole", "lentas".
-
-# QUESTÃO 12
+----
+## Questão 12
 
 Leia as duas citações a seguir, extraídas do início e do final de O Ateneu:
 
@@ -236,8 +205,8 @@ a) idealiza a felicidade experimentada na infancia, suas aspirações, seu ardor
 b) considera que a felicidade passada não era maior que a do presente, pois os tempos são iguais. 
 c) duvida da propria saudade, separando as lembranças relati- vas ao passado daquele sentimento associado a elas. 
 d) denuncia a hipocrisia da saudade que sente, por saber que a passagem do tempo é incerta.
-
-# QUESTÃO 13
+----
+## Questão 13
 
 Estudos, publicadas na Nature Geoscience e na revista Science, apontam para a queca acentuada das temperatura na Europa e na Asia a partir do ano de 536, gerando a chamada "Peque- na Idade do Gelo da Antiguidade Tardia". As mudanças nas temperaturas podem ter sido causadas por erupcoes vulcânicas, cujos efitos foram reforçados pelas correntes oceânicas, pela expansão do gelo e pela coincidência de um mínimo solar (seculo VI). A conjugação desses fatores teria gerado mudanças efitivas na história, já que a agricultura e a pastagem teriam sido diretamente ateligidas. Exemplos dessas relações entre o clima e a história humana podem ser encontrados na Antiguidade, como a invasão da Europa por vários povos das estepes, a queda do segundo império persa, a entrada dos turecos na Anatólia, o inicio da expansão árabe, entre outros.
 
@@ -252,8 +221,8 @@ b) a "Pequena Idade do Gelo da Antiguidade Tardia", assim como as mudanças clim
 c) os efitos das mudanças climáticas no passado eram locais; os eventos históricos citados se desconectavam das mudanças nos ecosistemas encontrados na Europa e na Asia.
 
 d) os estudos sobre as mudanças nas temperatura no século VI apresentam uma visão sobre o passado, destacando como grupamentos humanos controlavam as mudanças na natureza.
-
-# QUESTÃO 14
+----
+## Questão 14
 
 "Dos pretos é tão próprio e natural a união que a todos os que têm a mesma cor, chamam parentes; a todos os que servem na mesma casa, chamam parceiros; e a todos os que se embarcam no mesmo navio, chamam malungos."
 
@@ -265,8 +234,8 @@ a) nos lagos entre africanos de múltiplas etnias, os quais ha viam atravessado 
 b) no encontro dos africanos nas senzalas, no exercício de ofi cios e no trabalho da flavoura. 
 c) no Novo Mundo por pessoas de uma mesma etnia que se reconheciam como iguais. 
 d) nos quilombos rurais e urbanos, formados por escravizados fugidos de muitas etnias.
-
-# QUESTÃO 15
+----
+## Questão 15
 
 No processo de Independencia, varias tropas indigenas foram recrutadas para proteger o territorio contra uma possivel invasão portuguesa no litoral cearense entre setembro e novembro de 1822. Já os índios da vila de Cimores, em Pernambuco, se posicionaram em 1824 a favor de Dom João VI, opondo- se à Independencia e à Constituição. No entanto, o que parecia ser mais comum era o engajamento dos índios no projeto de Brasil independente, identificando- se como "brasileiros". Nas revoltas, buscavam muito menos se contravor aos europeus e, assim, lutar por uma nova posição social que não mais os obrigasse ao trabalho forçado.
 
@@ -278,8 +247,8 @@ a) As disputas dos amerindios em torno do "ser brasileiro" vi-savam à manutenç
 b) As populações indigenas participaram, com projetos políticos específicos, dos processos da Independência. 
 c) A independência era entendida pelos indigenas como uma ameaça a Dom João VI, símbolo da nação brasileira. 
 d) A diversidade da ação indigena se relacionava à distribuição de terras e títulos estabelecidos pela Corte portuguesa.
-
-# QUESTÃO 16
+----
+## Questão 16
 
 Muitos fotógrafos no século XIX registraram obras de engenharia. O francés Édouard Baldus (1813- 1889) atuou, primeiro como pintor e depois como fotógrafo, no inventário de monumentos arquitetônicos da Comissão dos Monumentos Históricos (1851) na França. Suas fotografias sobre esses monumentos renderam- lhe fama de fotógrafo de arquitetura. Sob encomentada, Baldus editou um album para a Companhia dos Caminhos Féreos do Norte (1855) e registrou estações, instalações ferroviárias, portos e cidades, ao longo desta via entre Paris e a cidade de Boulogne- sur- Mer. A rainha Vitoria ganhou um exemplar dessa publicação.
 
@@ -294,11 +263,10 @@ b) No século XIX, a dissociação entre as fotografias de obras públicas e a v
 c) A fotografia teve vános usos e funções no século XIX, entre eles, o de compon inventários arquitetônicos e retratar obras de engenharia.
 
 d) O album fotográfico dado a rainha Vitoria era um gesto di-plomatico que mostrava o descontentamento francês com a política inglesa.
-
-# QUESTÃO 17
+----
+## Questão 17
 
 ![](images/9861d3a0bfe6142da8e1c1f2d2f69ed4706e181333ea757b46c4e6be842a58be.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem em preto e branco de um grupo de pessoas com rostos desfocados, possivelmente em um ambiente interno; elementos=[roupas, parede, janela]; dados_chave=[preto e branco]; grandezas=[]; estrutura=[]; texto_detectado=[definição do termo disponíveis em: https://forbes.com.br/forbeslife/2023/07/imagens-crianças-em-meio-a-segunda-guerra-mundial/ Acesso em 25 de maio de 2023.] IMG_DESC_END
 
 Legenda: Imagens de "mulheres de conforto" **, em 1944, na Coreia do Sul.
 
@@ -313,8 +281,8 @@ b) comprova a ação dos soldados norte-americanos, durante a Guerra do Vietnã,
 c) traz a imagem de mulheres enfileiradas, capturadas e obrigadas a se prostituírem durante a Il Guerra Mundial. A violação sexual tem sido usada historicamente como arma para fragilizar os supostos inimigos, já que as vitmas da violência sexual trazem marcas da humilhação e da limpeza étnica e tem os laços sociais destruídos.
 
 d) registra mulheres que, durante a Guerra das Coreias, escolheram se casar e migrar com os soldados japoneses. A violação sexual é uma das marcas dos conflitos entre nações, atingindo em especial mulheres e crianças que, entendidas como vulneráveis, se tornam vítimas do dominio masculino.
-
-# QUESTÃO 18
+----
+## Questão 18
 
 Priões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, director da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem pertencia aos quadros do partido. Herzog foi assassinado dentro do DOI- CODI, sendo a versão oficial de sua morte falsamente atribuida a um enforcamento. Em sua Autobiografia, Rita Lee publicou o bilhete de Elis Regina que fazia menção a uma música feita para "Vlado" e que, obviamente, fora censurada.
 
@@ -327,16 +295,14 @@ b) A Ditadura Militar permitiu a continuidade do Partido Comunista Brasileiro e 
 c) Centros de detenção da Ditadura Militar, como o DOI-CODI, operaram dentro da legalidade constitucional, sendo que os presos, políticos ou não, eram fichados e tinham direito à defesa garantido por lei.
 
 d) Vladimir Herzog e outros jornalistas foram vítimas de perseguição política, prisões, torturas e execuções realizadas por militares, com apoio de parte da sociedade civil, em nome da ideologia da segurança nacional.
-
-# QUESTÃO 19
+----
+## Questão 19
 
 ![](images/54a08c609d3cfedebf74b583b857422c485476ee322905eb1bc7bf805d6dfb88.jpg)
-IMG_DESC_START : tipo=foto; resumo=Pessoa vestindo um casaco branco acolchoado com um crucifixo no pescoço; elementos=[casaco acolchoado, crucifixo, mãos]; dados_chave=[cor branca]; grandezas=[]; estrutura=[(casaco, centro); (crucifixo, centro); (mãos, inferior)]; texto_detectado=[] IMG_DESC_END
 
 (Disponível em: https://www.uol.com.br/tilt/noticias/redecao/2023/03/26/oto- do- pa- pa- usando- casaca- estiloso- foi- triada- por- in- teligencia- artificial.htm?cmpio=copiaecola. Acesso em 04/05/2023. )
 
 ![](images/c5bacced38540bc8c7324dae146a88e799a79e66fe05b1dd8166d3a8a610e94b.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem de duas pessoas se abraçando em uma sala com mesa e velas; elementos=[duas pessoas, mesa, velas, lareira, cadeira]; dados_chave=[duas velas acesas, texto em francês na parte inferior]; grandezas=[]; estrutura=[(duas pessoas, centro), (mesa, direita), (lareira, esquerda)]; texto_detectado=[Je ne respire plus que pour toi, un baiser, mon bel Ange!]; IMG_DESC_END
 
 (Biblioteca Nacional da França, sem data, RES 8- LB39- 12153. Disponível em: https://gallica.bnf.fr/ark:/12148/btv1- b6 942376r.item. Acesso em 04/05/2023. )
 
@@ -353,19 +319,17 @@ b) no século XVIII e no século XXI, a produção e a circulação de fake news
 c) na era digital, a ruptura causada pelo uso de Inteligência Artificial e seu potencial na produção de desinformação está ao alcance do público, na instantaneidade e no realismo da imagem. No início da contemporaneidade, as manipulações em imagens e em notícias eram acessadas pelo público através de jornais e panfletos.
 
 d) os dispositivos de Inteligência Artificial representam uma ruptura no combate à desinformação ao possibilitar o rastreio e a eliminação instantânea de fake news. No século XVIII, o público era réfém de notícias falsas pela ausência desta tecnologia.
+----
+## Questão 20
 
-# Texto comum às questiones 20 e 21:
 
 # Texto 1
 
 A OMS (Organização Mundial de Saúde) recomenda que a ingestão de açúcares livres esteja abaixo de  $5\%$  da ingestão total de energia diária para o nosso organismo. Como alternativa aos açúcares livres, tem- se intensificado o uso de adoçantes não nutritivos, como, por exemplo, sacarina, sucralose, stevia e aspartame. A próprio OMS atualmente recomenda que adoçantes não sejam utilizados para controlar a massa corporal, pois não oferecem benefício na redução da gordura corporal. Uma benda muito consumida no cotidiano, o refrigerante, apresenta esses dois aspectos para os quais a OMS chama atenção: os comuns têm cerca de 11 g de açúcar por  $100~\mathrm{mL}$  e os diets contem adoçantes não nutritivos.
 
-# QUESTÃO 20
-
 O gráfico a seguir apresenta o consumo médio de refrigerante por habitante por ano, no período de 2010 a 2021, no Brasil.
 
 ![](images/ef0e7937430e1f115a6d8757f81912b92abd118a58b8e32727645b7c079c1666.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico de barras mostrando o consumo de litros por habitante por ano de 2010 a 2021.; elementos=[barras, eixo x, eixo y]; dados_chave=[Litros/Habitante/Ano, Ano, 2010, 2021, 0, 100]; grandezas=[]; estrutura=[(2010,90);(2011,85);(2012,85);(2013,80);(2014,80);(2015,75);(2016,70);(2017,65);(2018,65);(2019,65);(2020,65);(2021,65)]; texto_detectado=[Litros/Habitante/Ano, Ano, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021] IMG_DESC_END
 
 # Dados:
 
@@ -377,20 +341,24 @@ a) foi sempre superior à recomendação pela OMS, o que pode indicar uma baixa 
 b) foi sempre inferior à recomendação pela OMS, o que pode indicar uma alta conscientização da população sobre o consumo de açúcar. 
 c) foi superior; porém, mais recentemente, tornou-se inferior à recomendação pela OMS, o que pode indicar uma melhora na conscientização da população sobre o consumo de açúcar. 
 d) foi inferior; porém, mais recentemente, tornou-se superior à recomendação pela OMS, o que pode indicar uma piora na conscientização da população sobre o consumo de açúcar.
+----
+## Questão 21
 
-# QUESTÃO 21
+
+# Texto 1
+
+A OMS (Organização Mundial de Saúde) recomenda que a ingestão de açúcares livres esteja abaixo de  $5\%$  da ingestão total de energia diária para o nosso organismo. Como alternativa aos açúcares livres, tem- se intensificado o uso de adoçantes não nutritivos, como, por exemplo, sacarina, sucralose, stevia e aspartame. A próprio OMS atualmente recomenda que adoçantes não sejam utilizados para controlar a massa corporal, pois não oferecem benefício na redução da gordura corporal. Uma benda muito consumida no cotidiano, o refrigerante, apresenta esses dois aspectos para os quais a OMS chama atenção: os comuns têm cerca de 11 g de açúcar por  $100~\mathrm{mL}$  e os diets contem adoçantes não nutritivos.
 
 A resposta glicêmica é a curva da concentração de glicose, em função do tempo, no sangue. Ela é utilizada como uma forma de classificar os alimentos com base em seu potencial de elear a glicose (açúcar) no sangue. Pesquisadores da Universidade Johns Hopkins (EUA) testaram os efeitos de quatro adoçantes na resposta glicêmica de indivíduos saudáveis. Cada grupo foi expoisto a uma conditado, conforme a figura ao lado, acompanhando- se a resposta glicêmica. Com base nas informações da figura e do texto 1, pode- se concluir que a preocupação da OMS quanto ao uso de adoçantes não nutritivos
 
 ![](images/d494ff4711625b71692c2a43e4a657040c805dc41ac558df9339bac0ad87a997.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama comparando a resposta glicêmica de diferentes adoçantes e controle ao longo do tempo.; elementos=[sacarina, sucralose, stevia, aspartame, veículo, controle, gráfico de concentração vs tempo]; dados_chave=[concentração, tempo, adoçante, veículo]; grandezas=[]; estrutura=[(sacarina↔gráfico rosa), (sucralose↔gráfico laranja), (stevia↔gráfico verde), (aspartame↔gráfico azul), (veículo↔gráfico preto), (controle↔gráfico roxo)]; texto_detectado=[ADOÇANTE, RESPOSTA GLICÊMICA, Sacarina, Sucralose, Stevia, Aspartame, Veículo, Controle, ADOÇANTE, VEÍCULO] IMG_DESC_END
 
 a) precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes provocam o aparecimento de glicose no sangue. 
 b) não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes não provocaram o aumento de glicose no sangue. 
 c) não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois apenas dois adoçantes não provocaram o aparecimento de glicose no sangue. 
 d) precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois dois adoçantes provocaram um aumento de glicose no sangue.
-
-# QUESTÃO 22
+----
+## Questão 22
 
 Um refrigerante com um é uma formulação de vários ingredientes: açúcar (11 g por 100 mL), água (88 g por 100 mL) – componentes majoritários, –, além de acidulantes, antioxidantes, conservantes, adoçantes e CO₂ (componentes em pequenas quantidades). O acidulante tem como finalidade regular a dóçura do açúcar, realizar o paladar e reduzir o pH do refrigerante, que deve estar entre 2,7 e 3,5. Assim, para se usar uma pequena massa de acidulante que proporciona redução do pH para o valor deseado, a massa molar do acidulante deve ser
 
@@ -399,25 +367,23 @@ a) pequena e seu pKa deve estar abaixo da faixa de pH do refrigerante.
 b) pequena e seu pKa deve estar acima da faixa de pH do refrigerante. 
 c) grande e seu pKa deve estar abaixo da faixa de pH do refrigerante. 
 d) grande e seu pKa deve estar acima da faixa de pH do refrigerante.
-
-# QUESTÃO 23
+----
+## Questão 23
 
 O mau gerenciamento da produção das baterias automotivas chumbo-ácido e de sua reciclagem após uso pode ocasionar contaminação do méo ambiente e de processos. Para minimizar esses problemas, a indústria pode levar em conta a "hierarquia de resíduos", uma ordem de preferência nas ações de combate à contaminação. A figura a seguir, incompleta, mostra duas ações possíveis dessa hierarquia. Para minimizar os problemas, as ações a serem adotadas, em ordem de preferência e considerando a direcionalidade indicada na figura, seriam
 
 ![](images/19510adacee9a5052f3155ebd528ac9d9636d48b3343a59bbdf2763c26fdbaec.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama em forma de pirâmide invertida com gradiente de cores e duas seções rotuladas como "REUSO" e "RECUPERAÇÃO"; elementos=[pirâmide, gradiente, seções, rótulos]; dados_chave=[gradiente de cores, símbolo de mais, símbolo de menos]; grandezas=[]; estrutura=[(pirâmide, posição central), (gradiente, lado direito)]; texto_detectado=[REUSO, RECUPERAÇÃO] IMG_DESC_END
 
 a) descarte adequado; reciclagem; prevenção. 
 b) prevenção; descarte adequado; reciclagem. 
 c) descarte adequado; prevenção; reciclagem. 
 d) prevenção; reciclagem; descarte adequado.
-
-# QUESTÃO 24
+----
+## Questão 24
 
 No início de 2023, um grupo de pesquisadores estudou o desenvolvimento de uma poliamina sólida contendo cobre, capaz de ad- . sorver  $CO_2$  na fase gasosa e em baixas concentrações. A figura ao lado mostra o esquema de adsorção com a repre- . sentação do sólido:
 
 ![](images/b2688d4fe4edd6682f478a995e3d30daa0cc960ee733b92d4d1cdbb6634bfd83.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a interação de poliimina com íons de cobre e bicarbonato na captura de CO2.; elementos=[CO2, CH2-N, Cu2+, OH-, HCO3-]; dados_chave=[Poliamina-N-Cu2+(OH-)2, Poliamina-N-Cu2+(HCO3-)2]; grandezas=[]; estrutura=[(CO2↔CH2-N↔Cu2+↔OH-), (CO2↔CH2-N↔Cu2+↔HCO3-)]; texto_detectado=[Poliamina-N-Cu2+(OH-)2, Poliamina-N-Cu2+(HCO3-)2] IMG_DESC_END
 
 De acordo com os autores do estudo, 1 kg de poliamina contendo cobre é capaz de adsorver até 5 mols de  $CO_2$ , uma quantidade bem superior ao que se conhece até então. Com base nessas informações, pode- se concluir que a porcentagem em massa de cobre no sólido é cerca de
 
@@ -425,13 +391,12 @@ a)  $16\%$  e que 1 kg do sólido é capaz de absorver até 110 g de gás carbô
 b)  $32\%$  e que 1 kg do sólido é capaz de absorver até 110 g de gás carbônico. 
 c)  $16\%$  e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico. 
 d)  $32\%$  e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico.
-
-# QUESTÃO 25
+----
+## Questão 25
 
 Algunas baterias transformam certas substâncias em outras, gerando energia elétrica. Isso permite, por exemplo, o funcionamento de equipamentos tendo como base essa energia (carros elétricos) ou então auxília o funcionamento de equipamentos (carros de combustão interna). É por isso que os carros elétricos precisam se abastecer de energia elétrica de tempos em tempos e os de combustão não, já que a bateria desses últimos é carregada durante seu funcionamento. Na descarga da bateria, dois comportamentos são importantes: curva de tensão (Figura A) e ciclo de vida (Figura B), sendo esse último a quantidade de vezes que a bateria pode ser recarregada em função da profundidade de sua descarga.
 
 ![](images/d4a355da822e9849eb9c7937f0ea0c3899dd9b35260823c201c9356f23a9008f.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Dois gráficos mostrando a relação entre profundidade de descarga e tensão da bateria ou ciclos de vida.; elementos=[Curva X, Curva Y, Curva I, Curva II, Figura A, Figura B]; dados_chave=[Tensão da bateria (V), Profundidade de descarga (%), Ciclos de Vida, 0, 20, 40, 60, 80, 100, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0, 12.5, 13.0, 13.5, 100, 1000, 10000, 100000, 1000000]; grandezas=[]; estrutura=[intervalos=(0,100,13.5→9.5),(0,80,1000000→100)]; texto_detectado=[Curva X, Curva Y, Figura A, Curva I, Curva II, Figura B] IMG_DESC_END
 
 Levando em conta essas informações, seria apropriado escolher para equipar um carro
 
@@ -442,15 +407,14 @@ b) elétrico uma bateria com as características da curva X e da curva I; para o
 c) de combustão interna uma bateria com as características da curva X e da curva I; para o carro elétrico, qualquer combinagão serviria.
 
 d) de combustão interna uma bateria com as características da curva Y e da curva II; para o carro elétrico qualquer combinagão serviria.
-
-# QUESTÃO 26
+----
+## Questão 26
 
 Um grupo de pesquisadores estudou a atividade antibacteria- na - em acao sobre duas bacterias, a saber, Escherichia coli e Staphylococcus aureus - da curcuma livre e da curcumina combinada com octaarginina. Os pesquisadores observaram que a curcumina livre apresenta atividade antibacteriana frente a uma das bacterias. Na forma combinada, a curcumina foi mais efficiente - em comparacao com a forma livre - no combate aos dois microrganismos. Tendo em vistasessas informacoes, os graficos que melhor representam os resultados do estudo sao os seguintes:
 
 ![](images/7ad4d323858b10e6ac405ead396cacc43b32f362d6640975c1b989ee8e774fe7.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Quatro gráficos comparando a sobrevivência de E. coli e S. aureus com curcumina livre e combinada com octaarginina ao longo do tempo.; elementos=[gráfico a(i), gráfico a(ii), gráfico b(i), gráfico b(ii), gráfico c(i), gráfico c(ii), gráfico d(i), gráfico d(ii), legenda]; dados_chave=[E. coli, S. aureus, curcumina livre, curcumina combinada com octaarginina, sobrevivência (%), tempo (h)]; grandezas=[]; estrutura=[a(i) pontos=(0,100);(2,0);(4,0);(8,0);(10,0), a(ii) pontos=(0,100);(2,60);(4,20);(8,20);(10,20), b(i) pontos=(0,100);(2,0);(4,0);(8,0);(10,0), b(ii) pontos=(0,100);(2,60);(4,20);(8,20);(10,20), c(i) pontos=(0,100);(2,0);(4,0);(8,0);(10,0), c(ii) pontos=(0,100);(2,60);(4,20);(8,20);(10,20), d(i) pontos=(0,100);(2,0);(4,0);(8,0);(10,0), d(ii) pontos=(0,100);(2,60);(4,20);(8,20);(10,20)]; texto_detectado=[Dados:, (i) E. coli; (ii) S. aureus., curcumina livre;, curcumina combinada com octaarginina., a), b), c), d), Sobrevivência (%), Tempo (h)] IMG_DESC_END
-
-# QUESTÃO 27
+----
+## Questão 27
 
 Povos e comunidades tradicionais sao grupos culturalmente diferenciados e que se reconhecem como tais. Esses grupos contam com formas proprias de organizacao social, alem de ocuparem e usarem territorios e recursos naturais como condicao para sua reproducao cultural, social, religiosa, ancestral e economica. Para tanto, utilizando conhecimentos, inovacoes e praticas gera dos e transmitidos pela tradigao (Inciso I, Art.  $3^{\circ}$  , Decreto 6.040 / 2007). Estima- se que cena de 4,5 milhoes de pessoas fazem parte de comunidades tradicionais atualmente no Brasil.
 
@@ -465,8 +429,8 @@ b) Geraizeiros da regiao da Amazonia Ocidental se beneficiam dos rios para a pes
 c) Caiaras da regiao litoranea do Ceara praticam a pesca artesanal, utilizar as liquezas naturais da Mata Atlantica para o extrativismo de frutos e fazem uso dos rogados para atividades agricolas de substistencia.
 
 d) Faxinalenses do norte de Minas Gerais usufruem dos campos para o desenvolvimento do extrativismo vegetal da eva mate e do pinhao, do cultivo agricola em pequena escala e da criacao de animais soltos.
-
-# QUESTÃO 28
+----
+## Questão 28
 
 O litoral brasileiro tem uma historia fisiografica e ecologica rica e complexa, influenciaada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e subtropical onde e possivel observar uma diversidade de ocorreencias geomorfologicas e paisagisticas que se sucedem ao longo de sua costa.
 
@@ -482,7 +446,6 @@ d) Os deltas sao formatados por sedimentos fluviais e cobertos por especies arbo
 Moradores em situação de rua em São Paulo/SP
 
 ![](images/21032f8041541d03422c5fd7f1ed7252b4ccfa8622d4f8bdbcd43b9ef207664d.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem de uma calçada com objetos e uma lona azul formando uma estrutura improvisada; elementos=[lona azul, cone de trânsito, roupas, cadeira, poste, lixeira, árvore]; dados_chave=[cor azul, cor laranja, cor verde]; grandezas=[]; estrutura=[(lona, centro-esquerda), (cone, centro-esquerda), (roupas, centro-esquerda), (cadeira, centro-esquerda), (poste, centro-direita), (lixeira, centro-direita), (árvore, centro)]; texto_detectado=[] IMG_DESC_END
 
 (Ronaldo Silva/Photopress/Estadão Conteudo. https://www.cnnbrasil.com.br/nacional/ prefeitura- faz- moradores- de- rua- desmontarem- barracas- durante- o- dia/ - Acesso em 18/06/2023. )
 
@@ -499,13 +462,12 @@ b) do processo de modernização-urbanização excluente; as ações de polític
 c) da crise conjuntural da última década, agravada pela pandemia de covid-19; a gestão urbana buca formas de integrar essa população aos espaços urbanos por meio das casas de acolhimento e de programas de emprego e renda.
 
 d) do processo de modernização-urbanização excluente; a gestão urbana promove, muitas vezes, práticas de "higiénização" do espaço, isto é, de expulsão, com o apoio de setores da sociedade.
-
-# QUESTÃO 30
+----
+## Questão 30
 
 As projecões de população são importantes para o cálculo dos indicadores sociodemográficos que formcem subsídios para a formulação de políticas públicas. Segundo as Nações Unidas, o mundo atingiu a cifra de 8 bilhões de habitantes em 2022, devendo atingir 9,7 bilhões em 2050. Anda que a população mundial continue a aumentar, a dinâmica demográfica varia entre as regiões do mundo. Nesse contexto, Estados Unidos da América (EUA) e Nigéria passam por mudanças demográficas com reflexos socioeconômicos significativos.
 
 ![](images/baf8270818c23c27a956748df0fe89137027775d6cff23e400a5785a4e946629.jpg)  
-IMG_DESC_START : tipo=gráfico; resumo=Comparação populacional entre EUA e Nigéria em 2022 e projeção para 2050; elementos=[barras de pontos, EUA, Nigéria]; dados_chave=[2022, 2050, 338 milhões, 213 milhões, 375 milhões, 377 milhões]; grandezas=[]; estrutura=[(2022,EUA,338);(2022,Nigéria,213);(2050,EUA,375);(2050,Nigéria,377)]; texto_detectado=[2022, 2050, EUA, NIGÉRIA, 338 milhões de estadunidenses, 213 milhões de nigerianos, 375 milhões de estadunidenses, 377 milhões de nigerianos] IMG_DESC_END
 PROJEÇÃO DO CRESCIMENTO POPULACIONAL
 
 Cada círculo (§) equivale a 1 milhão de habitantes.
@@ -521,8 +483,8 @@ b) Os EUA, ao contrário da Nigéria, apresentam, pela primeira vez, crescimento
 c) A Nigéria, ao contrário dos EUA, manterá elevada a taxa de fecundidade. Haverá maior pressão sobre as políticas públicas de educação e de saúde.
 
 d) Nigéria e EUA enfrentam expressiva redução da população em idade adultaativity. Ambos os países terão problemas com a seguridad social.
-
-# QUESTÃO 31
+----
+## Questão 31
 
 Dentro de um território nacional, as regiões são hoje atingidas por complexos vetores de ordem técnica e política, típicos do período da globalização. Neste sentido, as regiões, tanto quanto são internamente construldas, seguem as oscilações económicas nacionais e internacionais. Isso as torna, diferentemente do passado, mais instáveis e sujeitas a frequentes crises. E, conforme se especializam em diferentes tipos de produção para atender os mercados internacionais, suas fronteiras tornam- se mais cambiáveis.
 
@@ -535,15 +497,14 @@ b) múltiplas escalas de ações perpassam e dinamizam a coesão regional, ocasi
 c) o comando externo da produção vinculado aos mercados internacionais terms as fronteiras regionais estáveis e dura douras na escala do territorio nacional.
 
 d) a conformagao de arranjos produtivos regionais nesse con-texto homogeniza o espaço nacional, apagando as antigas identidades e as desigualdades socioterritoriais.
-
-# QUESTÃO 32
+----
+## Questão 32
 
 Por se situar em uma regiao limitrofe entre diferentes placas tectônicas, a Turquia tem histórico de ferremotos de grande magnitude e poder destrutivo. Em 1939, um terremoto de magnitude 7,8 provocou a morte de certa de 30.000 pessoas. Em fevereiro de 2023, registrou- se um terremoto de magnitude 7,8 as 4h17 (horario local) e, nove horas depois, registrou- se novo abalo sismico, dessa vez de magnitude 7,6, o que levou 50.000 pessoas à morte.
 
 A figura a seguir mostra a localização do sistema de falhas da placa da Anatolia e indica as áreas atingidas pelos respectivos terremotos.
 
 ![](images/d861e990e79c8047e28405da259d9c3e512ada232072bf6cb0e87e8843dc8d6b.jpg)
-IMG_DESC_START : tipo=mapa; resumo=Mapa da Turquia mostrando sistemas de falhas e terremotos de 1939 e 2023.; elementos=[Turquia, Mar Negro, Mar Mediterrâneo, Placa da Anatólia, sistemas de falhas, setas de movimento, terremoto 1939, terremoto 2023, outros países, legenda]; dados_chave=[Turquia, Outros Países, Placa da Anatólia, Sistemas de Falhas, Sentido de movimento relativo entre as placas]; grandezas=[]; estrutura=[]; texto_detectado=[Mar Negro, Terremoto 1939, Mar Mediterrâneo, Turquia, Terremotos 2023, Legenda, Turquia, Outros Países, Placa da Anatólia, Sistemas de Falhas, Sentido de movimento relativo entre as placas] IMG_DESC_END
 
 (How the February 2023 Turkiye Earthquakes Ruptured and Produced Damaging Shaking. Disponível em: https://www.seismosoc.org/news/how- the- february- 2023- turkiye- earthquakes- ruptured- and- produced- damaging- shaking/, Acesso em 12/06/2023. )
 
@@ -554,13 +515,12 @@ b) Indiana e Africana; o sentido de deslocamento forma falhas normais.
 c) Arábica e Euroasiática; o sentido de deslocamento das placas forma falhas normais.
 
 d) Africana e Indiana; o sentido de deslocamento forma falhas transcorrentes.
-
-# QUESTÃO 33
+----
+## Questão 33
 
 As convenções cartográficas utilizam simbolos pontuais, lineares, areais, bem como representações proporcionais e gradação de cores (coroplética) que permitem certo grau de compreensão e intuição de seu significado, possibilitando a leitura da informação contida no mapa por diferentes pessoas.
 
 ![](images/13bd877a06fc9024b3664c842e9e5ffec1834d488c5162cc386230fff92d09b7.jpg)  
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando símbolos de mapa para diferentes tipos de localidades, cursos d'água, áreas sujeitas a inundação e tipos de estradas.; elementos=[círculos, retângulos coloridos, linhas, formas de água]; dados_chave=[Capital, Cidade, Vila, Povoado, núcleo, Curso d'água: Permanente, Intermitente, Lago, Lago Periódico, Área sujeita a Inundação, Autoestrada, BR-316, Autoestrada em construção, Estrada pavimentada, Estrada pavimentada em construção, Estrada não pavimentada, Outras estradas, Metros]; grandezas=[(metros,6000,metros)]; estrutura=[(círculo, Capital), (círculo, Cidade), (círculo, Vila), (círculo, Povoado, núcleo), (retângulo, 0 metros), (retângulo, 200 metros), (retângulo, 500 metros), (retângulo, 1000 metros), (retângulo, 3000 metros), (retângulo, 6000 metros), (linha, Autoestrada), (linha, Autoestrada em construção), (linha, Estrada pavimentada), (linha, Estrada pavimentada em construção), (linha, Estrada não pavimentada), (linha, Outras estradas)]; texto_detectado=[Capital, Cidade, Vila, Povoado, núcleo, Curso d'água: Permanente, Intermitente, Lago, Lago Periódico, Área sujeita a Inundação, Autoestrada, BR-316, Autoestrada em construção, Estrada pavimentada, Estrada pavimentada em construção, Estrada não pavimentada, Outras estradas] IMG_DESC_END
 Exemplos de Convenções Cartográficas
 
 (Adaptado de: https://atbasescolar.ibge.gov.br/conceitos- gerais/o- que- e- cartografia/ conven- o- es- cartogra- ficas.html. Acesso em: 25/08/2023. )
@@ -577,8 +537,8 @@ Use os valores aproximados:  $g = 10 \text{m / s}^2$  e  $\pi = 3$ .
 # Texto comum as questiones 34, 35, 36 e 37.
 
 Uma das etapas mais dificeis de um voo espacial tripulado e a reentrada na atmosfera terrestre. Ao reencontrar as camadas mais altas da atmosfera, a nave sofre forte desaceleração e sua temperatura externa atinge milhares de graus Celsius. Caso a reentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo risco de ela ser lançada de volta ao espapo.
-
-# QUESTÃO 34
+----
+## Questão 34
 
 Logo ao reentrar na atmosfera terrestre, uma capsula espacial passa a descrever, durante certo tempo, um movimento retilneo uniformemente variado em que ela é freada com aceleração  $a = - 5,0 \text{m / s}^2$ . Se no inficio dessa etapa  $(t = 0)$  do movimento a velocidade da cápsula é  $v_{\mathrm{o}} = 7000 \text{m / s}$ , qual é a distância percorrida até o tempo  $t = 200 \text{s}$ ?
 
@@ -586,8 +546,8 @@ a)  $1300 \text{km}$ .
 c)  $1500 \text{km}$ . 
 b)  $1400 \text{km}$ . 
 d)  $4900 \text{km}$ .
-
-# QUESTÃO 35
+----
+## Questão 35
 
 Apos viajar pela atmosfera por determinado tempo, o modulo da velocidade da cápsula, que inicialmente era  $v_{\mathrm{o}} = 7000 \text{m / s}$ , fica reduzido a  $v = 5000 \text{m / s}$ . Sendo a massa da cápsula  $m = 3000 \text{kg}$ , qual foi o trabalho da força resultante sobre a cápsula durante esse tempo?
 
@@ -595,8 +555,8 @@ a)  $-11,1 \times 10^{10} \text{J}$ .
 c)  $-6,00 \times 10^{6} \text{J}$ . 
 b)  $-3,60 \times 10^{10} \text{J}$ . 
 d)  $-3,00 \times 10^{6} \text{J}$ .
-
-# QUESTÃO 36
+----
+## Questão 36
 
 O ar atmosferico comporta- se como um gás perfeito. Sendo a pressao e a temperatura do ar, numa determinada posicao da alta atmosfera, datas por  $p = 2,0$  Pa e  $T = 180 \text{K}$  (sem a presen- . ca da cápsula na vizinhanca), e sendo a constante universal dos gases perfeitos  $R = 8 \text{J / mol.K}$ , qual e o volume ocupado por um mol de ar naquela posicao?
 
@@ -604,23 +564,22 @@ a)  $1,38 \times 10^{-3} \text{m}^3$ .
 c)  $7,20 \times 10^{2} \text{m}^3$ . 
 b)  $9,00 \times 10^{1} \text{m}^3$ . 
 d)  $2,88 \times 10^{3} \text{m}^3$ .
-
-# QUESTÃO 37
+----
+## Questão 37
 
 A temperatura extremamente elevada no exterior da cápsula ioniza o ar atmosferico a sua volta. Esses tons blindam a cápsula como uma gaiola de Faraday, impedindo, por alguns minutos, a comunicação por ondas eletromagnéticas de rádio (conversas entre a tripulação e a base na Terra, comandos à distância para ajustes de navegação, etc.). O grafico da figura a seguir mostra que, quanto maior a temperatura do ar externo,  $T_{\text{ar}}$ , maior é a frequência limite da onda eletromagnética,  $f_{0}$ , abaixo da qual não se pode estabelecer comunicação com a cápsula. Se a temperatura do ar for  $T_{\text{ar}} = 4800 \text{K}$ , qual é o comprimento de onda  $\lambda_{0}$  correspondente à frequência limite  $f_{0}$ .
 
 Dado: Velocidade da luz no vácuo:  $c = 3,0 \times 10^{8} \text{m / s}$ .
 
 ![](images/79c401f6c7beb8beb1048facb717cae7ccf21c704e2ec4c1dfb384feffe275dc.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra a relação entre temperatura e frequência limite.; elementos=[linha, eixos, grade]; dados_chave=[Frequência Limite f0 (GHz), Temperatura (K), 4000, 4500, 5000, 5500, 1, 5, 10]; grandezas=[(f0,1,GHz),(f0,10,GHz),(T,4000,K),(T,5500,K)]; estrutura=[(4000,1);(4500,5);(5000,8);(5500,10)]; texto_detectado=[Frequência Limite, f0 (GHz), Temperatura (K)] IMG_DESC_END
 
 a)  $0,06 \text{m}$ . 
 c)  $0,05 \text{m}$ .
 
 b)  $16,7 \text{m}$ . 
 d)  $20 \text{m}$ .
-
-# QUESTÃO 38
+----
+## Questão 38
 
 Um corpo em queda nas proximidades da superficie terrestre sofre a ação da força gravitational e da força de resistência do ar,  $\bar{F}_{\mathrm{ar}}$ ; essa última atua em sentido oposito à força gravitacional. Nos primeiros instantes,  $\bar{F}_{\mathrm{ar}} = \bar{0}$  se o corpo parte do repouso. A medida que a velocidade aumenta,  $\bar{F}_{\mathrm{ar}}$  também aumenta. Com isso, a aceleração do corpo diminui gradativamente, tornando- - se praticamente nula a partir de certo momento. Desse ponto em diante, o corpo pressa a cair com velocidade constante, chamada de velocidade terminal. Um objeto de massa  $m = 200 \text{g}$  é solto a partir de certa altura e atinge a velocidade terminal após determinado tempo. Qual é o móduo da força de resistência do ar depois que o objeto atinge a velocidade terminal?
 
@@ -628,31 +587,31 @@ a)  $0,20 \text{N}$ .
 c)  $200 \text{N}$ . 
 b)  $2,0 \text{N}$ . 
 d)  $2000 \text{N}$ .
+----
+## Questão 39
 
-# Texto comum às questiones 39 e 40.
 
 A neurotransmissão no organismo humano pode ter origem química ou elétrica. O entendimento das sinapses elétricas ocorreu só mais recentemente, graças a estudos avançados das propriedades elétrica dos neurônios. As propriedades mecánicas dos neurônios - como a elasticidade - são, por seu turno, importantes para a compreensão do desenvolvimento deles.
-
-# QUESTÃO 39
 
 Em um estudo do comportamento elétrico de neurônios, apli- ca- se uma diferença de potencial elétrico (ddp, da ordem de  $10^{- 3} \text{V}$ ) e mede- se a corrente elétrica (da ordem de  $10^{- 12} \text{A}$ ) que passa pelo sistema. A partir dos resultados desse experimento, representados no grafico da figura a seguir, conclui- se que a resistência elétrica do sistema é igual a
 
 ![](images/d09ac6f0ba180236c22a43af0c8460ba057404a67b0e59ac9e3ef268491a7c92.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostra relação linear entre corrente elétrica e ddp.; elementos=[linha, pontos]; dados_chave=[Corrente Elétrica (pA), ddp (mV), 0, 20, 40, 60, 80, 100, 120, 140, 160, 0, 2, 4, 6, 8, 10, 12]; grandezas=[(I,12,pA),(V,160,mV)]; estrutura=[(0,0);(20,2);(40,4);(60,6);(80,8);(100,10)]; texto_detectado=[Corrente Elétrica, ddp] IMG_DESC_END
 
 a) 14 Ω. 
 c) 70 MΩ. 
 b) 70 mΩ. 
 d) 14 GΩ.
+----
+## Questão 40
 
-# QUESTÃO 40
+
+A neurotransmissão no organismo humano pode ter origem química ou elétrica. O entendimento das sinapses elétricas ocorreu só mais recentemente, graças a estudos avançados das propriedades elétrica dos neurônios. As propriedades mecánicas dos neurônios - como a elasticidade - são, por seu turno, importantes para a compreensão do desenvolvimento deles.
 
 Em um experimento destinado a investigar propriedades elásticas, uma diminuta ponta aplica uma força  $\bar{F}$  na superficie do neurônio, produzindo uma deformacao  $\Delta L$  de forma analoga a uma mola (ver figura). Foram estudados dois neurônios distinos, designados pelos indices 1 e 2, que foram submetidos a acao de forças identicas  $(\bar{F}_1 = \bar{F}_2)$  . As deformacoes observadas foram  $\Delta L_1 = 20$  nm e  $\Delta L_2 = 30$  nm. Se  $k_{1} = 0.0\times 10^{- 6}\mathrm{N / m}$  e a constante elastica para o neurônio 1, pode- se deduzir que o valor de  $k_{2}$  e
 
 ![](images/94b4ad7b0122ea06a3331f286abb2fbb442bdd4e697c3f09c742be1265d7e76e.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostra um neurônio com uma força aplicada e uma mola indicando deslocamento. elementos=[mola, neurônio, seta de força, linha pontilhada]; dados_chave=[ΔL, F, neurônio, 4.0 x 10⁻⁶ N/m, 6.0 x 10⁻⁶ N/m, 13.5 x 10⁻⁶ N/m, 20.25 x 10⁻⁶ N/m]; grandezas=[(ΔL, valor desconhecido, unidade desconhecida), (F, valor desconhecido, unidade desconhecida)]; estrutura=[(mola↔neurônio)]; texto_detectado=[neurônio, a) 4.0 x 10⁻⁶ N/m, b) 6.0 x 10⁻⁶ N/m, c) 13.5 x 10⁻⁶ N/m, d) 20.25 x 10⁻⁶ N/m] IMG_DESC_END
-
-# QUESTÃO 41
+----
+## Questão 41
 
 A regiao a margem do rio Guaporé em rondonia e considerada uma das mais importantes do planeta para a especie Podocnemis expansa, popularmente comhecida como tartaruga- da- amazônia.
 
@@ -663,13 +622,12 @@ b) Os alveolos com grande superficie de troca gasosa permi-tem a respiração pu
 c) A principal excreta nitrogenada liberada é a ureia, que se caracteriza por ser pouco toxica e que reper mínima quantidade de água para ser eliminada.
 
 d) A fecundação é interna e há formação de ovo amniótico; esse ovo possui uma bolsa contendo líquido que envolve o embrião.
-
-# QUESTÃO 42
+----
+## Questão 42
 
 O conceito apresentado na figura a seguir é importante para fundamentar a classificação biológica baseada nas relações evolutivas entre os organismos.
 
 ![](images/666d5a2c35fe26e1bee1308441728e754318fb30d5cdb548e67eedf7b83df218.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando a evolução dos membros de diferentes animais a partir de um ancestral tetrápode.; elementos=[ancestral tetrápode, baleia, humano, lagarto, pássaro, membros]; dados_chave=[cores: verde, vermelho, amarelo, azul]; grandezas=[]; estrutura=[(ancestral tetrápode↔baleia), (ancestral tetrápode↔humano), (ancestral tetrápode↔lagarto), (ancestral tetrápode↔pássaro)]; texto_detectado=[ANCESTRAL TETRÁPODE, BALEIA, HUMANO, LAGARTO, PÁSSARO] IMG_DESC_END
 
 (Adaptado de: https://evolution.berkeley.edu/similarities- and- differences- understanding- homology- and- analogy- ms.)./Acesso em 22/8/2023. )
 
@@ -679,8 +637,8 @@ a) no humano e no lagarto são consideradas anâlogas; trata-se de um caso de ev
 b) na baleia e no pássaro são consideradas homólogas; trata-se de um caso de evolução divergente. 
 c) no lagarto e no pássaro são consideradas homólogas; trata-se de um caso de evolução convergente. 
 d) no humano e na baleia são consideradas anâlogas; trata-se de um caso de evolução divergente.
-
-# QUESTÃO 43
+----
+## Questão 43
 
 Sabe- se que o uso indiscriminado e irregular de anabolizantes gera consequências negativas significativas à saúde humana, tais como: tremores, acne severa, hipertensão arterial sistêmica, tumores no figado e páncneas, distúrbios de coagulação, distúrbios testiculares e menstruais, insónia, entre outros.
 
@@ -695,23 +653,22 @@ b) (i) vesícula seminal; (ii) maturação dos ossos; (iii) da creatina; (iv) fi
 
 c) (i) prostata; (ii) produção de esperma; (iii) da creatina; (iv) pâncreas.  
 d) (ii) vesícula seminal; (iii) produção de esperma; (iii) do coles-terol; (iv) pâncreas.
-
-# QUESTÃO 44
+----
+## Questão 44
 
 Os lisossomos são organelas centrais que desempenham funções importantes para a homeostase celular.
 
 Assinale a alternativa que descreve correspondente a função dos lisossomos representada na figura a seguir.
 
 ![](images/54011c3da0c48792d0c71094144670540f79171cd9f9aec21d22ea9ce061c44c.jpg)  
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando organelas celulares e suas interações. elementos=[lisossomo digestivo, retículo endoplasmático, núcleo]; dados_chave=[]; grandezas=[]; estrutura=[(lisossomo digestivo↔retículo endoplasmático), (retículo endoplasmático↔núcleo)]; texto_detectado=[Lisossomo digestivo, Retículo endoplasmático, Núcleo] IMG_DESC_END
 (Adaptado de: YANG, C.; WANG, X. Journal of Cell Biology. Nova lorgue, v. 220, p.e202102001, mai.2021.)
 
 a) Heterofagia por pinocitose, o que permite à célula degradar fragmentos de microrganismos, fragmentos esses importantes na apresentação de antígenos.  
 b) Autofagia, que permite à célula empacotar, modificar e exportar proteínas sintetizadas no lumen das cisternas do reticulo endoplasmático.  
 c) Autofagia, que permite à célula eliminar porções envelhecidas ou danificadas do citoplasma, incluindo organelas e moléculas.  
 d) Heterofagia por fagocitose, o que permite à célula capturar macromoléculas, utilizando-as nas diferentes vias biosintéticas.
-
-# QUESTÃO 45
+----
+## Questão 45
 
 Uma quimera é um indivíduo formado por dois ou mais tipos de células, em que cada tipo contem um genoma distinto. Os machines da espécie de formiga Anoplolepis gracilipes são quimeras formadas por dois tipos de células haploïdes, bastante distintas do ponto de vista genético; essas células são provenientes de duas linhagens de formigas, podendo sự chamadas de linhagem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir óvulos) desta espécie são indivíduos formados pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 1. Já as fêmeas operárias (não reprodutivas) são indivíduos formados pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 2.
 
@@ -721,20 +678,19 @@ Com base em seus conhecimentos e considerando o texto apre sentado, pode- se diz
 b) os machos contem células haploïdes das linhagens 1 e 2.  
 c) os machos serem homozigotos.  
 d) os machos serem diploides oriundos das linhagens 1 e 2.
-
-# QUESTÃO 46
+----
+## Questão 46
 
 A dinâmica populacional de duas espécies que compartilham o mesmo habitat e representada na figura a seguir. O tamanno máximo da população de cada espécie é limitado pela disponibilidade de recursos no habitat.
 
 ![](images/4a32639e28863d1fc0b7e7c1e1c37b2e8f55697b6be80a7edcf4c26ce8bb560d.jpg)
-IMG_DESC_START : tipo=gráfico; resumo=Gráfico mostrando o crescimento do número de indivíduos de duas espécies ao longo de 15 anos; elementos=[linha sólida, linha pontilhada, pontos, eixos, legendas]; dados_chave=[Número de indivíduos, Tempo (anos), Espécie 1, Espécie 2]; grandezas=[]; estrutura=[(0,0);(3,40);(6,80);(15,80);(0,0);(3,20);(6,40);(15,60)]; texto_detectado=[Número de indivíduos, Tempo (anos), Espécie 1, Espécie 2] IMG_DESC_END
 
 Considerando seus conhecimentos e os dados apresentados, é correto afirmar que as espécies a) competem por recursos e apresentam diferenças na eficiência de utilização do alimento disponível.  
 b) ocupam nichos e cológicos distintos e têm crescimento populacional até o limite imposto pela resistência ambiental.  
 c) são generalistas e assim têm nichos ecológicos mais restritos, o que diminui a competição entre elas.  
 d) apresentam uma relação de cooperação, facilitando o crescimento populacional na ausência da resistência ambiental.
-
-# QUESTÃO 47
+----
+## Questão 47
 
 A partir da organização tecidual, é possível reconhecer o está-
 
@@ -743,7 +699,6 @@ gio de desenvolvimento dos plantas e mesmo diferenciar mono
 cotiledôneas e eudicotiledôneas. Nas figuras A e B são apresentados esquemas de raízes em crescimento primário, com a indicação dos tecidos 1 e 2.
 
 ![](images/a1c32b7e19929963e638447f529aae12432a9185e7ab82f65a5e754e5a013928.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Dois diagramas circulares rotulados como Figura A e Figura B, cada um com elementos internos distintos e marcados com números.; elementos=[círculos, elipses, cruz, pontos]; dados_chave=[Figura A, Figura B, 1, 2]; grandezas=[]; estrutura=[(Figura A, posição: esquerda), (Figura B, posição: direita)]; texto_detectado=[Figura A, Figura B] IMG_DESC_END
 
 Assinale a alternativa que, de maneira correta, indica, respectivamente, a espécie eudicotiledônea e seus tecidos 1 e 2.
 
@@ -760,11 +715,10 @@ a) pelo livre-arbitrio dos individuos.
 b) pelos sentimentos proprios dos individuos e independem do meio social. 
 c) pelo direito e pelos costumes, que sao, por sua vez, definidos livremente pelos individuos. 
 d) pela周六 proria sociedade, que constitui uma realidade objetiva que exerce coercao sobre o individuo.
-
-# QUESTAO 49
+----
+## Questão 49
 
 ![](images/3737f8a0604ef6bf7ae0306e57881285c451f416973b8e6433f1b6ea45c11bc4.jpg)
-IMG_DESC_START : tipo=texto; resumo=Imagem com mensagem sobre racismo e democracia; elementos=[texto, forma geométrica]; dados_chave=[Texto 1]; grandezas=[]; estrutura=[]; texto_detectado=[Texto 1, ENQUANTO HOUVER RACISMO NÃO HAVERÁ DEMOCRACIA] IMG_DESC_END
 
 Manifesto de lancamento da "Coalizao Negra Por Direitos", reuniao de entidades e coletivos do movimento negro brasileiro, 2020.
 
@@ -780,8 +734,8 @@ b) podem ser tomados como conceitos relacionados, relativos à esfera do individ
 c) podem ser tomados como conceitos relacionados, proprios da esfera coletiva, e marcados por processos nao lineares de conquistas e perdas de direitos sociais.
 
 d) sao marcados por disputas sociais e históricas, e influenciam, de modo secundario, o exercicio da igualdade, especialmente para grupos como mulheres, negros e indigenas.
-
-# QUESTAO 50
+----
+## Questão 50
 
 As sociologas Patricia Hill Collins e Sirma Bilge procuram explicar as relacoes entre merito, oportunidade e desigualdades utilizando a metafora de um campo de futebol. Elas imaginam uma situacao na qual o campo seria um terreno levemente em declive, na qual o gol do Time 1 fica no topo e o do Time 2, na parte baixa. Quando o Time 1 tenta marcar um gol, a topografia do campo ajuda, o que nao ocorre com o Time 2, que pode ter talento e disciplina, mas sempre trava uma batalha morro acima para marcar um gol. No caso de uma partida de futebol, torcedores ficariam indignados se os campos de verdade fossem inclinados dessa maneira. No entanto, é isso que fazem as divisoes sociais de classe, genero e raca, ou seja, achamos que estamos jogando em igualdade de condicoes quando, na verdade, nao estamos.
 
@@ -793,8 +747,8 @@ a) divisoes sociais de classe, genero e raca permitem que todas as pessoas tenha
 b) condioes de competicao individual sao marcadas por divisoes de classe, genero e raca, e sao influenciadas pelo contexto social, politico e economico. 
 c) o merito e o esforco individual podem ser isolados das divisoes de classe, genero e raca e considerados como parame-tros justos para a dinamica da vida social. 
 d) divisoes de classe, genero e raca estao presentes na vida em sociedade e tem relacao marginal com o fenomeno da desigualdade.
-
-# QUESTAO 51
+----
+## Questão 51
 
 "A negacao da plena humanidade do Outro, o seu enclausura- mento em categorias que lhe sao estranhas, a afirmacao de sua incapacidade inata para o desenvolvimento e aperfeicoamento humano, a destitucao da sua capacidade de produzir cultura e civilizacao prestamase a afirmar uma razao racializada, que hegemoniza e naturaliza a superioridade europeia."
 
@@ -809,8 +763,8 @@ b) "É na brutalidade e na selvageria que vemos o homem africano, na medida em q
 c) "A nossa solução foi medfocre. Estragou as duas raças, fundindo-as. O negro perdeu as suas admiráveis qualidadefisicas de selvagem, e o branco sofreu a inevitável piora de carater, consequente a todos os cruzamentos entre raças dispares". (Personagem Miss Jane, do livro O Presidente Negro, de Monteiro Lobato. São Paulo: Editora Lafonte, p. 82, 2019.)
 
 d) "Na medida em que o racismo, enquanto discurso, se situa entre os discursos de exclusao, o grupo por ele excludo é tratado como objeto e não como sujeito." (Lelia Gonzales. Cultura, etnidade e trabalho: efeitos linguisticos e politicos da exploracao da mulher". In: RIOS, F.; LIMA, M. Por um feminismo afo-latino-americano. Sao Paulo: Zahar, p.43,2020. )
-
-# QUESTAO 52
+----
+## Questão 52
 
 # Excerto 1
 
@@ -829,10 +783,12 @@ b) diferentemente de Aristoteles, Epicuro defende que a felicidade consiste na r
 c) tanto Aristoteles quanto Epicuro - ainda que com concepccoes eticas distintas - entendem que nao ha uma identificacao imediata entre felicidade e prazer.
 
 d) Aristoteles e Epicuro concordam entre si e discordam daque les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela acao.
+----
+## Questão 53
+----
+## Questão 53
 
-# QUESTAO 53
-
-QUESTAO 53"Apesar de sua presumida evidencia, a articulacao entre liberidade e igualidade e mais complicada do que parece. Sua reuniao em um mesmo individuo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensoes significativas. Como, por exemplo, alguem poderia ser livre en, um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os individuos nao pudorem singularizar- se e diferenciar- se uns dos outros?" (FIGUEIREDO, V. A paisiao da igualdade: uma genealogia do individuo moral na Franca. Belo Horizonte: Relicario, p. 9, 2021. )
+"Apesar de sua presumida evidencia, a articulacao entre liberidade e igualidade e mais complicada do que parece. Sua reuniao em um mesmo individuo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensoes significativas. Como, por exemplo, alguem poderia ser livre en, um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os individuos nao pudorem singularizar- se e diferenciar- se uns dos outros?" (FIGUEIREDO, V. A paisiao da igualdade: uma genealogia do individuo moral na Franca. Belo Horizonte: Relicario, p. 9, 2021. )
 
 Escolha, dentre as alternativas a seguir, aquela que sintetiza melhor a ideia expressa na citação de Figueiredo:
 
@@ -840,8 +796,8 @@ a) A realizacao da liberdade e da igualdade independe da supressao de desigualda
 b) A articulacao entre liberdade e igualdade e um ideal que nao contrasta com regimes politicos antidemocraticos. 
 c) A articulacao entre liberdade e igualdade e complexa porque exige tanto a suppressao de desigualdades extremas quanto a possibilidade da afirmacao das diferencias individuais. 
 d) O desenvolvimento pleno do capitalismo e da livre concorrencia sao condigoes suficientes para a concretizacao da liberdade e da igualdade.
-
-# QUESTAO 54
+----
+## Questão 54
 
 Sr. Gauss tem uma pizzaria, chamada  $\pi$  - zzaria, que vende dois tipos de pizzas circulares: uma individual, de diametro d; e uma de  $20cm$  de diametro, partida em quatro pedacos iguais.
 
@@ -850,8 +806,8 @@ Considerando que o preco de uma pizza e proporcional a sua area, qual precisa se
 a) 6 cm. c) 10 cm. 
 b) 8 cm. 
 d) 12 cm.
-
-# QUESTAO 55
+----
+## Questão 55
 
 Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta e feita usando a seguinte regra:
 
@@ -861,8 +817,8 @@ Sabendo que neste final de semana Carol andou de patins, entao e necessariamente
 b) Ana nao andou de patins. 
 c) Bruna andou de patins. 
 d) Bruna nao andou de patins.
-
-# QUESTAO 56
+----
+## Questão 56
 
 Luisa estava conversando com seu irmao ao telefone quando passou perto de uma feira de adocao de animais. Ela comentou que, na feira, havia cachorros, gatos e pintinhos.
 
@@ -874,13 +830,12 @@ a) 4.
 c) 6. 
 b) 5. 
 d) 7.
-
-# QUESTÃO 57
+----
+## Questão 57
 
 Laura é geología e está fazendo pesquisa numa caverna cuja entrada tem o formato de uma parábola invertida. Essa entrada, no nível do chão, tem 2m de largura e seu ponto mais alto está a 2,5m do chão, conforme figura a seque.
 
 ![](images/c60e70b991f2bc81f171c5f78835375bb390fef5af898b59fae9bdaf3acff66b.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama mostrando duas situações de arco: um arco completo e um arco sobre uma caixa com altura desconhecida.; elementos=[arco, caixa]; dados_chave=[2m, 2.5m, 1m, ?]; grandezas=[(altura,2.5,m), (largura,2,m), (largura,1,m)]; estrutura=[(arco, centro), (caixa, centro)]; texto_detectado=[caixa] IMG_DESC_END
 
 Para realizar sua pesquisa, ela precisa entrar na caverna com um equipamento guardado em uma caixa de 1m de largura. Qual é a altura máxima, em metros, que a caixa pode ter para passar pela entrada da caverna?
 
@@ -888,8 +843,8 @@ a) 11/8.
 c) 15/8. 
 b) 13/8. 
 d) 17/8.
-
-# QUESTÃO 58
+----
+## Questão 58
 
 Joaquim estava brincando com um graveto, quando acertou uma parede e o graveto se partiu em trás pedaços, de comprimentos  $a,b,c,$  com  $a\leq b\leq c$  . Ele recolheu os pedaços e tentou construir um triangulo cujos lados seriam exatamente os pedaços do graveto: nao foi possivel. Sabendo que o graveto tinha  $50cm$  de comprimento e que  $b = a + 2$  qual é o maior valor possivel de  $a$
 
@@ -897,8 +852,8 @@ a)  $9,5cm$
 c)  $11,5cm$  
 b)  $10,5cm$  
 d)  $12,5cm$
-
-# QUESTÃO 59
+----
+## Questão 59
 
 Considere os conjuntos
 
@@ -908,8 +863,8 @@ a) 3.
 c) 7. 
 b) 5. 
 d) 9.
-
-# QUESTÃO 60
+----
+## Questão 60
 
 Terminado o almoço, Ana foi à cozinha para a escolha das so- bromesas. A garota estava decidida a pegar dois itens. Seu pai, preocupado com a alimentação dela, instruiu- a da seguinte forma: "Ecolha o que quiser, mas, se você pegar algum pirulito, pegue também alguma fruta". Na cozinha, minha 5 frutas diferentes, 3 pirulitos diferentes e 2 pedaços de bolos de sabores diferentes. De quantas formas Ana poderia escolher seus dois itens?
 
@@ -917,8 +872,8 @@ a) 34.
 c) 45. 
 b) 36. 
 d) 47.
-
-# QUESTÃO 61
+----
+## Questão 61
 
 João e Maria estão passando pela floresta. Para não se perderem no caminho, levaram consigo uma sacola com 100 pedrinas, sendo 60 pedrinas brancas e 40 pedrinas pretas. A cada 5 passos eles reiram aleatoriamente uma pedrinha da sacola e jogam- na no chão para marcar o caminho.
 
@@ -930,8 +885,8 @@ a) 7/13.
 c) 11/52. 
 b) 5/13. 
 d) 7/52.
-
-# QUESTÃO 62
+----
+## Questão 62
 
 Seja  $\rho (x) = x + 2024$  .A equação
 
@@ -945,13 +900,12 @@ a)  $x< -2$
 c)  $0< x< 2$  
 b)  $-2< x< 0$  
 d)  $x > 2$
-
-# QUESTÃO 63
+----
+## Questão 63
 
 Na figura a seguir, ABCD é um trapézio com  $AB = 1$  e  $CD = 5$  .Os pontos M e N são pontos médios de AB e BC, respectivamente.
 
 ![](images/a398a05fe22e252c09fbfa4bc769cbc14cdf502b99cbcc43dc52ff6f034ddcff.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama de um trapézio com uma área sombreada destacada. elementos=[trapézio, área sombreada, pontos A, B, C, D, M, N]; dados_chave=[]; grandezas=[]; estrutura=[(trapézio, A↔B↔C↔D), (área sombreada, M↔B↔N)]; texto_detectado=[A, B, C, D, M, N] IMG_DESC_END
 
 Sabendo que a área de MBN é 1, a área do trapézio é:
 
@@ -959,8 +913,8 @@ a) 18.
 c) 22. 
 b) 20. 
 d) 24.
-
-# QUESTÃO 64
+----
+## Questão 64
 
 Considere as funções  $f(x) = 2x + c$  e  $g(x) = 5 - 6x,$  com  $c > 0$  Sejam  $P$  e  $Q$  os pontos de interseção, com o eixo  $y,$  dos gráficos de  $y = f(g(x))$  e  $y = g(f(x))$  , respectivamente.
 
@@ -974,9 +928,8 @@ d) 4.
 No losango abaixo, qual é a medida do comprimento do seg
 
 ![](images/0113808b0ebb5a9584f75196907b52d7a2c1c0f378a8c21c3bd969bd6f87b2d8.jpg)
-IMG_DESC_START : tipo=diagrama; resumo=Diagrama geométrico com um quadrilátero e opções de resposta para o comprimento BE.; elementos=[quadrilátero, ângulo, linhas, ponto A, ponto B, ponto C, ponto D, ponto E, ponto F]; dados_chave=[60°, 2, 3, √26, √27, √28, √29]; grandezas=[]; estrutura=[(A↔B), (B↔C), (C↔D), (D↔A), (E↔D), (B↔F)]; texto_detectado=[BE?, a), b), c), d)] IMG_DESC_END
-
-# QUESTÃO 66
+----
+## Questão 66
 
 # Texto 1
 
@@ -987,7 +940,6 @@ I have a dream that one day down in Alabama, with its vicious racists, with its 
 # Texto 2
 
 ![](images/4c9065682f6ee36eac15ff305d3f5727313aac4332b6f1cfcb5c268a4d7e7a0a.jpg)
-IMG_DESC_START : tipo=foto; resumo=Imagem com mensagem contra o racismo anti-negro; elementos=[texto, fundo branco]; dados_chave=[fonte: https://www.toronto.ca/wp-content/uploads/2019/04/8f80-Anti-Black-Racism-Poster1.pdf]; grandezas=[]; estrutura=[]; texto_detectado=[QUICK, HIRE ONE, Anti-Black racism happens here, Let's confront it, Adaptado de, Acesso em 27/05/2023] IMG_DESC_END
 
 Considere os dois textos e assinale a alternativa correta.
 
@@ -995,8 +947,8 @@ a) O texto 2 apresenta uma consequencia social advinda do fato de que o "sonho" 
 b) Os textos 1 e 2 são complementares porque usam diferentes linguagens para ilustrar a natureza velada do racismo. 
 c) O texto 2 funciona como um indicio de que aquilo que se almejava em 1 ainda não se tornou realidade em todos os contextos. 
 d) Os textos 1 e 2 são contraditórios porque empregam diferentes recursos de linguagem para tratar do racismo.
-
-# QUESTÃO 67
+----
+## Questão 67
 
 Em uma visita a um museu de arte indigena, um estudante observou uma obra seguida de uma placa explicativa:
 
@@ -1007,9 +959,8 @@ In some indigenous cultures, headdresses represent Native peoples' right to gove
 Qual das imagens corresponde à descrição da placa?
 
 ![](images/515368c73faa9fef1b8f7eb962e6e4ab68a13f02be69f029cb8de5e9a182b54b.jpg)
-IMG_DESC_START : tipo=foto; resumo=Quatro imagens de artefatos culturais com diferentes estilos e materiais; elementos=[cabeça de cervo, máscara tribal, bolsa colorida, adorno com penas]; dados_chave=[a), b), c), d)]; grandezas=[]; estrutura=[(cervo, a); (bolsa, b); (máscara, c); (adorno, d)]; texto_detectado=[a), b), c), d)] IMG_DESC_END
-
-# QUESTÃO 68
+----
+## Questão 68
 
 O texto a seguir é parte de uma chamada para publicação de artigos em uma edição especial da revista Nature.
 
@@ -1023,8 +974,8 @@ a) Alternativas economicamente viaveis dentro da agricultura tradicional.
 b) Desafios éticos e ambientais da pecuária. 
 c) Sustentabilidade na pesquisa de novos protocolos para agricultura tradicional. 
 d) Agricultura celular de diversas fontes de proteína.
-
-# QUESTÃO 69
+----
+## Questão 69
 
 Em uma materia para um site, jornalistas fizeram interações com o ChatGPT a fim de analisar sua capacidade de criar textos possivelmente problemáticos. Para tanto, eles pediram que o programa de inteligencia artificial reescrevesse um e- mail que seria, hipoteticamente, usado como golpe. Eis o texto reescrito pelo ChatGPT:
 
@@ -1033,8 +984,8 @@ Em uma materia para um site, jornalistas fizeram interações com o ChatGPT a fi
 (Adaptado de: https://mashable.com/article/chatgpt- scan- uses. Acesso em 12/05/2023. )
 
 O e- mail criado pelo programa chama a atenção a) pelo uso de linguagem agressiva, pois se apoia em expressoes violentas para tentar extorquir o usuario. b) por reproduzir a sintaxe da comunicação humana a medida que recorre ao humor para acusar o usuario. c) pelo emprego de um tom sarcástico, pois se apoia em linguagem informal para ameaçar o usuário. d) por infringir questiones éticas, uma vez que informa ter tornado públicas informações privadas do usuário.
-
-# QUESTÃO 70
+----
+## Questão 70
 
 Netflix's "Wednesday" draws many real- world parallels. It features unusual creatures (werewolves and psychics) collectively referred to as Outcasts, while they refer to non- supernatural humans as Normies. The Outcasts are stand- ins for anyone othered by society, such as indigenous people, People of Color, the LGBT+, and the neurodivergent. Every so often, the Normies' distrust in the Outcasts boils over into hatred and violence, and the othering and dehumanization normalizes violence against the Outcasts in day- to- day life. In the show, the town's colonial era saw Outcasts not only being "othered", but also murdered by Pilgrims. These acts of butchery were all but erased from their history books. It's a distressingly familiar story. (Adaptado de: https://atibecalledgeek.com/woe- to- the- colonizer- an- indigenous- perspective- of- wednesday/. Acesso em 12/05/2023. )
 
@@ -1044,8 +995,8 @@ a) paralelos entre ficção e realidade para discutir como a existência de grup
 b) elementos fictícios presentes na série para aludir ao modo como a desumanização da alteridade é um processo histórico e violento. 
 c) fatos históricos para tracar a origem da exploração de povos indígenas e o modo como foram violentamente desumanizados na série. 
 d) comparações históricas sobre os conflitos entre colonizadores e peregrinos para criticar o modo como esse conflito é retratado na série.
-
-# QUESTÃO 71
+----
+## Questão 71
 
 "Guardians of the Galaxy Vol.3" does something few movies have ever done: it tells a compassionate story about testing on animals to a Marvel- size audience. The film features gorgeously animated animals who take moviegoers on an emotional rollercoaster while exposing the evils of animal testing. The strength of James Gunn's screenplay lies in the fact that it doesn't back away from the tough subject matter, and we're thrilled by a story about having empathy for all animals. For his compelling portrayal of Rocket and for reminding moviegoers that animals tortured in laboratories are not the numbers tattooed on them, PETA (People for the Ethical Treatment of Animals) is honoring Gunn with the "Not a Number" Award.
 
@@ -1057,8 +1008,8 @@ a) na coragem do roteiro em dar destaque à polêmica de experimentação em ani
 b) no ineditismo da abordagem do tema em produção de grande alcance, como os filmes da Marvel. 
 c) no retrato das emoções de animais usados em experimentos em laboratórios. 
 d) no impacto da abordagem do tema para órgãos de grande repercussão, como a PETA.
-
-# QUESTÃO 72
+----
+## Questão 72
 
 No trecho a seguir, observa- se o uso de uma variedade linguistica de inglês conhecida como African American Vernacular English (AAVE). Ainda que tão diversa e sofisticada quanto quaisquer outras variedades, a AAVE ainda é estigmatizada por ter características linguísticas diferentes daquelas que marcam a variedade de prestigio, isto é, a padrão.
 
@@ -1074,3 +1025,4 @@ a) (i) a repetição do verbo de ligação; (ii) corrupção e o sofri- mento in
 b) (i) a possibilidade de dupla negação; (ii) previsibilidade da vontade de Deus. 
 c) (i) a concordância verbal não padrão; (ii) ilusão do homem quanto à sua superioridade. 
 d) (i) a omissão de sujeito em orações; (ii) ganância do homem em se sobrepor a Deus.
+----
