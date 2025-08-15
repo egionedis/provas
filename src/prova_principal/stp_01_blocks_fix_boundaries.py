@@ -1,11 +1,11 @@
-#blocks_fix_boundaries.py
+#src/prova_principal/stp_01_blocks_fix_boundaries.py
 
 from __future__ import annotations
 from pathlib import Path
 import re
 
 # ====================== Question header detection (agnostic, PT-first) ======================
-# Accepts: "## Questão 8", "QUESTÃO 12", "# 01", "01 - ...", "1– ...", etc.
+
 WORD_PAT = re.compile(r'(?:QUEST[ÃA]O|QUESTO(?:E|Õ)S?)', re.I)
 
 def _parse_q_header(line: str):
@@ -38,10 +38,6 @@ def _parse_q_header(line: str):
 
 
 # ====================== Shared preamble detection (more phrasings, lists & ranges) ======================
-# We map preamble text to the listed question numbers/range and *repeat it* in each target block.
-
-# ====================== Shared preamble detection (more phrasings, lists & ranges) ======================
-# We map preamble text to the listed question numbers/range and *repeat it* in each target block.
 
 RANGE_SEP = re.compile(r'[-–—]|\b(?:até|a|e|to|hasta|y)\b', re.I)
 DIGITS    = re.compile(r'\d{1,4}')
@@ -237,7 +233,7 @@ def blocks_one(md_in: Path, md_out: Path):
 
         parts = [banner]
 
-        # >>> Place preamble ABOVE any question text <<<
+        #Place preamble ABOVE any question text
         if pre:
             parts += ["", pre]
 
@@ -266,9 +262,10 @@ def blocks_batch(base_dir: Path):
         if not test_folder.is_dir():
             continue
         md_in  = test_folder / "full.md"
-        md_out = test_folder / "full_blocks.md"
+        md_out = test_folder / "prova_principal" / "full_blocks.md"
         if md_in.exists():
             try:
+                md_out.parent.mkdir(parents=True, exist_ok=True)
                 blocks_one(md_in, md_out)
                 count += 1
             except Exception as e:
@@ -278,10 +275,8 @@ def blocks_batch(base_dir: Path):
     if count:
         print(f"[done] processed {count} folder(s)")
 
-
 # -------------------------- quick single-file helper --------------------------
 if __name__ == "__main__":
-    # Adjust these paths as needed
     md_in  = Path("/mnt/data/full.md")  
     md_out = Path("full_blocks.md")
     if md_in.exists():

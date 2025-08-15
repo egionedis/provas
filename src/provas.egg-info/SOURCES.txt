@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/llm_client/azure_client.py
+src/llm_client/llm_client.py
+src/prova_principal/__init__.py
+src/prova_principal/stp_01_blocks_fix_boundaries.py
+src/prova_principal/stp_02_blocks_fix_dedup.py
+src/prova_principal/stp_03_blocks_fix_missing.py
+src/prova_principal/stp_04_blocks_fix_audit.py
+src/prova_principal/stp_05_block_fix_llm.py
+src/prova_principal/stp_06_blocks_final_json.py
+src/provas.egg-info/PKG-INFO
+src/provas.egg-info/SOURCES.txt
+src/provas.egg-info/dependency_links.txt
+src/provas.egg-info/entry_points.txt
+src/provas.egg-info/requires.txt
+src/provas.egg-info/top_level.txt

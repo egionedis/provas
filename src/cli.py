@@ -1,4 +1,3 @@
-# src/cli.py
 from pathlib import Path
 import typer
 
@@ -13,8 +12,11 @@ def blocks_cmd(
     )
 ):
     """Split each exam's full.md into '----' blocks and attach shared preambles."""
-    from .prova_principal.blocks_fix_boundaries import blocks_batch
+    from prova_principal.stp_01_blocks_fix_boundaries import blocks_batch
     blocks_batch(base)
 
-if __name__ == "__main__":
+def main():
     app()
+
+if __name__ == "__main__":
+    main()

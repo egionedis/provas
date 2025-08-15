@@ -11,6 +11,8 @@ __pycache__/
 *.code-workspace
 .editorconfig
 
+
+src\provas.egg-info
 src/provas/export_json.py
 src/provas/ocr.py
 src/provas/schema.py

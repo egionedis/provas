@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "provas"
 version = "0.1.0"
@@ -20,17 +24,13 @@ dev = [
 ]
 
 [project.scripts]
-provas = "provas.cli:app"
+provas = "cli:main"
 
-[build-system]
-requires = ["setuptools>=70", "wheel"]
-build-backend = "setuptools.build_meta"
-
-# 🔧 Tell setuptools to use the src/ layout
+# src/ layout
 [tool.setuptools]
 package-dir = {"" = "src"}
 include-package-data = true
+py-modules = ["cli"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
-namespaces = false
